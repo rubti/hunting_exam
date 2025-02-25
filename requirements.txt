@@ -1,5 +1,6 @@
 langchain==0.2.6
 langchain-openai==0.1.11
-llmwhisperer-client==0.2.0
+llmwhisperer-client==2.0.0
 pydantic==2.7.4
 python-dotenv==1.0.1
+genanki==0.13.1

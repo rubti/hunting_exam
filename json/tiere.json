@@ -1,0 +1,8034 @@
+{
+  "questions": [
+    {
+      "question": "Welche der nachgenannten Wildarten verfärben bzw. mausern in Deutschland für den Winter weiß?",
+      "number": 1,
+      "answers": [
+        {
+          "text": "Hermelin",
+          "correct": true
+        },
+        {
+          "text": "Kaninchen",
+          "correct": false
+        },
+        {
+          "text": "Alpenschneehuhn",
+          "correct": true
+        },
+        {
+          "text": "Mauswiesel",
+          "correct": false
+        },
+        {
+          "text": "Feldhase",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten setzen, werfen oder brüten in der Regel öfter als einmal im Jahr?",
+      "number": 2,
+      "answers": [
+        {
+          "text": "Ringeltaube",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "text": "Feldhase",
+          "correct": true
+        },
+        {
+          "text": "Steinmarder",
+          "correct": false
+        },
+        {
+          "text": "Graureiher",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Tierarten können sich kreuzen?",
+      "number": 3,
+      "answers": [
+        {
+          "text": "Muffelwild mit Hausschafen",
+          "correct": true
+        },
+        {
+          "text": "Steinmarder mit Baummarder",
+          "correct": false
+        },
+        {
+          "text": "Birkwild mit Auerwild",
+          "correct": true
+        },
+        {
+          "text": "Rebhuhn mit Wachtel",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was ist eine autochthone Wildart?",
+      "number": 4,
+      "answers": [
+        {
+          "text": "eine ursprünglich einheimische Tierart",
+          "correct": true
+        },
+        {
+          "text": "eine später eingebürgerte Tierart",
+          "correct": false
+        },
+        {
+          "text": "eine vom Aussterben bedrohte Tierart",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten setzen in der Regel in Erdhöhlen?",
+      "number": 5,
+      "answers": [
+        {
+          "text": "Baummarder",
+          "correct": false
+        },
+        {
+          "text": "Fuchs",
+          "correct": true
+        },
+        {
+          "text": "Hase",
+          "correct": false
+        },
+        {
+          "text": "Dachs",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten ist ein echter Winterschläfer?",
+      "number": 6,
+      "answers": [
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Murmeltier",
+          "correct": true
+        },
+        {
+          "text": "Dachs",
+          "correct": false
+        },
+        {
+          "text": "Wildkaninchen",
+          "correct": false
+        },
+        {
+          "text": "Iltis",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten gehören zu den Nesthockern?",
+      "number": 7,
+      "answers": [
+        {
+          "text": "Feldhase",
+          "correct": false
+        },
+        {
+          "text": "Wildkaninchen",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "text": "Dachs",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Wildarten besiedeln häufig die Städte?",
+      "number": 8,
+      "answers": [
+        {
+          "text": "Fuchs",
+          "correct": true
+        },
+        {
+          "text": "Steinmarder",
+          "correct": true
+        },
+        {
+          "text": "Iltis",
+          "correct": false
+        },
+        {
+          "text": "Baummarder",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welchen der nachgenannten Wildarten fällt die Paarungszeit in die Monate Juli/August?",
+      "number": 9,
+      "answers": [
+        {
+          "text": "Iltis und Hermelin",
+          "correct": false
+        },
+        {
+          "text": "Baum-/ Steinmarder",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": true
+        },
+        {
+          "text": "Rotwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten haben eine Keimruhe (Eiruhe)?",
+      "number": 10,
+      "answers": [
+        {
+          "text": "Dachs und Baummarder",
+          "correct": true
+        },
+        {
+          "text": "Muffelwild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": true
+        },
+        {
+          "text": "Fuchs und Iltis",
+          "correct": false
+        },
+        {
+          "text": "Rotwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Tierarten werden behaart und sehend geboren?",
+      "number": 11,
+      "answers": [
+        {
+          "text": "Rehwild",
+          "correct": true
+        },
+        {
+          "text": "Wildkaninchen",
+          "correct": false
+        },
+        {
+          "text": "Baummarder",
+          "correct": false
+        },
+        {
+          "text": "Hasen",
+          "correct": true
+        },
+        {
+          "text": "Füchse",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Zu welchen der nachgenannten Aufgaben dienen Duftdrüsen beim Wild?",
+      "number": 12,
+      "answers": [
+        {
+          "text": "Reviermarkierung",
+          "correct": true
+        },
+        {
+          "text": "Anlocken der Beute",
+          "correct": false
+        },
+        {
+          "text": "Anlocken des Partners",
+          "correct": true
+        },
+        {
+          "text": "Schutz vor Parasiten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Haarwildarten lassen als Lautäußerung ein Pfeifen hören?",
+      "number": 13,
+      "answers": [
+        {
+          "text": "Dachs",
+          "correct": false
+        },
+        {
+          "text": "Wildkaninchen",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Murmeltier",
+          "correct": true
+        },
+        {
+          "text": "Rotwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welchen der nachgenannten Wildarten fällt die Paarungszeit in die Wintermonate?",
+      "number": 14,
+      "answers": [
+        {
+          "text": "Steinmarder",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild",
+          "correct": true
+        },
+        {
+          "text": "Fuchs",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten nehmen Suhlen an?",
+      "number": 15,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": true
+        },
+        {
+          "text": "Schwarzwild",
+          "correct": true
+        },
+        {
+          "text": "Gamswild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "An welchem der nachgenannten Merkmale unterscheidet sich der Schalenabdruck eines Stückes Rotwild von dem des Schwarzwildes am deutlichsten?",
+      "number": 16,
+      "answers": [
+        {
+          "text": "Abdruck des Geäfters",
+          "correct": true
+        },
+        {
+          "text": "Länge",
+          "correct": false
+        },
+        {
+          "text": "Breite",
+          "correct": false
+        },
+        {
+          "text": "Tiefe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen sind richtig?",
+      "number": 17,
+      "answers": [
+        {
+          "text": "Schwarzwild ist ein Wiederkäuer",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild gehört zu der Familie der Hornträger (Boviden)",
+          "correct": true
+        },
+        {
+          "text": "Gamswild gehört zu der Familie der Geweihträger (Cerviden)",
+          "correct": false
+        },
+        {
+          "text": "Rotwild ist kein Wiederkäuer",
+          "correct": false
+        },
+        {
+          "text": "Rotwild gehört zu der Familie der Hornträger (Boviden)",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild ist ein Wiederkäuer",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Rotwild unterscheidet sich in seinem Äsungsverhalten vom Rehwild. Welche der nachgenannten Aussagen sind richtig?",
+      "number": 18,
+      "answers": [
+        {
+          "text": "Rotwild äst vorwiegend wählerisch (selektierend)",
+          "correct": false
+        },
+        {
+          "text": "Rotwild äst wenig wählerisch",
+          "correct": true
+        },
+        {
+          "text": "Rehwild äst vorwiegend wählerisch (selektierend)",
+          "correct": true
+        },
+        {
+          "text": "Rehwild äst wenig wählerisch",
+          "correct": false
+        },
+        {
+          "text": "Rehwild schält auch Baumrinde ab und nimmt sie auf",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Haarwildarten haben im Oberkiefer keine Schneidezähne?",
+      "number": 19,
+      "answers": [
+        {
+          "text": "Schwarzwild",
+          "correct": false
+        },
+        {
+          "text": "Rotwild",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": true
+        },
+        {
+          "text": "Hase",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Aus welchen der nachgenannten Mägen ist ein Wiederkäuermagen zusammengesetzt?",
+      "number": 20,
+      "answers": [
+        {
+          "text": "Pansen und Netzmagen",
+          "correct": true
+        },
+        {
+          "text": "Galle",
+          "correct": false
+        },
+        {
+          "text": "Blättermagen und Labmagen",
+          "correct": true
+        },
+        {
+          "text": "Kropf",
+          "correct": false
+        },
+        {
+          "text": "Zwölffingerdarm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welchen der nachgenannten Schalenwildarten trägt auch das weibliche Tier einen Kopfschmuck?",
+      "number": 21,
+      "answers": [
+        {
+          "text": "Gamswild",
+          "correct": true
+        },
+        {
+          "text": "Steinwild",
+          "correct": true
+        },
+        {
+          "text": "Rotwild",
+          "correct": false
+        },
+        {
+          "text": "Damwild",
+          "correct": false
+        },
+        {
+          "text": "Sikawild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Schalenwildarten werfen ihren Kopfschmuck nicht ab?",
+      "number": 22,
+      "answers": [
+        {
+          "text": "Gamswild",
+          "correct": true
+        },
+        {
+          "text": "Sikawild",
+          "correct": false
+        },
+        {
+          "text": "Elchwild",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Wildtierarten gehört zu den Wiederkäuern?",
+      "number": 23,
+      "answers": [
+        {
+          "text": "Dachs",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welches Kriterium spielt bei der Altersschätzung des wiederkäuenden Schalenwildes an Hand des Unterkiefers keine Rolle?",
+      "number": 24,
+      "answers": [
+        {
+          "text": "Dentinfarbe",
+          "correct": false
+        },
+        {
+          "text": "Abnutzungsgrad",
+          "correct": false
+        },
+        {
+          "text": "Länge der Zahnwurzel",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Schalenwildart erlaubt die Trophäe eine sichere Altersschätzung?",
+      "number": 25,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Verhaltensweisen treffen auf Rotwild zu?",
+      "number": 26,
+      "answers": [
+        {
+          "text": "Territorial",
+          "correct": false
+        },
+        {
+          "text": "Gruppenbildung",
+          "correct": true
+        },
+        {
+          "text": "Weite Wanderungen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Äsungsverhalten sind typisch für Rotwild?",
+      "number": 27,
+      "answers": [
+        {
+          "text": "Naschhaft, wählerisch",
+          "correct": false
+        },
+        {
+          "text": "Flächiges Abäsen",
+          "correct": true
+        },
+        {
+          "text": "Schälen von Bäumen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie viel Kälber setzt das Alttier des Rotwildes in den Rotwildvorkommen Niedersachsens gewöhnlich?",
+      "number": 28,
+      "answers": [
+        {
+          "text": "1 Kalb",
+          "correct": true
+        },
+        {
+          "text": "2 Kälber",
+          "correct": false
+        },
+        {
+          "text": "3 Kälber",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie lange dauert die Brunft beim Rotwild?",
+      "number": 29,
+      "answers": [
+        {
+          "text": "1 Woche",
+          "correct": false
+        },
+        {
+          "text": "2 bis 4 Wochen",
+          "correct": true
+        },
+        {
+          "text": "8 bis 10 Wochen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Womit verteidigt sich ein weibliches Stück Rotwild?",
+      "number": 30,
+      "answers": [
+        {
+          "text": "Mit den Vorderläufen",
+          "correct": true
+        },
+        {
+          "text": "Mit den Hinterläufen",
+          "correct": false
+        },
+        {
+          "text": "mit dem Geweih",
+          "correct": false
+        },
+        {
+          "text": "mit dem Gebiss",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo sitzen beim Rotwild die Grandeln?",
+      "number": 31,
+      "answers": [
+        {
+          "text": "Im Oberkiefer",
+          "correct": true
+        },
+        {
+          "text": "Im Unterkiefer",
+          "correct": false
+        },
+        {
+          "text": "Rotwild besitzt keine Grandeln",
+          "correct": false
+        },
+        {
+          "text": "Im Ober- und Unterkiefer",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann wirft der mittelalte Rothirsch in der Regel sein Geweih ab?",
+      "number": 32,
+      "answers": [
+        {
+          "text": "Vorwiegend Januar",
+          "correct": false
+        },
+        {
+          "text": "Februar/März",
+          "correct": true
+        },
+        {
+          "text": "April/Mai",
+          "correct": false
+        },
+        {
+          "text": "Oktober",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Lautäußerungen kommen beim Rotwild vor?",
+      "number": 33,
+      "answers": [
+        {
+          "text": "Schrecken",
+          "correct": true
+        },
+        {
+          "text": "Blasen",
+          "correct": false
+        },
+        {
+          "text": "Mahnen",
+          "correct": true
+        },
+        {
+          "text": "Fiepen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann brunftet in Niedersachsen hauptsächlich das Rotwild?",
+      "number": 34,
+      "answers": [
+        {
+          "text": "Mitte Juli bis Mitte August",
+          "correct": false
+        },
+        {
+          "text": "Mitte September bis Mitte Oktober",
+          "correct": true
+        },
+        {
+          "text": "Mitte November bis Mitte Dezember",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welcher der nachgenannten Monate liegt in der Zeit des Wechsels vom Sommerhaar zum Winterhaar des Rotwildes?",
+      "number": 35,
+      "answers": [
+        {
+          "text": "August",
+          "correct": false
+        },
+        {
+          "text": "Oktober",
+          "correct": true
+        },
+        {
+          "text": "Dezember",
+          "correct": false
+        },
+        {
+          "text": "April",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wer führt in der Regel ein Rotwildrudel, bestehend aus Alttieren, Schmaltieren, Kälbern und geringen Hirschen an?",
+      "number": 36,
+      "answers": [
+        {
+          "text": "Ein nicht führendes Alttier",
+          "correct": false
+        },
+        {
+          "text": "Ein führendes Alttier",
+          "correct": true
+        },
+        {
+          "text": "Ein Hirsch",
+          "correct": false
+        },
+        {
+          "text": "Ein Schmaltier",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchen Monaten befindet sich das Rotwild in der so genannten Feistzeit?",
+      "number": 37,
+      "answers": [
+        {
+          "text": "Mai/Juni",
+          "correct": false
+        },
+        {
+          "text": "Juli/August",
+          "correct": true
+        },
+        {
+          "text": "Oktober/November",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Nach wie viel Monaten ist in der Regel der Zahnwechsel beim gesunden Rotwild beendet?",
+      "number": 38,
+      "answers": [
+        {
+          "text": "Nach etwa 13 bis 15 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Nach etwa 17 bis 19 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Nach etwa 28 bis 30 Monaten",
+          "correct": true
+        },
+        {
+          "text": "Nach etwa 36 bis 38 Monaten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sie haben ein Alttier erlegt und sollen sich die Haken (Grandeln) herausnehmen. Wo befinden sich diese?",
+      "number": 39,
+      "answers": [
+        {
+          "text": "im Unterkiefer vor den Backenzähnen",
+          "correct": false
+        },
+        {
+          "text": "im Unterkiefer zwischen den Schneidezähnen",
+          "correct": false
+        },
+        {
+          "text": "im Oberkiefer vor den Backenzähnen",
+          "correct": true
+        },
+        {
+          "text": "Rot-Alttiere besitzen keine Grandeln",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche nachgenannten Verhaltensweisen oder Merkmale sind für einen alten Hirsch der freien Wildbahn typisch?",
+      "number": 40,
+      "answers": [
+        {
+          "text": "Vertraut",
+          "correct": false
+        },
+        {
+          "text": "Heimlich, vorsichtig",
+          "correct": true
+        },
+        {
+          "text": "Starker, kurzer Träger, starker Widerrist",
+          "correct": true
+        },
+        {
+          "text": "Langer, schmaler Träger, ohne erkennbaren Widerrist",
+          "correct": false
+        },
+        {
+          "text": "doppelseitiger Kronenhirsch",
+          "correct": false
+        },
+        {
+          "text": "Zwölfergeweih",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann ist der Rothirsch in freier Wildbahn in der Regel frühestens ausgewachsen?",
+      "number": 41,
+      "answers": [
+        {
+          "text": "Mit ca. 3 Jahren",
+          "correct": false
+        },
+        {
+          "text": "Mit ca. 6 Jahren",
+          "correct": true
+        },
+        {
+          "text": "Mit ca. 10 Jahren",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann beginnt der mittelalte Rothirsch sein Geweih zu schieben?",
+      "number": 42,
+      "answers": [
+        {
+          "text": "Januar",
+          "correct": false
+        },
+        {
+          "text": "März",
+          "correct": true
+        },
+        {
+          "text": "Mai",
+          "correct": false
+        },
+        {
+          "text": "Oktober",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem der nachgenannten Monate hat ein alter Rothirsch sein Geweih gewöhnlich fertig verschlagen (verfegt)?",
+      "number": 43,
+      "answers": [
+        {
+          "text": "Juni",
+          "correct": false
+        },
+        {
+          "text": "August",
+          "correct": true
+        },
+        {
+          "text": "Oktober",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wirft zuerst der alte oder der junge Rothirsch ab?",
+      "number": 44,
+      "answers": [
+        {
+          "text": "Der alte Rothirsch",
+          "correct": true
+        },
+        {
+          "text": "Der junge Rothirsch",
+          "correct": false
+        },
+        {
+          "text": "Es gibt keine Unterscheidung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Gibt es beim Hirschkalb des Rotwildes ähnlich wie beim Bockkitz des Rehwildes ein Erstlingsgeweih, welches noch im ersten Lebensjahr abgeworfen werden kann?",
+      "number": 45,
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ab dem wievielten Kopf hat ein Rothirschgeweih Rosen?",
+      "number": 46,
+      "answers": [
+        {
+          "text": "Ab dem 1. Kopf",
+          "correct": false
+        },
+        {
+          "text": "Ab dem 2. Kopf",
+          "correct": true
+        },
+        {
+          "text": "Ab dem 3. Kopf",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem Alter erreicht der heimische Rothirsch in der freien Wildbahn gewöhnlich sein stärkstes Geweih?",
+      "number": 47,
+      "answers": [
+        {
+          "text": "Mit 6 bis 8 Jahren",
+          "correct": false
+        },
+        {
+          "text": "Mit 10 bis 14 Jahren",
+          "correct": true
+        },
+        {
+          "text": "Mit 15 bis 18 Jahren",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann beginnt der Rothirsch sein erstes Geweih zu schieben?",
+      "number": 48,
+      "answers": [
+        {
+          "text": "Im Herbst des Geburtsjahres",
+          "correct": false
+        },
+        {
+          "text": "Im Frühjahr des auf die Geburt folgenden Jahres",
+          "correct": true
+        },
+        {
+          "text": "Im Sommer des auf die Geburt folgenden Jahres",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Monate liegen zwischen dem Abwerfen des alten bis zum Fegen des neuen Geweihs beim Rothirsch?",
+      "number": 49,
+      "answers": [
+        {
+          "text": "Etwa 3 Monate",
+          "correct": false
+        },
+        {
+          "text": "Etwa 5 Monate",
+          "correct": true
+        },
+        {
+          "text": "Etwa 8 Monate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie sieht der vierte Prämolar (P4) beim Rotwild im Milchgebiss aus?",
+      "number": 50,
+      "answers": [
+        {
+          "text": "dreiteilig",
+          "correct": true
+        },
+        {
+          "text": "einteilig",
+          "correct": false
+        },
+        {
+          "text": "zweiteilig",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Liegt die Feistzeit beim Rothirsch",
+      "number": 51,
+      "answers": [
+        {
+          "text": "im Frühling",
+          "correct": false
+        },
+        {
+          "text": "im Sommer",
+          "correct": true
+        },
+        {
+          "text": "im Herbst",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Stücke sollen beim Abschuss des weiblichen Rotwildes nicht geschossen werden?",
+      "number": 52,
+      "answers": [
+        {
+          "text": "Gelttiere",
+          "correct": false
+        },
+        {
+          "text": "Leittiere",
+          "correct": true
+        },
+        {
+          "text": "Schmaltiere",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann hat ein Rothirsch das Reifealter erreicht?",
+      "number": 53,
+      "answers": [
+        {
+          "text": "5 bis 6 Jahre",
+          "correct": false
+        },
+        {
+          "text": "7 bis 9 Jahre",
+          "correct": false
+        },
+        {
+          "text": "ab 10 Jahre",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Enden müssen im oberen Teil der Stange beim Rothirsch mindestens vorhanden sein, wenn man von einer Krone spricht?",
+      "number": 54,
+      "answers": [
+        {
+          "text": "zwei Enden",
+          "correct": false
+        },
+        {
+          "text": "drei Enden",
+          "correct": true
+        },
+        {
+          "text": "vier Enden",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann ist bei einem Rothirschkalb in der Regel eine Rosenstockerhebung erkennbar?",
+      "number": 55,
+      "answers": [
+        {
+          "text": "mit 3 Monaten",
+          "correct": false
+        },
+        {
+          "text": "mit 7 Monaten",
+          "correct": false
+        },
+        {
+          "text": "mit 10 Monaten",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welches Geweih schiebt ein Rothirsch in der Regel im 3. Lebensjahr?",
+      "number": 56,
+      "answers": [
+        {
+          "text": "ein Spießergeweih",
+          "correct": false
+        },
+        {
+          "text": "ein Sechser- oder Achtergeweih",
+          "correct": true
+        },
+        {
+          "text": "ein geringes Kronengeweih",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was versteht man unter dem Beitritt?",
+      "number": 57,
+      "answers": [
+        {
+          "text": "ein Fährtenzeichen beim Rothirsch",
+          "correct": true
+        },
+        {
+          "text": "die Annäherung eines Beihirsches zum Brunftrudel",
+          "correct": false
+        },
+        {
+          "text": "den Deckakt beim Schalenwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Schalenwildart hat das männliche Geschlecht zumeist eine Mähne?",
+      "number": 58,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": true
+        },
+        {
+          "text": "Damwild",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Enden muss ein ungerader 14-Ender-Hirsch an einer Stange mindestens haben?",
+      "number": 59,
+      "answers": [
+        {
+          "text": "5 Enden",
+          "correct": false
+        },
+        {
+          "text": "7 Enden",
+          "correct": true
+        },
+        {
+          "text": "14 Enden",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann brunftet das Damwild?",
+      "number": 60,
+      "answers": [
+        {
+          "text": "Juli/August",
+          "correct": false
+        },
+        {
+          "text": "September/Oktober",
+          "correct": false
+        },
+        {
+          "text": "Oktober/November",
+          "correct": true
+        },
+        {
+          "text": "Dezember/Januar",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem der nachgenannten Monate wirft der Damschaufler sein Geweih ab?",
+      "number": 61,
+      "answers": [
+        {
+          "text": "Februar/März",
+          "correct": false
+        },
+        {
+          "text": "April/Mai",
+          "correct": true
+        },
+        {
+          "text": "Juli/August",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem der nachgenannten Monate hat ein 7-jähriger Damschaufler sein Geweih gewöhnlich fertig verschlagen (verfegt)?",
+      "number": 62,
+      "answers": [
+        {
+          "text": "Mai",
+          "correct": false
+        },
+        {
+          "text": "Juli",
+          "correct": false
+        },
+        {
+          "text": "September",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welcher der nachgenannten Lebensräume ist für das Damwild am besten geeignet?",
+      "number": 63,
+      "answers": [
+        {
+          "text": "Große geschlossene Nadelwaldungen im Mittelgebirge",
+          "correct": false
+        },
+        {
+          "text": "Großflächiges Wiesen- und Ackerland mit Hecken, Sträuchern und kleineren Feldgehölzen",
+          "correct": false
+        },
+        {
+          "text": "Mischwaldungen in Gemengelagen mit Feld- und Wiesenflächen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildtiere schlägt Brunftkuhlen?",
+      "number": 64,
+      "answers": [
+        {
+          "text": "Rothirsch",
+          "correct": false
+        },
+        {
+          "text": "Rehbock",
+          "correct": false
+        },
+        {
+          "text": "Damschaufler",
+          "correct": true
+        },
+        {
+          "text": "Keiler",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie wird der Hirsch in der Zeit bezeichnet, in der er das Geweih schiebt?",
+      "number": 65,
+      "answers": [
+        {
+          "text": "Zukunftshirsch",
+          "correct": false
+        },
+        {
+          "text": "Feisthirsch",
+          "correct": false
+        },
+        {
+          "text": "Kolbenhirsch",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Auf wie viele Monate beläuft sich beim Damwild in der Regel die Tragzeit?",
+      "number": 66,
+      "answers": [
+        {
+          "text": "auf ca. 6 Monate",
+          "correct": false
+        },
+        {
+          "text": "auf ca. 7 1/2 Monate",
+          "correct": true
+        },
+        {
+          "text": "auf ca. 10 Monate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welchen Lebensraum bevorzugt Damwild?",
+      "number": 67,
+      "answers": [
+        {
+          "text": "Moore und Moorrandbereiche",
+          "correct": false
+        },
+        {
+          "text": "geschlossene Nadelwälder",
+          "correct": false
+        },
+        {
+          "text": "parkähnliche Landschaft mit Feldgehölzen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wann fegt der ältere Damhirsch sein Geweih?",
+      "number": 68,
+      "answers": [
+        {
+          "text": "März/April",
+          "correct": false
+        },
+        {
+          "text": "Mai/Juni",
+          "correct": false
+        },
+        {
+          "text": "August/September",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Schalenwildart fällt die Hauptpaarungszeit in den Monat Oktober?",
+      "number": 69,
+      "answers": [
+        {
+          "text": "Schwarzwild",
+          "correct": false
+        },
+        {
+          "text": "Damwild",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Zu welcher Zeit werfen die Damhirsche ihr Geweih ab?",
+      "number": 70,
+      "answers": [
+        {
+          "text": "Januar/Februar",
+          "correct": false
+        },
+        {
+          "text": "April/Mai",
+          "correct": true
+        },
+        {
+          "text": "Juni/Juli",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem Lebensjahr ist beim gut veranlagten Damhirsch in der Regel die Schaufelbildung gegeben?",
+      "number": 71,
+      "answers": [
+        {
+          "text": "im 1. Lebensjahr",
+          "correct": false
+        },
+        {
+          "text": "im 3. Lebensjahr",
+          "correct": true
+        },
+        {
+          "text": "im 5. Lebensjahr",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann tritt beim wildfarbenen Damwild die Tüpfelung auf der Decke besonders in Erscheinung?",
+      "number": 72,
+      "answers": [
+        {
+          "text": "in der Sommerdecke",
+          "correct": true
+        },
+        {
+          "text": "in der Winterdecke",
+          "correct": false
+        },
+        {
+          "text": "während des Haarwechsels",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Reihenfolge der Damhirsch-Geweihstufen ist in Bezug auf ihr Wachstum richtig?",
+      "number": 73,
+      "answers": [
+        {
+          "text": "Knieper - Vollschaufler - Spießer - Halbschaufler - Löffler",
+          "correct": false
+        },
+        {
+          "text": "Knieper - Spießer - Halbschaufler - Vollschaufler - Löffler",
+          "correct": false
+        },
+        {
+          "text": "Knieper - Spießer - Löffler - Halbschaufler - Vollschaufler",
+          "correct": false
+        },
+        {
+          "text": "Löffler - Spießer - Knieper - Halbschaufler - Vollschaufler",
+          "correct": false
+        },
+        {
+          "text": "Spießer - Knieper - Löffler - Halbschaufler - Vollschaufler",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Was ist ein Knieper?",
+      "number": 74,
+      "answers": [
+        {
+          "text": "ein Damhirsch vom 1. Kopf",
+          "correct": false
+        },
+        {
+          "text": "ein Damhirsch vom 2. Kopf",
+          "correct": true
+        },
+        {
+          "text": "ein Damhirsch vom 3. bis 4. Kopf",
+          "correct": false
+        },
+        {
+          "text": "ein Damhirsch ab dem 4. Kopf",
+          "correct": false
+        },
+        {
+          "text": "ein Damhirsch, der während der Brunft andere Damhirsche beißt (kniept)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Äsung bevorzugt das Damwild?",
+      "number": 75,
+      "answers": [
+        {
+          "text": "Gras und Kräuteräsung",
+          "correct": true
+        },
+        {
+          "text": "Spiegelrinde",
+          "correct": false
+        },
+        {
+          "text": "Zweige und Knospen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welches aufgebrochene Durchschnittsgewicht erreicht ein reifer Damhirsch?",
+      "number": 76,
+      "answers": [
+        {
+          "text": "40-50 kg",
+          "correct": false
+        },
+        {
+          "text": "55-65 kg",
+          "correct": true
+        },
+        {
+          "text": "70-80 kg",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welches Merkmal ist für die Veranlagung eines Damspießers von Bedeutung?",
+      "number": 77,
+      "answers": [
+        {
+          "text": "Spießlänge",
+          "correct": false
+        },
+        {
+          "text": "Höhe des sichtbaren Drosselknopfes an der Unterseite des Trägers",
+          "correct": false
+        },
+        {
+          "text": "kolbenartige Verdickung oberhalb der Rosenstöcke und Körpermasse",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Was hat Einfluss auf die Zahl der Ricken, die in einem Rehbockrevier stehen?",
+      "number": 78,
+      "answers": [
+        {
+          "text": "Die Attraktivität des Rehbockes",
+          "correct": false
+        },
+        {
+          "text": "Die Qualität des Lebensraums als Setzplatz",
+          "correct": true
+        },
+        {
+          "text": "Die Höhenlage",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Verhaltensweisen treffen im Sommer auf Rehwild zu?",
+      "number": 79,
+      "answers": [
+        {
+          "text": "Territorial",
+          "correct": true
+        },
+        {
+          "text": "Einzelgängerisch",
+          "correct": true
+        },
+        {
+          "text": "Gruppenbildung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Äsung bevorzugt das Rehwild?",
+      "number": 80,
+      "answers": [
+        {
+          "text": "Energiereiche Äsung",
+          "correct": true
+        },
+        {
+          "text": "Leichtverdauliche Äsung",
+          "correct": true
+        },
+        {
+          "text": "Viel Rohfaser in der Äsung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Warum verteidigt das Rehwild sein Revier?",
+      "number": 81,
+      "answers": [
+        {
+          "text": "Da es als Konzentratselektierer durch innerartliche Konkurrenz benachteiligt würde",
+          "correct": true
+        },
+        {
+          "text": "Da es einen hohen Raumbedarf hat",
+          "correct": false
+        },
+        {
+          "text": "Um ungestört wiederkäuen zu können",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Woran erkennt man neben den Fahrten das Vorkommen von Rehwild?",
+      "number": 82,
+      "answers": [
+        {
+          "text": "Suhlen",
+          "correct": false
+        },
+        {
+          "text": "Losung",
+          "correct": true
+        },
+        {
+          "text": "Plätzstellen",
+          "correct": true
+        },
+        {
+          "text": "Mahlbäume",
+          "correct": false
+        },
+        {
+          "text": "Himmelszeichen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten haben keinen Muffelfleck?",
+      "number": 83,
+      "answers": [
+        {
+          "text": "Gamswild",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "text": "Damwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In welche Monatswende fällt die Blattzeit des Rehwildes?",
+      "number": 84,
+      "answers": [
+        {
+          "text": "April/Mai",
+          "correct": false
+        },
+        {
+          "text": "Juli/August",
+          "correct": true
+        },
+        {
+          "text": "August/September",
+          "correct": false
+        },
+        {
+          "text": "September/Oktober",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann geht die Keimruhe (Eiruhe) beim Rehwild zu Ende?",
+      "number": 85,
+      "answers": [
+        {
+          "text": "Im Oktober",
+          "correct": false
+        },
+        {
+          "text": "Im Dezember",
+          "correct": true
+        },
+        {
+          "text": "Im Februar",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ab welchem Lebensalter nimmt das weibliche Rehwild am Brunftgeschehen teil?",
+      "number": 86,
+      "answers": [
+        {
+          "text": "Im 14. Lebensmonat",
+          "correct": true
+        },
+        {
+          "text": "Im 18. Lebensmonat",
+          "correct": false
+        },
+        {
+          "text": "Im 22. Lebensmonat",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "An welchen der nachgenannten Körperstellen hat der Rehbock Duftdrüsen, mit denen er Fährtenwitterung hinterlässt oder seinen Einstand markiert?",
+      "number": 87,
+      "answers": [
+        {
+          "text": "Am Spiegel",
+          "correct": false
+        },
+        {
+          "text": "An der Brust zwischen den Vorderläufen (Stich)",
+          "correct": false
+        },
+        {
+          "text": "An den Hinterläufen",
+          "correct": true
+        },
+        {
+          "text": "Unter der Stirnlocke",
+          "correct": true
+        },
+        {
+          "text": "Am Weidloch",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welcher Zeitraum kommt für das Setzen des Rehwildes hauptsächlich in Frage?",
+      "number": 88,
+      "answers": [
+        {
+          "text": "April",
+          "correct": false
+        },
+        {
+          "text": "Mai",
+          "correct": true
+        },
+        {
+          "text": "Juni",
+          "correct": true
+        },
+        {
+          "text": "Juli",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Rehkitze werden überwiegend im Mai gesetzt. Wie lange werden sie normalerweise gesäugt?",
+      "number": 89,
+      "answers": [
+        {
+          "text": "3 bis 5 Monate",
+          "correct": false
+        },
+        {
+          "text": "6 bis 7 Monate",
+          "correct": true
+        },
+        {
+          "text": "8 bis 10 Monate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ende Juni beobachten Sie einen jungen Bock mit einem weiblichen Reh. Welche der nachgenannten Aussagen trifft mit großer Wahrscheinlichkeit zu?",
+      "number": 90,
+      "answers": [
+        {
+          "text": "Jährlingsbock mit Schmalreh",
+          "correct": true
+        },
+        {
+          "text": "Junger Bock treibt eine Ricke",
+          "correct": false
+        },
+        {
+          "text": "Jährlingsbock mit seiner Mutter",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Zähne sind beim Rehwild in der Regel im Dauergebiss vorhanden?",
+      "number": 91,
+      "answers": [
+        {
+          "text": "28 Zähne",
+          "correct": false
+        },
+        {
+          "text": "32 Zähne",
+          "correct": true
+        },
+        {
+          "text": "34 Zähne",
+          "correct": false
+        },
+        {
+          "text": "44 Zähne",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann ist der Zahnwechsel beim Rehwild in der Regel beendet?",
+      "number": 92,
+      "answers": [
+        {
+          "text": "Bei einem Alter von etwa 8 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Bei einem Alter von etwa 14 Monaten",
+          "correct": true
+        },
+        {
+          "text": "Bei einem Alter von etwa 18 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Bei einem Alter von etwa 24 Monaten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Das Verfärben und Verfegen lassen im Frühjahr auf das Alter eines gesunden Rehbocks schließen. Welche Aussagen sind richtig?",
+      "number": 93,
+      "answers": [
+        {
+          "text": "Es verfärbt früher der einjährige Bock",
+          "correct": true
+        },
+        {
+          "text": "Es verfärbt früher der ältere Bock",
+          "correct": false
+        },
+        {
+          "text": "Es verfegt früher der junge Bock",
+          "correct": false
+        },
+        {
+          "text": "Es verfegt früher der alte Bock",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Am 5. Oktober beobachten Sie eine rote Ricke mit einem schwachen Kitz. Welchen Schluss ziehen Sie daraus?",
+      "number": 94,
+      "answers": [
+        {
+          "text": "Es handelt sich um eine gesunde, junge Ricke mit spät gesetztem Kitz",
+          "correct": false
+        },
+        {
+          "text": "Es handelt sich um eine sehr alte Ricke mit spät gesetztem Kitz",
+          "correct": true
+        },
+        {
+          "text": "Es handelt sich um ein Adoptivkitz, dessen leibliche Ricke verendet ist",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Anfang Oktober stehen zwei gesunde Rehböcke zusammen; der eine ist grau, der andere rot. Welcher ist in der Regel der ältere?",
+      "number": 95,
+      "answers": [
+        {
+          "text": "Der rote Bock",
+          "correct": true
+        },
+        {
+          "text": "Der graue Bock",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann hat das gesunde Schmalreh voll verfärbt?",
+      "number": 96,
+      "answers": [
+        {
+          "text": "April",
+          "correct": false
+        },
+        {
+          "text": "Juni",
+          "correct": true
+        },
+        {
+          "text": "August",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann hat der gesunde Jährlingsspießer des Rehwildes gewöhnlich vom Winter- zum Sommerhaar fertig verfärbt?",
+      "number": 97,
+      "answers": [
+        {
+          "text": "April",
+          "correct": false
+        },
+        {
+          "text": "Juni",
+          "correct": true
+        },
+        {
+          "text": "August",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was ist vor allem für die Stärke des Geweihs (Gehörn) eines Rehbocks verantwortlich?",
+      "number": 98,
+      "answers": [
+        {
+          "text": "Seine Erbanlagen",
+          "correct": false
+        },
+        {
+          "text": "Seine Ernährung während des Geweihwachstums",
+          "correct": true
+        },
+        {
+          "text": "Die Größe seines Reviers",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Im November beobachten Sie zwei männliche, nahezu gleich starke Rehe. Das eine hat nicht verfegte und das andere verfegte kleine Spieße. Welches der beiden Rehe ist das im gleichen Jahr gesetzte Bockkitz?",
+      "number": 99,
+      "answers": [
+        {
+          "text": "Das männliche Reh mit verfegten Spießen",
+          "correct": false
+        },
+        {
+          "text": "Das männliche Reh mit den nicht verfegten Spießen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In welchem Lebensjahr schiebt der normal entwickelte Rehbock sein Erstlingsgeweih (Erstlingsgehörn)?",
+      "number": 100,
+      "answers": [
+        {
+          "text": "Im ersten Lebensjahr",
+          "correct": true
+        },
+        {
+          "text": "Im zweiten Lebensjahr",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem der nachgenannten Monate hat ein älterer Rehbock sein Geweih (Gehörn) gewöhnlich fertig verfegt?",
+      "number": 101,
+      "answers": [
+        {
+          "text": "Januar",
+          "correct": false
+        },
+        {
+          "text": "Februar",
+          "correct": false
+        },
+        {
+          "text": "April",
+          "correct": true
+        },
+        {
+          "text": "Oktober / November",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann wirft der ältere Rehbock in der Regel sein Geweih (Gehörn) ab?",
+      "number": 102,
+      "answers": [
+        {
+          "text": "Februar/März",
+          "correct": false
+        },
+        {
+          "text": "September (nach der Brunft)",
+          "correct": false
+        },
+        {
+          "text": "Oktober/November",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wann wirft das Rehbockkitz in der Regel sein Erstlingsgeweih (Erstlingsgehörn) ab?",
+      "number": 103,
+      "answers": [
+        {
+          "text": "August/September des ersten Lebensjahres",
+          "correct": false
+        },
+        {
+          "text": "Januar/Februar des ersten Lebensjahres",
+          "correct": true
+        },
+        {
+          "text": "September/Oktober des zweiten Lebensjahres",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wodurch erhält das Geweih (Gehörn) des Rehbocks nach dem Fegen hauptsächlich seine dunkle Farbe?",
+      "number": 104,
+      "answers": [
+        {
+          "text": "Durch den Zustrom des Blutes",
+          "correct": false
+        },
+        {
+          "text": "Durch den Stickstoffgehalt der Luft",
+          "correct": false
+        },
+        {
+          "text": "Durch Pflanzensäfte beim Schlagen und Reiben an Stämmen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Aussage trifft auf das Geweih (Gehörn) von Jährlingsböcken beim Rehwild zu?",
+      "number": 105,
+      "answers": [
+        {
+          "text": "Jährlingsböcke sind immer Spießer",
+          "correct": false
+        },
+        {
+          "text": "Jährlingsböcke können auch Gabeln ausbilden",
+          "correct": true
+        },
+        {
+          "text": "Jährlingsböcke haben nie ein Sechsergehörn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ein kräftiger Gabelbock hat Anfang Juni noch nicht verfegt. Kann es sich hierbei um einen Jährling handeln?",
+      "number": 106,
+      "answers": [
+        {
+          "text": "Nein, denn ein Jährling könnte höchstens ein schwacher Gabelbock sein",
+          "correct": false
+        },
+        {
+          "text": "Ja, denn ältere Böcke haben um diese Zeit schon verfegt",
+          "correct": true
+        },
+        {
+          "text": "Nein, denn ein Gabelgeweih wird frühestens im zweiten Lebensjahr ausgebildet",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem der nachgenannten Zeiträume fegt der ältere Rehbock sein Geweih (Gehörn)?",
+      "number": 107,
+      "answers": [
+        {
+          "text": "März/April",
+          "correct": true
+        },
+        {
+          "text": "Juli/August",
+          "correct": false
+        },
+        {
+          "text": "Dezember/Januar",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann beginnt in der Regel das Bockkitz mit dem Schieben seines ersten Geweihs?",
+      "number": 108,
+      "answers": [
+        {
+          "text": "Im Herbst des Jahres, in dem es gesetzt wurde",
+          "correct": true
+        },
+        {
+          "text": "Im Frühjahr des auf das Setzjahr folgenden Jahres",
+          "correct": false
+        },
+        {
+          "text": "Im Herbst des auf das Setzjahr folgenden Jahres",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Hat das Rehwild „Grandeln“?",
+      "number": 109,
+      "answers": [
+        {
+          "text": "ja",
+          "correct": false
+        },
+        {
+          "text": "sehr selten",
+          "correct": true
+        },
+        {
+          "text": "nein",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Woran kann man das Bockkitz vom Rickenkitz im Januar sicher unterscheiden?",
+      "number": 110,
+      "answers": [
+        {
+          "text": "an der Art des Nässens",
+          "correct": true
+        },
+        {
+          "text": "an der Kopfform",
+          "correct": false
+        },
+        {
+          "text": "an der Größe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie lange dauert die Blattzeit beim Rehwild?",
+      "number": 111,
+      "answers": [
+        {
+          "text": "8 bis 10 Tage",
+          "correct": false
+        },
+        {
+          "text": "10 bis 14 Tage",
+          "correct": false
+        },
+        {
+          "text": "3 bis 4 Wochen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der aufgeführten Wildarten hat eine verlängerte Tragzeit (sogenannte Eiruhe)?",
+      "number": 112,
+      "answers": [
+        {
+          "text": "Damwild",
+          "correct": false
+        },
+        {
+          "text": "Sikawild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Worauf ist die Bildung eines Perückengehörns zurückzuführen?",
+      "number": 113,
+      "answers": [
+        {
+          "text": "Hormonstörung",
+          "correct": true
+        },
+        {
+          "text": "Schockeinwirkung",
+          "correct": false
+        },
+        {
+          "text": "Unterernährung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Verletzung führt beim Rehbock zum Perückengehörn?",
+      "number": 114,
+      "answers": [
+        {
+          "text": "Verletzung am Bastgehörn",
+          "correct": false
+        },
+        {
+          "text": "Hodenverletzung",
+          "correct": true
+        },
+        {
+          "text": "Laufverletzung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Schalenwildart hat zwischen den Schalen der Hinterläufe eine Duftdrüse?",
+      "number": 115,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welcher Zahn ist beim Rehwild im Milchgebiss dreiteilig, im Dauergebiss zweiteilig?",
+      "number": 116,
+      "answers": [
+        {
+          "text": "1. Prämolar",
+          "correct": false
+        },
+        {
+          "text": "2. Prämolar",
+          "correct": false
+        },
+        {
+          "text": "4. Prämolar, da beim Rehwild der P 1 fehlt",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ist im Sommer eine deutliche Unterscheidung bezüglich der Geschlechter am Spiegel der Rehe möglich?",
+      "number": 117,
+      "answers": [
+        {
+          "text": "ja",
+          "correct": false
+        },
+        {
+          "text": "nein",
+          "correct": true
+        },
+        {
+          "text": "nur bei Kitzen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welches Merkmal gilt beim gesunden Rehbock als Anzeichen für einen alten Bock?",
+      "number": 118,
+      "answers": [
+        {
+          "text": "spätes Verfärben im Frühjahr",
+          "correct": true
+        },
+        {
+          "text": "frühes Verfärben im Frühjahr",
+          "correct": false
+        },
+        {
+          "text": "spätes Fegen des Gehörns",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie hoch liegt in normalen Jahren die Zuwachsrate beim Rehwild, bezogen auf die Zahl des am 1. April vorhandenen weiblichen Rehwildes?",
+      "number": 119,
+      "answers": [
+        {
+          "text": "40 bis 60 %",
+          "correct": false
+        },
+        {
+          "text": "60 bis 80 %",
+          "correct": false
+        },
+        {
+          "text": "80 bis 100 %",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In welchem Alterszeitraum bildet der Rehbock im Regelfall sein stärkstes Gehörn?",
+      "number": 120,
+      "answers": [
+        {
+          "text": "1 bis 2 Jahre",
+          "correct": false
+        },
+        {
+          "text": "3 bis 6 Jahre",
+          "correct": true
+        },
+        {
+          "text": "9 Jahre und älter",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann wird das weibliche Reh im Regelfall fortpflanzungsfähig?",
+      "number": 121,
+      "answers": [
+        {
+          "text": "im Oktober des Geburtsjahres",
+          "correct": false
+        },
+        {
+          "text": "im Sommer des auf die Geburt folgenden Jahres",
+          "correct": true
+        },
+        {
+          "text": "im dritten Lebensjahr",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher der genannten Schalenwildarten kommen die häufigsten Zwillingsgeburten vor?",
+      "number": 122,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": false
+        },
+        {
+          "text": "Damwild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Sie sehen im November einen Sprung Rehe. Woran können Sie die weiblichen Stücke ansprechen?",
+      "number": 123,
+      "answers": [
+        {
+          "text": "an der Färbung",
+          "correct": false
+        },
+        {
+          "text": "an der Schürze",
+          "correct": true
+        },
+        {
+          "text": "an der Größe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen ist richtig?",
+      "number": 124,
+      "answers": [
+        {
+          "text": "Schwarzwild ist ausschließlich ein Fleischfresser",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild ist ausschließlich ein Pflanzenfresser",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild ist ein Allesfresser",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie lange dauert die Tragzeit beim Schwarzwild?",
+      "number": 125,
+      "answers": [
+        {
+          "text": "Etwa 4 Monate",
+          "correct": true
+        },
+        {
+          "text": "Etwa 6 Monate",
+          "correct": false
+        },
+        {
+          "text": "Etwa 8 Monate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Schalenwildarten besitzen im Oberkiefer Schneidezähne?",
+      "number": 126,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wann beginnt beim Schwarzwild der Zahnwechsel?",
+      "number": 127,
+      "answers": [
+        {
+          "text": "Im Alter von etwa 6 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Im Alter von etwa 12 Monaten",
+          "correct": true
+        },
+        {
+          "text": "Im Alter von etwa 16 Monaten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Zähne sind beim Schwarzwild im Dauergebiss vorhanden?",
+      "number": 128,
+      "answers": [
+        {
+          "text": "28 Zähne",
+          "correct": false
+        },
+        {
+          "text": "32 Zähne",
+          "correct": false
+        },
+        {
+          "text": "34 Zähne",
+          "correct": false
+        },
+        {
+          "text": "44 Zähne",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen ist richtig?",
+      "number": 129,
+      "answers": [
+        {
+          "text": "Im Februar geborene Frischlinge können noch im gleichen Jahr rauschig werden",
+          "correct": true
+        },
+        {
+          "text": "Schwarzwild wird frühestens im zweiten Lebensjahr (als Überläufer) erstmals rauschig",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild wird frühestens im dritten Lebensjahr (als Bache) erstmals rauschig",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann sondert sich beim Schwarzwild die Bache von der Rotte ab?",
+      "number": 130,
+      "answers": [
+        {
+          "text": "Vor der Rauschzeit",
+          "correct": false
+        },
+        {
+          "text": "Nach der Rauschzeit",
+          "correct": false
+        },
+        {
+          "text": "Vor dem Frischen",
+          "correct": true
+        },
+        {
+          "text": "Nach dem Frischen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie lange werden Frischlinge von der Bache gesaugt?",
+      "number": 131,
+      "answers": [
+        {
+          "text": "Etwa bis 4 Monate",
+          "correct": true
+        },
+        {
+          "text": "Etwa bis 6 Monate",
+          "correct": false
+        },
+        {
+          "text": "Etwa bis 8 Monate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem Alter kann ein weibliches Stück Schwarzwild frühestens geschlechtsreif werden?",
+      "number": 132,
+      "answers": [
+        {
+          "text": "Im 1. Lebensjahr",
+          "correct": true
+        },
+        {
+          "text": "Im 2. Lebensjahr",
+          "correct": false
+        },
+        {
+          "text": "Im 3. Lebensjahr",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem Lebensalter verlieren die Frischlinge des Schwarzwildes ihre charakteristischen Jugendstreifen?",
+      "number": 133,
+      "answers": [
+        {
+          "text": "Im Alter von etwa 2 bis 3 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Im Alter von etwa 4 bis 5 Monaten",
+          "correct": true
+        },
+        {
+          "text": "Im Alter von etwa 11 bis 12 Monaten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann ist beim Schwarzwild das Dauergebiss vollständig entwickelt?",
+      "number": 134,
+      "answers": [
+        {
+          "text": "Nach 9 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Nach 14 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Nach 24 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Nach 36 Monaten",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welcher Sinn ist beim Schwarzwild am schlechtesten ausgebildet?",
+      "number": 135,
+      "answers": [
+        {
+          "text": "Gesichtssinn",
+          "correct": true
+        },
+        {
+          "text": "Geruchssinn",
+          "correct": false
+        },
+        {
+          "text": "Gehörsinn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zu Überläufern ist richtig?",
+      "number": 136,
+      "answers": [
+        {
+          "text": "Überläuferbachen und Überläuferkeiler leben immer in derselben Rotte",
+          "correct": false
+        },
+        {
+          "text": "Überläuferkeiler sondern sich im Alter von ca. 18 Monaten in der Regel von der Rotte ab",
+          "correct": true
+        },
+        {
+          "text": "Überläuferbachen und Überläuferkeiler bilden jeweils eigene Rotten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Woran ist die Fährte des Schwarzwildes eindeutig zu erkennen?",
+      "number": 137,
+      "answers": [
+        {
+          "text": "an der Größe des Schalenabdruckes",
+          "correct": false
+        },
+        {
+          "text": "an der Form des Schalenabdruckes",
+          "correct": false
+        },
+        {
+          "text": "am Geäfter",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wann kann weibliches Schwarzwild erstmals frischen?",
+      "number": 138,
+      "answers": [
+        {
+          "text": "vor dem Ende des 1. Lebensjahres",
+          "correct": true
+        },
+        {
+          "text": "im Alter von anderthalb Jahren",
+          "correct": false
+        },
+        {
+          "text": "am Ende des 2. Lebensjahres",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Schalenwildart hat die höchste Nachwuchsrate?",
+      "number": 139,
+      "answers": [
+        {
+          "text": "Sikawild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "text": "Schwarzwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen sind richtig?",
+      "number": 140,
+      "answers": [
+        {
+          "text": "Das Muffelwild ist kein Wiederkäuer",
+          "correct": false
+        },
+        {
+          "text": "Muffelschafe tragen nie einen Kopfschmuck",
+          "correct": false
+        },
+        {
+          "text": "Auf weichem und nassem Boden kann es beim Muffelwild zum krankhaften Auswachsen der Schalen kommen",
+          "correct": true
+        },
+        {
+          "text": "Muffelwild kann auch Schälschäden verursachen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In welchen der nachgenannten Zeiträume fällt die Hauptbrunft des Muffelwildes?",
+      "number": 141,
+      "answers": [
+        {
+          "text": "Juli/August",
+          "correct": false
+        },
+        {
+          "text": "Oktober/November/Dezember",
+          "correct": true
+        },
+        {
+          "text": "Januar/Februar",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welches Merkmal wird beim erlegten Muffelwidder in der Regel zur Altersermittlung herangezogen?",
+      "number": 142,
+      "answers": [
+        {
+          "text": "die Zementzonen im Backenzahnwurzelbereich",
+          "correct": false
+        },
+        {
+          "text": "der Abnutzungsgrad der Backenzähne",
+          "correct": false
+        },
+        {
+          "text": "die Jahresabschnitte bzw. Jahresringe der Schnecke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wann ist beim Muffelwild der Zahnwechsel in etwa vollständig abgeschlossen?",
+      "number": 143,
+      "answers": [
+        {
+          "text": "mit 12 Monaten",
+          "correct": false
+        },
+        {
+          "text": "mit 15 Monaten",
+          "correct": false
+        },
+        {
+          "text": "mit 30 Monaten",
+          "correct": false
+        },
+        {
+          "text": "mit 44 Monaten",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Schalenwildarten kann Schälschäden verursachen?",
+      "number": 144,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher heimischen Schalenwildart kommt gelegentlich die Moderhinke vor?",
+      "number": 145,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": false
+        },
+        {
+          "text": "Damwild",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild",
+          "correct": true
+        },
+        {
+          "text": "Schwarzwild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Aussage zum Muffelwild ist richtig?",
+      "number": 146,
+      "answers": [
+        {
+          "text": "Muffelwild wurde erstmals 1902 aus den amerikanischen Rocky Mountains zu uns gebracht.",
+          "correct": false
+        },
+        {
+          "text": "eine weiche wollige Behaarung deutet auf einen guten Gesundheitszustand und auf eine ausreichende Ernährung hin.",
+          "correct": false
+        },
+        {
+          "text": "das Dauergebiss des Muffelwildes hat die Zahnformel unten 1 3, C 1, P 3; oben 1 0, C 1, P 3.",
+          "correct": false
+        },
+        {
+          "text": "die Äsung des Muffelwildes besteht vorwiegend aus Gras (ca. 70%), es werden aber auch Blätter von Bäumen und Sträuchern (ca. 15%), Kräuter, Samen und Früchte genommen.",
+          "correct": true
+        },
+        {
+          "text": "ideale Muffelwildbiotope zeichnen sich durch einen hohen Anteil an Feuchtwiesen aus.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Aussage zum Muffelwild ist richtig?",
+      "number": 147,
+      "answers": [
+        {
+          "text": "bewohnt fast alle Mittelgebirge Deutschlands",
+          "correct": false
+        },
+        {
+          "text": "lebt hauptsächlich nachtaktiv",
+          "correct": false
+        },
+        {
+          "text": "brunftet von Oktober bis November, zum Teil noch im Dezember",
+          "correct": true
+        },
+        {
+          "text": "lebt in Rudeln",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher der nachgenannten Wildarten setzt das weibliche Stück oft das erste Mal im fünften Lebensjahr?",
+      "number": 148,
+      "answers": [
+        {
+          "text": "Rotwild",
+          "correct": false
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "text": "Muffelwild",
+          "correct": false
+        },
+        {
+          "text": "Gamswild",
+          "correct": true
+        },
+        {
+          "text": "Damwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann brunftet das Gamswild?",
+      "number": 149,
+      "answers": [
+        {
+          "text": "Mitte August bis Mitte September",
+          "correct": false
+        },
+        {
+          "text": "Mitte November bis Mitte Dezember",
+          "correct": true
+        },
+        {
+          "text": "Januar bis Anfang Februar",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Woran lässt sich das Alter eines erlegten Stückes Gamswild am sichersten feststellen?",
+      "number": 150,
+      "answers": [
+        {
+          "text": "An der Höhe der Krucke",
+          "correct": false
+        },
+        {
+          "text": "Am Zahnabschliff",
+          "correct": false
+        },
+        {
+          "text": "An den Ringen an der Krucke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wer führt beim Gamswild gewöhnlich das Scharwild an?",
+      "number": 151,
+      "answers": [
+        {
+          "text": "Geiß",
+          "correct": true
+        },
+        {
+          "text": "Alter Bock",
+          "correct": false
+        },
+        {
+          "text": "Junger Bock",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Monate dauert normalerweise die Tragzeit beim Gamswild?",
+      "number": 152,
+      "answers": [
+        {
+          "text": "Rd. 4 Monate",
+          "correct": false
+        },
+        {
+          "text": "Rd. 6 Monate",
+          "correct": true
+        },
+        {
+          "text": "Rd. 8 Monate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo befinden sich beim Gamsbock die Brunftfeigen?",
+      "number": 153,
+      "answers": [
+        {
+          "text": "Unterhalb des Wedels",
+          "correct": false
+        },
+        {
+          "text": "Am Kurzwildbret",
+          "correct": false
+        },
+        {
+          "text": "Hinter den Krucken",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen ist richtig?",
+      "number": 154,
+      "answers": [
+        {
+          "text": "Die Gamskrucken wachsen in den ersten 4 Lebensjahren schneller als danach",
+          "correct": true
+        },
+        {
+          "text": "Die Gamskrucken wachsen nach Vollendung des 4. Lebensjahres schneller als vorher",
+          "correct": false
+        },
+        {
+          "text": "Die Gamskrucken wachsen während des ganzen Lebens gleich schnell",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten gehören zu den Hasenartigen?",
+      "number": 155,
+      "answers": [
+        {
+          "text": "Eichhörnchen",
+          "correct": false
+        },
+        {
+          "text": "Murmeltier",
+          "correct": false
+        },
+        {
+          "text": "Feldhase",
+          "correct": true
+        },
+        {
+          "text": "Wildkaninchen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie viel Junghasen setzt die Feldhäsin in der Regel in einem Satz?",
+      "number": 156,
+      "answers": [
+        {
+          "text": "2 bis 4",
+          "correct": true
+        },
+        {
+          "text": "5 bis 8",
+          "correct": false
+        },
+        {
+          "text": "9 bis 11",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie oft setzt die Häsin im Jahr normalerweise?",
+      "number": 157,
+      "answers": [
+        {
+          "text": "einmal",
+          "correct": false
+        },
+        {
+          "text": "dreimal",
+          "correct": true
+        },
+        {
+          "text": "fünfmal",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie lange dauert die Tragzeit des Feldhasen?",
+      "number": 158,
+      "answers": [
+        {
+          "text": "31 bis 33 Tage",
+          "correct": false
+        },
+        {
+          "text": "42 bis 44 Tage",
+          "correct": true
+        },
+        {
+          "text": "57 bis 64 Tage",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie lange werden die jungen Feldhasen von der Häsin gesäugt?",
+      "number": 159,
+      "answers": [
+        {
+          "text": "Etwa 3 Wochen",
+          "correct": true
+        },
+        {
+          "text": "Etwa 6 Wochen",
+          "correct": false
+        },
+        {
+          "text": "Etwa 9 Wochen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem der nachgenannten Zeiträume werden die ersten Junghasen gesetzt?",
+      "number": 160,
+      "answers": [
+        {
+          "text": "Januar",
+          "correct": false
+        },
+        {
+          "text": "Februar/März",
+          "correct": true
+        },
+        {
+          "text": "April/Mai",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie oft können ausgewachsene Häsinnen der Wildkaninchen in einem Jahr werfen?",
+      "number": 161,
+      "answers": [
+        {
+          "text": "Höchstens zweimal",
+          "correct": false
+        },
+        {
+          "text": "Drei- bis fünfmal",
+          "correct": true
+        },
+        {
+          "text": "Sieben- bis achtmal",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen ist richtig?",
+      "number": 162,
+      "answers": [
+        {
+          "text": "Wildkaninchen leben gesellig in Baukolonien zusammen",
+          "correct": true
+        },
+        {
+          "text": "Wildkaninchen leben als Einzelpaare in separaten Bauen",
+          "correct": false
+        },
+        {
+          "text": "Alte Rammler leben als Einzelgänger außerhalb des Baues",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie ist beim Feldhasen die Unterwolle gefärbt?",
+      "number": 163,
+      "answers": [
+        {
+          "text": "grau",
+          "correct": false
+        },
+        {
+          "text": "weiß",
+          "correct": true
+        },
+        {
+          "text": "braun",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Von welchen Faktoren wird der Nachwuchs beim Hasen in der Regel primär beeinflusst?",
+      "number": 164,
+      "answers": [
+        {
+          "text": "Witterung",
+          "correct": true
+        },
+        {
+          "text": "Straßenverkehr",
+          "correct": false
+        },
+        {
+          "text": "landwirtschaftliche Maschinen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was ist eine Sasse?",
+      "number": 165,
+      "answers": [
+        {
+          "text": "Fasanennest",
+          "correct": false
+        },
+        {
+          "text": "flache Erdmulde, in die sich der Hase drückt",
+          "correct": true
+        },
+        {
+          "text": "Ausfahrt am Dachsbau",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie groß ist das Streifgebiet eines Feldhasen?",
+      "number": 166,
+      "answers": [
+        {
+          "text": "10 - 50 ha",
+          "correct": true
+        },
+        {
+          "text": "1.000 ha",
+          "correct": false
+        },
+        {
+          "text": "5.000 ha",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie viele der bis zu 10 Jungen einer Feldhäsin pro Jahr überleben in der Regel bis zum Herbst?",
+      "number": 167,
+      "answers": [
+        {
+          "text": "2 - 3",
+          "correct": true
+        },
+        {
+          "text": "5 - 6",
+          "correct": false
+        },
+        {
+          "text": "8 - 10",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was versteht man unter dem Stroh'schen Zeichen?",
+      "number": 168,
+      "answers": [
+        {
+          "text": "Eine beim jungen Hasen unterhalb der Blumenwurzel links und rechts vom Schloss sitzende Drüse",
+          "correct": false
+        },
+        {
+          "text": "Eine Verdickung der Elle oberhalb des Handwurzelgelenks beim jungen Hasen",
+          "correct": true
+        },
+        {
+          "text": "Reaktion des Wildes bei einem Hohlschuss",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchen Monaten erfolgt der Hauptzuwachs des Hasenbesatzes?",
+      "number": 169,
+      "answers": [
+        {
+          "text": "Januar bis Februar",
+          "correct": false
+        },
+        {
+          "text": "März bis April",
+          "correct": false
+        },
+        {
+          "text": "Mai bis Juli",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie schwer ist im Durchschnitt ein erwachsener Hase?",
+      "number": 170,
+      "answers": [
+        {
+          "text": "1 - 2 kg",
+          "correct": false
+        },
+        {
+          "text": "3 - 4 kg",
+          "correct": true
+        },
+        {
+          "text": "5 - 6 kg",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Wildart führt ihre Jungen nicht bis zum Selbständigwerden?",
+      "number": 171,
+      "answers": [
+        {
+          "text": "Hase",
+          "correct": true
+        },
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Hermelin",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wodurch unterscheidet sich das Wildkaninchen vom Hasen?",
+      "number": 172,
+      "answers": [
+        {
+          "text": "durch völlig andere Äsung",
+          "correct": false
+        },
+        {
+          "text": "durch die Anzahl der Backenzähne",
+          "correct": false
+        },
+        {
+          "text": "durch das Leben im Bau",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Wildarten hat in der Regel die größte Zuwachsrate?",
+      "number": 173,
+      "answers": [
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Hase",
+          "correct": false
+        },
+        {
+          "text": "Wildkaninchen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie warnt das Wildkaninchen seine Artgenossen?",
+      "number": 174,
+      "answers": [
+        {
+          "text": "durch Pfiff",
+          "correct": false
+        },
+        {
+          "text": "durch Warnschrei",
+          "correct": false
+        },
+        {
+          "text": "durch heftiges Klopfen mit den Hinterläufen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Was ist typisch für die Kaninchenlosung?",
+      "number": 175,
+      "answers": [
+        {
+          "text": "die Form",
+          "correct": false
+        },
+        {
+          "text": "die verstreute Lage der Losung",
+          "correct": false
+        },
+        {
+          "text": "die gehäufte Lage der Losung",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wo werden in der Regel die Jungkaninchen gesetzt?",
+      "number": 176,
+      "answers": [
+        {
+          "text": "in einer unterirdischen Erdröhre",
+          "correct": true
+        },
+        {
+          "text": "oberirdisch in der Feldmark",
+          "correct": false
+        },
+        {
+          "text": "oberirdisch in durch Baum- und Strauchbestand geschützten Sassen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Wildart werden die Jungen nackt und blind geboren?",
+      "number": 177,
+      "answers": [
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Hase",
+          "correct": false
+        },
+        {
+          "text": "Wildkaninchen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie lange dauert die Tragzeit beim Wildkaninchen?",
+      "number": 178,
+      "answers": [
+        {
+          "text": "2 Wochen",
+          "correct": false
+        },
+        {
+          "text": "4 Wochen",
+          "correct": true
+        },
+        {
+          "text": "6 Wochen",
+          "correct": false
+        },
+        {
+          "text": "8 Wochen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten hat eine Tragzeit von rd. 4 Wochen?",
+      "number": 179,
+      "answers": [
+        {
+          "text": "Hase",
+          "correct": false
+        },
+        {
+          "text": "Wildkaninchen",
+          "correct": true
+        },
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Iltis",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen sind richtig?",
+      "number": 180,
+      "answers": [
+        {
+          "text": "Wildkaninchen bevorzugen sandige Böden",
+          "correct": true
+        },
+        {
+          "text": "Wildkaninchen bevorzugen Standorte in einer Seehöhe bis zu 300 m",
+          "correct": true
+        },
+        {
+          "text": "Wildkaninchen bevorzugen tonige Böden",
+          "correct": false
+        },
+        {
+          "text": "Wildkaninchen bevorzugen Standorte in einer Seehöhe über 700 m",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann werden Wildkaninchen geschlechtsreif?",
+      "number": 181,
+      "answers": [
+        {
+          "text": "Im Alter von 3 bis 4 Monaten",
+          "correct": false
+        },
+        {
+          "text": "Im Alter von 6 bis 8 Monaten",
+          "correct": true
+        },
+        {
+          "text": "Im Alter von 10 bis 12 Monaten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen sind richtig?",
+      "number": 182,
+      "answers": [
+        {
+          "text": "Fuchs und Dachs können gleichzeitig denselben Bau bewohnen",
+          "correct": true
+        },
+        {
+          "text": "Füchse nehmen häufig verlassene Dachsbaue an",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Raubwildarten hinterlassen auf geeignetem Untergrund ein Trittsiegel mit fünf deutlichen Krallenabdrücken?",
+      "number": 183,
+      "answers": [
+        {
+          "text": "Fischotter",
+          "correct": true
+        },
+        {
+          "text": "Steinmarder",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Luchs sind falsch?",
+      "number": 184,
+      "answers": [
+        {
+          "text": "Der Luchs lebt gesellig",
+          "correct": true
+        },
+        {
+          "text": "Der Luchs nimmt niemals Fallwild an",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wann ist die Ranzzeit des Luchses?",
+      "number": 185,
+      "answers": [
+        {
+          "text": "im März/April",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Verhaltensweisen treffen auf die europäische Wildkatze zu?",
+      "number": 186,
+      "answers": [
+        {
+          "text": "Sie ist Einzeljäger",
+          "correct": true
+        },
+        {
+          "text": "Sie führt ein heimliches, verstecktes Leben",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Beim Ansitz beobachten Sie eine Katze, die Sie für eine europäische Wildkatze halten. Welche der nachfolgend aufgeführten Merkmale bestärken Sie in Ihrer Ansicht?",
+      "number": 187,
+      "answers": [
+        {
+          "text": "Stumpfähnlicher, stark buschiger Schwanz",
+          "correct": true
+        },
+        {
+          "text": "Deutlich dunkle Ringe in der hinteren Schwanzhälfte",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Aussagen treffen auf die Wildkatze zu?",
+      "number": 188,
+      "answers": [
+        {
+          "text": "sie lebt polygam",
+          "correct": true
+        },
+        {
+          "text": "sie ist ein Waldbewohner",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie groß ist ein Wolfsterritorium in Deutschland?",
+      "number": 189,
+      "answers": [
+        {
+          "text": "150 - 350 km2",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ab welchem Alter beginnt die Dispersionsphase beim Wolf?",
+      "number": 190,
+      "answers": [
+        {
+          "text": "11 - 22 Monate",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Welpen werden durchschnittlich pro Jahr von einer Wolfsfähe gewölft?",
+      "number": 191,
+      "answers": [
+        {
+          "text": "4- 6",
+          "correct": true
+        },
+        {
+          "text": "1 - 4",
+          "correct": false
+        },
+        {
+          "text": "6-8",
+          "correct": false
+        },
+        {
+          "text": "8 - 10",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann werden die Wolfswelpen gewölft?",
+      "number": 192,
+      "answers": [
+        {
+          "text": "Ende März/Anfang April",
+          "correct": false
+        },
+        {
+          "text": "Ende Februar/Anfang März",
+          "correct": false
+        },
+        {
+          "text": "Ende Mai/Anfang Juni",
+          "correct": false
+        },
+        {
+          "text": "Ende April/Anfang Mai",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In welcher Sozialstruktur lebt der Wolf?",
+      "number": 193,
+      "answers": [
+        {
+          "text": "Einzelgänger",
+          "correct": false
+        },
+        {
+          "text": "Rudel",
+          "correct": true
+        },
+        {
+          "text": "Herde",
+          "correct": false
+        },
+        {
+          "text": "Rotte",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche dieser Aussagen trifft zu?",
+      "number": 194,
+      "answers": [
+        {
+          "text": "Wölfe sind Nahrungsspezialisten.",
+          "correct": false
+        },
+        {
+          "text": "Wölfe sind Nahrungsgeneralisten.",
+          "correct": true
+        },
+        {
+          "text": "Wölfe reproduzieren zweimal pro Jahr.",
+          "correct": false
+        },
+        {
+          "text": "Wölfe ernähren sich ausschließlich von Schalenwild.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Beutetiere bilden die Hauptnahrung des Wolfs in Niedersachsen?",
+      "number": 195,
+      "answers": [
+        {
+          "text": "Hasenartige und Kleinsäuger",
+          "correct": false
+        },
+        {
+          "text": "Nutz- und Haustiere",
+          "correct": false
+        },
+        {
+          "text": "Schalenwild",
+          "correct": true
+        },
+        {
+          "text": "Raubwild und Vögel",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann findet die Ranz beim Wolf statt?",
+      "number": 196,
+      "answers": [
+        {
+          "text": "Ende Dezember/Anfang Januar",
+          "correct": false
+        },
+        {
+          "text": "Ende Januar/Anfang Februar",
+          "correct": false
+        },
+        {
+          "text": "Ende Februar/Anfang März",
+          "correct": true
+        },
+        {
+          "text": "Ende März/Anfang April",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Die Territoriumsgröße des Wolfes ist abhängig von der ...",
+      "number": 197,
+      "answers": [
+        {
+          "text": "Rudelgröße",
+          "correct": false
+        },
+        {
+          "text": "menschlichen Besiedlung",
+          "correct": false
+        },
+        {
+          "text": "Nahrungsverfügbarkeit",
+          "correct": true
+        },
+        {
+          "text": "Verkehrsdichte",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann verlassen die Wolfswelpen die Wurfhöhle?",
+      "number": 198,
+      "answers": [
+        {
+          "text": "3 Tage nach dem Wölfen",
+          "correct": false
+        },
+        {
+          "text": "8 Tage nach dem Wölfen",
+          "correct": false
+        },
+        {
+          "text": "14 Tage nach dem Wölfen",
+          "correct": false
+        },
+        {
+          "text": "21 Tage nach dem Wölfen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie schwer wird ein ausgewachsener Goldschakal?",
+      "number": 199,
+      "answers": [
+        {
+          "text": "5 - 7 kg",
+          "correct": false
+        },
+        {
+          "text": "10 - 15 kg",
+          "correct": false
+        },
+        {
+          "text": "17 - 24 kg",
+          "correct": true
+        },
+        {
+          "text": "25 - 32 kg",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann kann man das Trittsiegel eines Goldschakals von dem eines Fuchses unterscheiden?",
+      "number": 200,
+      "answers": [
+        {
+          "text": "Beim Goldschakal sind fünf Zehen zu erkennen.",
+          "correct": false
+        },
+        {
+          "text": "Beim Goldschakal sind keine Krallenabdrücke zu erkennen.",
+          "correct": false
+        },
+        {
+          "text": "Der Abdruck des Goldschakals ist doppelt so groß wie der des Fuchses.",
+          "correct": false
+        },
+        {
+          "text": "Die beiden Mittelballen des Goldschakals sind miteinander verwachsen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie setzt sich die Hauptnahrung des Goldschakals zusammen?",
+      "number": 201,
+      "answers": [
+        {
+          "text": "Kleine bis mittelgroße Säugetiere, Amphibien, Insekten und Pflanzen",
+          "correct": true
+        },
+        {
+          "text": "Vögel, Fische und Obst",
+          "correct": false
+        },
+        {
+          "text": "Schalenwild",
+          "correct": false
+        },
+        {
+          "text": "Nutztiere und Schlachtabfälle",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann findet die Ranz beim Goldschakal statt?",
+      "number": 202,
+      "answers": [
+        {
+          "text": "Dezember/Januar",
+          "correct": false
+        },
+        {
+          "text": "Januar/Februar",
+          "correct": true
+        },
+        {
+          "text": "Februar/März",
+          "correct": false
+        },
+        {
+          "text": "März/April",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie lange ist die Tragzeit beim Goldschakal?",
+      "number": 203,
+      "answers": [
+        {
+          "text": "46 - 49 Tage",
+          "correct": false
+        },
+        {
+          "text": "51 - 53 Tage",
+          "correct": false
+        },
+        {
+          "text": "56 - 59 Tage",
+          "correct": false
+        },
+        {
+          "text": "61 - 62 Tage",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Welpen werden durchschnittlich pro Jahr von einer Goldschakalfähe gewölft?",
+      "number": 204,
+      "answers": [
+        {
+          "text": "2-3",
+          "correct": false
+        },
+        {
+          "text": "4-5",
+          "correct": true
+        },
+        {
+          "text": "7- 8",
+          "correct": false
+        },
+        {
+          "text": "9 - 11",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Für welche Raubwildart gehört das Niederwild zur Hauptbeute?",
+      "number": 205,
+      "answers": [
+        {
+          "text": "Wolf",
+          "correct": false
+        },
+        {
+          "text": "Goldschakal",
+          "correct": true
+        },
+        {
+          "text": "Luchs",
+          "correct": false
+        },
+        {
+          "text": "Fischotter",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Wildarten ernähren sich überwiegend vom Schalenwild?",
+      "number": 206,
+      "answers": [
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Wolf",
+          "correct": true
+        },
+        {
+          "text": "Marderhund",
+          "correct": false
+        },
+        {
+          "text": "Luchs",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "207. Wann ist die Ranzzeit des Fuchses?",
+      "number": 207,
+      "answers": [
+        {
+          "text": "Oktober/November",
+          "correct": false
+        },
+        {
+          "text": "Januar/Februar",
+          "correct": true
+        },
+        {
+          "text": "April/Mai",
+          "correct": false
+        },
+        {
+          "text": "Juli/August",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "208. Welche der nachgenannten Aussagen zum Fuchs ist richtig?",
+      "number": 208,
+      "answers": [
+        {
+          "text": "Füchse können schon im ersten Lebensjahr geschlechtsreif werden",
+          "correct": true
+        },
+        {
+          "text": "Füchse können erst im zweiten Lebensjahr geschlechtsreif werden",
+          "correct": false
+        },
+        {
+          "text": "Füchse können bereits im 6. Lebensmonat geschlechtsreif werden",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "209. Wie lang geht die Fuchsfähe dick?",
+      "number": 209,
+      "answers": [
+        {
+          "text": "Ca. 1 Monat",
+          "correct": false
+        },
+        {
+          "text": "Ca. 2 Monate",
+          "correct": true
+        },
+        {
+          "text": "Ca. 3 Monate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "210. Aus wie viel Welpen besteht gewöhnlich ein Fuchsgeheck?",
+      "number": 210,
+      "answers": [
+        {
+          "text": "2 Welpen",
+          "correct": false
+        },
+        {
+          "text": "4 bis 6 Welpen",
+          "correct": true
+        },
+        {
+          "text": "9 bis 10 Welpen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "211. Wo befindet sich die Viole beim Fuchs?",
+      "number": 211,
+      "answers": [
+        {
+          "text": "An den Hinterläufen",
+          "correct": false
+        },
+        {
+          "text": "Zwischen den Gehören (Ohren)",
+          "correct": false
+        },
+        {
+          "text": "An der Oberseite der Luntenwurzel",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "212. Wie lange werden die Fuchswelpen gesäugt?",
+      "number": 212,
+      "answers": [
+        {
+          "text": "Ca. 1 Monat",
+          "correct": false
+        },
+        {
+          "text": "Ca. 2 Monate",
+          "correct": true
+        },
+        {
+          "text": "Ca. 6 Monate",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "213. In welchen der nachgenannten Monate löst sich in der Regel das Fuchsgeheck auf?",
+      "number": 213,
+      "answers": [
+        {
+          "text": "Mai",
+          "correct": false
+        },
+        {
+          "text": "Juli",
+          "correct": true
+        },
+        {
+          "text": "Oktober",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "214. Welche der nachgenannten Aussagen zum Fuchs sind richtig?",
+      "number": 214,
+      "answers": [
+        {
+          "text": "Füchse erreichen ihre höchste Siedlungsdichte in großen zusammenhängenden Waldgebieten",
+          "correct": false
+        },
+        {
+          "text": "Füchse erreichen ihre höchste Siedlungsdichte in Wald-Feld-Gemengelagen",
+          "correct": true
+        },
+        {
+          "text": "Füchse besiedeln zunehmend städtische Bereiche",
+          "correct": true
+        },
+        {
+          "text": "Füchse meiden städtische Bereiche",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "215. Was ist die Viole?",
+      "number": 215,
+      "answers": [
+        {
+          "text": "die „Blume“ des Hasen",
+          "correct": false
+        },
+        {
+          "text": "die Talgdrüse des Federwildes",
+          "correct": false
+        },
+        {
+          "text": "die Duftdrüse hinter der Luntenwurzel des Fuchses",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "216. Wo findet man vorwiegend Fuchslosung?",
+      "number": 216,
+      "answers": [
+        {
+          "text": "in „Abtritten“",
+          "correct": false
+        },
+        {
+          "text": "in Bodenvertiefungen",
+          "correct": false
+        },
+        {
+          "text": "auf Bodenerhebungen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "217. Die Spur des Fuchses ähnelt am meisten derjenigen:",
+      "number": 217,
+      "answers": [
+        {
+          "text": "des Hundes",
+          "correct": true
+        },
+        {
+          "text": "des Waschbären",
+          "correct": false
+        },
+        {
+          "text": "des Luchses",
+          "correct": false
+        },
+        {
+          "text": "des Dachses",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten gehören nicht zur Familie der Marder?",
+      "number": 218,
+      "answers": [
+        {
+          "text": "Marderhund",
+          "correct": true
+        },
+        {
+          "text": "Dachs",
+          "correct": false
+        },
+        {
+          "text": "Hermelin",
+          "correct": false
+        },
+        {
+          "text": "Fischotter",
+          "correct": false
+        },
+        {
+          "text": "Murmeltier",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher der nachgenannten Wildarten fällt die Paarungszeit etwa in die Zeit der Rehbrunft?",
+      "number": 219,
+      "answers": [
+        {
+          "text": "Dachs",
+          "correct": true
+        },
+        {
+          "text": "Murmeltier",
+          "correct": false
+        },
+        {
+          "text": "Rotwild",
+          "correct": false
+        },
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Baummarder",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wann ist die Ranzzeit der Baum- und Steinmarder?",
+      "number": 220,
+      "answers": [
+        {
+          "text": "Februar/März",
+          "correct": false
+        },
+        {
+          "text": "Mai/Juni",
+          "correct": false
+        },
+        {
+          "text": "Juli/August",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Um welchen Marder handelt es sich, wenn der Kehlfleck weiß und gegabelt ist?",
+      "number": 221,
+      "answers": [
+        {
+          "text": "Iltis",
+          "correct": false
+        },
+        {
+          "text": "Steinmarder",
+          "correct": true
+        },
+        {
+          "text": "Baummarder",
+          "correct": false
+        },
+        {
+          "text": "Fischotter",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Marderart lebt häufig in Feldscheunen?",
+      "number": 222,
+      "answers": [
+        {
+          "text": "Hermelin",
+          "correct": false
+        },
+        {
+          "text": "Baummarder",
+          "correct": false
+        },
+        {
+          "text": "Steinmarder",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Raubwildarten hat die längste Tragezeit?",
+      "number": 223,
+      "answers": [
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Steinmarder",
+          "correct": true
+        },
+        {
+          "text": "Wildkatze",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Kennzeichen finden sich beim Baummarder?",
+      "number": 224,
+      "answers": [
+        {
+          "text": "Weißer Kehlfleck",
+          "correct": false
+        },
+        {
+          "text": "Behaarte Sohle der Pranten",
+          "correct": true
+        },
+        {
+          "text": "Nackte Sohle der Pranten",
+          "correct": false
+        },
+        {
+          "text": "Nicht gegabelter Kehlfleck",
+          "correct": true
+        },
+        {
+          "text": "Das Stroh'sche Zeichen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Tagesverstecke werden vom Baummarder häufig angenommen?",
+      "number": 225,
+      "answers": [
+        {
+          "text": "Höhlen in Waldbäumen",
+          "correct": true
+        },
+        {
+          "text": "Greifvogelhorste",
+          "correct": true
+        },
+        {
+          "text": "Strohhaufen in Dorfscheunen",
+          "correct": false
+        },
+        {
+          "text": "Lange Durchlässe im Feld mit trockenen Schächten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche nachgenannte Aussage zum Fischotter ist richtig?",
+      "number": 226,
+      "answers": [
+        {
+          "text": "Der Fischotter ernährt sich ausschließlich von Fischen",
+          "correct": false
+        },
+        {
+          "text": "Bei ausgewachsenen Fischottern lassen sich Fähe und Rüde anhand der Körpergröße deutlich unterscheiden",
+          "correct": false
+        },
+        {
+          "text": "Durch den Abdruck der Schwimmhäute lässt sich seine Spur von anderen unterscheiden",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie groß ist der Aktionsraum eines Fischottermännchens?",
+      "number": 227,
+      "answers": [
+        {
+          "text": "1 km Gewässer / Gewässerlauf",
+          "correct": false
+        },
+        {
+          "text": "5 km Gewässerlauf",
+          "correct": false
+        },
+        {
+          "text": "40 km Gewässerlauf",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Iltis sind richtig?",
+      "number": 228,
+      "answers": [
+        {
+          "text": "Iltisse leben bevorzugt in Eichhörnchenkobeln",
+          "correct": false
+        },
+        {
+          "text": "Iltisse legen häufig Nahrungsvorräte an",
+          "correct": true
+        },
+        {
+          "text": "Iltisse erbeuten häufig Frösche, Wanderratten und Mäuse",
+          "correct": true
+        },
+        {
+          "text": "Iltisse verfärben im Winter weiß",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Großen Wiesel (Hermelin) sind richtig?",
+      "number": 229,
+      "answers": [
+        {
+          "text": "Es ernährt sich nicht von Mäusen und anderen kleinen Nagern",
+          "correct": false
+        },
+        {
+          "text": "Es ernährt sich hauptsächlich von Fröschen und anderen kleinen Amphibien",
+          "correct": false
+        },
+        {
+          "text": "Die Rutenspitze ist auch im Sommer schwarz",
+          "correct": true
+        },
+        {
+          "text": "Es lebt überwiegend in waldarmer Landschaft",
+          "correct": false
+        },
+        {
+          "text": "Es kommt häufig auf Dachboden vor",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Kleinen Wiesel (Mauswiesel) sind richtig?",
+      "number": 230,
+      "answers": [
+        {
+          "text": "Die Rutenspitze ist auch im Sommer schwarz",
+          "correct": false
+        },
+        {
+          "text": "Es ernährt sich fast ausschließlich von Mäusen",
+          "correct": true
+        },
+        {
+          "text": "Es jagt auch in Mäusegängen",
+          "correct": true
+        },
+        {
+          "text": "Es ist ausschließlich nachtaktiv",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Raubwildart ist im Winter weiß gefärbt?",
+      "number": 231,
+      "answers": [
+        {
+          "text": "Kreuzfuchs",
+          "correct": false
+        },
+        {
+          "text": "Großes Wiesel",
+          "correct": true
+        },
+        {
+          "text": "Iltis",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Wildart hält Winterruhe?",
+      "number": 232,
+      "answers": [
+        {
+          "text": "Hermelin",
+          "correct": false
+        },
+        {
+          "text": "Mauswiesel",
+          "correct": false
+        },
+        {
+          "text": "Dachs",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Sie finden im Revier einen fuchsgroßen Raubwildschädel, der auf dem Schädeldach einen Kamm aufweist. Von welcher Raubwildart stammt dieser Schädel?",
+      "number": 233,
+      "answers": [
+        {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Dachs",
+          "correct": true
+        },
+        {
+          "text": "Wildkatze",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Raubwildspur sind die Nägel besonders deutlich abgedrückt?",
+      "number": 234,
+      "answers": [
+        {
+          "text": "Wildkatze",
+          "correct": false
+        },
+        {
+          "text": "Dachs",
+          "correct": true
+        },
+        {
+          "text": "Luchs",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Merkmale gelten für das Trittsiegel des Dachses?",
+      "number": 235,
+      "answers": [
+        {
+          "text": "Fünf Zehen sichtbar",
+          "correct": true
+        },
+        {
+          "text": "Vier Zehen sichtbar",
+          "correct": false
+        },
+        {
+          "text": "Lange Abdrücke der Nägel (\"Nageln\")",
+          "correct": true
+        },
+        {
+          "text": "Die Sohlen sind behaart",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann ist die Ranzzeit des Dachses?",
+      "number": 236,
+      "answers": [
+        {
+          "text": "Mai/Juni",
+          "correct": false
+        },
+        {
+          "text": "Juli/August",
+          "correct": true
+        },
+        {
+          "text": "September/Oktober",
+          "correct": false
+        },
+        {
+          "text": "November/Dezember",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem der nachgenannten Zeiträume wirft i. d. R. die Dachsfähe?",
+      "number": 237,
+      "answers": [
+        {
+          "text": "Februar/März",
+          "correct": true
+        },
+        {
+          "text": "Mai/Juni",
+          "correct": false
+        },
+        {
+          "text": "Juli/August",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Arten zählen zu den Neozoen?",
+      "number": 238,
+      "answers": [
+        {
+          "text": "Waldschnepfe",
+          "correct": false
+        },
+        {
+          "text": "Mink",
+          "correct": true
+        },
+        {
+          "text": "Marderhund",
+          "correct": true
+        },
+        {
+          "text": "Luchs",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen sind richtig?",
+      "number": 239,
+      "answers": [
+        {
+          "text": "Waschbären ernähren sich nur von Fleisch",
+          "correct": false
+        },
+        {
+          "text": "Waschbären sind überwiegend nachtaktiv",
+          "correct": true
+        },
+        {
+          "text": "Waschbären schwimmen und klettern gut",
+          "correct": true
+        },
+        {
+          "text": "Waschbären gehören zur Familie der Marder",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen sind richtig?",
+      "number": 240,
+      "answers": [
+        {
+          "text": "Der Marderhund gehört zur Familie der Marder",
+          "correct": false
+        },
+        {
+          "text": "Der Marderhund ist ein Allesfresser",
+          "correct": true
+        },
+        {
+          "text": "Der Marderhund klettert gut",
+          "correct": false
+        },
+        {
+          "text": "Der Marderhund ist überwiegend nachtaktiv",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Woher stammt der Marderhund (Enok)?",
+      "number": 241,
+      "answers": [
+        {
+          "text": "Nordafrika",
+          "correct": false
+        },
+        {
+          "text": "Ostasien",
+          "correct": true
+        },
+        {
+          "text": "Nordamerika",
+          "correct": false
+        },
+        {
+          "text": "Südeuropa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Gemeinsamkeiten haben Marderhund (Enok) und Fuchs?",
+      "number": 242,
+      "answers": [
+        {
+          "text": "Beide halten eine Winterruhe",
+          "correct": false
+        },
+        {
+          "text": "Beide zählen zur Familie der Hunde (Canidae)",
+          "correct": true
+        },
+        {
+          "text": "Beide sind vorwiegend Pflanzenfresser",
+          "correct": false
+        },
+        {
+          "text": "Beide haben die gleiche Zahnformel",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie ernährt sich der Marderhund?",
+      "number": 243,
+      "answers": [
+        {
+          "text": "Ausschließlich von Beeren, Obst und Getreide",
+          "correct": false
+        },
+        {
+          "text": "Ausschließlich von Mäusen, Nagern, Vögeln und Niederwild",
+          "correct": false
+        },
+        {
+          "text": "Als Allesfresser sowohl von pflanzlicher als auch tierischer Nahrung",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Sumpfbiber (Nutria) sind richtig?",
+      "number": 244,
+      "answers": [
+        {
+          "text": "Der Sumpfbiber ernährt sich vorwiegend von Fischen",
+          "correct": false
+        },
+        {
+          "text": "Der Sumpfbiber ist kein Nagetier",
+          "correct": true
+        },
+        {
+          "text": "Der Schwanz des Sumpfbibers ist rund und beschuppt",
+          "correct": true
+        },
+        {
+          "text": "Das Fleisch des Sumpfbibers kann zum Genuss für Menschen verwendet werden, ist aber amtlich auf Trichinen zu untersuchen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Raubwildart hält sich gern auf Bäumen auf?",
+      "number": 245,
+      "answers": [
+        {
+          "text": "Hermelin",
+          "correct": false
+        },
+        {
+          "text": "Iltis",
+          "correct": false
+        },
+        {
+          "text": "Waschbär",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Raubwildarten wurde bei uns eingebürgert?",
+      "number": 246,
+      "answers": [
+        {
+          "text": "Wildkatze",
+          "correct": false
+        },
+        {
+          "text": "Iltis",
+          "correct": false
+        },
+        {
+          "text": "Waschbär",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welchen Lebensraum bevorzugt der Mink?",
+      "number": 247,
+      "answers": [
+        {
+          "text": "Seen, Flüsse, Bruchwald",
+          "correct": true
+        },
+        {
+          "text": "dichte Nadel- oder Mischwälder",
+          "correct": false
+        },
+        {
+          "text": "trockene Agrarsteppen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernährt sich der Sumpfbiber (Nutria)?",
+      "number": 248,
+      "answers": [
+        {
+          "text": "von Fischen",
+          "correct": false
+        },
+        {
+          "text": "von Mäusen und Fröschen",
+          "correct": false
+        },
+        {
+          "text": "von Wurzeln, Schilf und Feldfrüchten",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Sumpfbiber (Nutria) sind richtig?",
+      "number": 249,
+      "answers": [
+        {
+          "text": "Der Sumpfbiber ernährt sich vorwiegend von Fischen",
+          "correct": false
+        },
+        {
+          "text": "Der Sumpfbiber ist ein Nagetier",
+          "correct": true
+        },
+        {
+          "text": "Der Schwanz des Sumpfbibers ist rund und beschuppt",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Vogelarten sind überwiegend Zugvögel?",
+      "number": 250,
+      "answers": [
+        {
+          "text": "Kolkrabe",
+          "correct": false
+        },
+        {
+          "text": "Haselwild",
+          "correct": false
+        },
+        {
+          "text": "Wespenbussard",
+          "correct": true
+        },
+        {
+          "text": "Wachtel",
+          "correct": true
+        },
+        {
+          "text": "Birkwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten leben für einen Zeitraum von mindestens einem Jahr monogam?",
+      "number": 251,
+      "answers": [
+        {
+          "text": "Ringeltaube",
+          "correct": true
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": true
+        },
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Waldschnepfe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welchen der nachgenannten Wildarten beteiligen sich die männlichen Tiere nicht an der Aufzucht der Jungen?",
+      "number": 252,
+      "answers": [
+        {
+          "text": "Ringeltaube",
+          "correct": false
+        },
+        {
+          "text": "Auerwild",
+          "correct": true
+        },
+        {
+          "text": "Stockente",
+          "correct": true
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        },
+        {
+          "text": "Steinadler",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Federwildarten sind keine Bodenbrüter?",
+      "number": 253,
+      "answers": [
+        {
+          "text": "Waldschnepfe",
+          "correct": false
+        },
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "text": "Türkentaube",
+          "correct": true
+        },
+        {
+          "text": "Sperber",
+          "correct": true
+        },
+        {
+          "text": "Weihen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Federwildarten sind in der Regel Bodenbrüter?",
+      "number": 254,
+      "answers": [
+        {
+          "text": "Habicht",
+          "correct": false
+        },
+        {
+          "text": "Rohrweihe",
+          "correct": true
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        },
+        {
+          "text": "Graureiher",
+          "correct": true
+        },
+        {
+          "text": "Auerwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welchen der nachgenannten Federwildarten sind die Jungen Nestflüchter?",
+      "number": 255,
+      "answers": [
+        {
+          "text": "Kolkrabe",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": true
+        },
+        {
+          "text": "Ringeltaube",
+          "correct": false
+        },
+        {
+          "text": "Turmfalke",
+          "correct": false
+        },
+        {
+          "text": "Auerwild",
+          "correct": true
+        },
+        {
+          "text": "Habicht",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachfolgenden Federwildarten sind keine Höhlenbrüter?",
+      "number": 256,
+      "answers": [
+        {
+          "text": "Haubentaucher",
+          "correct": true
+        },
+        {
+          "text": "Brandente",
+          "correct": false
+        },
+        {
+          "text": "Alpenschneehuhn",
+          "correct": true
+        },
+        {
+          "text": "Hohltaube",
+          "correct": false
+        },
+        {
+          "text": "Gänsesäger",
+          "correct": false
+        },
+        {
+          "text": "Schellente",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Federwildarten brüten auf Bäumen?",
+      "number": 257,
+      "answers": [
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Haselwild",
+          "correct": false
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": true
+        },
+        {
+          "text": "Graureiher",
+          "correct": true
+        },
+        {
+          "text": "Birkwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Federwildarten sind in Niedersachsen Standvögel?",
+      "number": 258,
+      "answers": [
+        {
+          "text": "Rebhuhn",
+          "correct": true
+        },
+        {
+          "text": "Wachtel",
+          "correct": false
+        },
+        {
+          "text": "Wespenbussard",
+          "correct": false
+        },
+        {
+          "text": "Blässhuhn",
+          "correct": true
+        },
+        {
+          "text": "Waldschnepfe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Aussage über die Bürzeldrüse ist richtig?",
+      "number": 259,
+      "answers": [
+        {
+          "text": "sie produziert ein Sekret zum Einfetten des Gefieders",
+          "correct": true
+        },
+        {
+          "text": "sie scheidet ein Sekret zur Reviermarkierung der Vögel aus",
+          "correct": false
+        },
+        {
+          "text": "es handelt sich um eine Geschlechtsdrüse des männlichen Vogels",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Federwildart deckt ihr Gelege beim Verlassen ab?",
+      "number": 260,
+      "answers": [
+        {
+          "text": "Auerwild",
+          "correct": false
+        },
+        {
+          "text": "Stockente",
+          "correct": true
+        },
+        {
+          "text": "Ringeltaube",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten gehören zu den Rauhfußhühnern?",
+      "number": 261,
+      "answers": [
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Rauhfußbussard",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "text": "Birkwild",
+          "correct": true
+        },
+        {
+          "text": "Haselwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welches Federwild gehört zum Hochwild?",
+      "number": 262,
+      "answers": [
+        {
+          "text": "Auerwild, Seeadler",
+          "correct": true
+        },
+        {
+          "text": "Haselwild und Birkwild",
+          "correct": false
+        },
+        {
+          "text": "Graureiher, Großtrappe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Hühnervögel sind reine Waldbewohner?",
+      "number": 263,
+      "answers": [
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "text": "Wachtel",
+          "correct": false
+        },
+        {
+          "text": "Haselwild",
+          "correct": true
+        },
+        {
+          "text": "Auerwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen über den Lebensraum des Auerwildes ist richtig?",
+      "number": 264,
+      "answers": [
+        {
+          "text": "Das Auerwild bevorzugt dichte, geschlossene Plenterwaldstrukturen mit hohem Laubholzanteil",
+          "correct": false
+        },
+        {
+          "text": "Das Auerwild bevorzugt altholzreiche, zum Teil aufgelichtete Bergwaldstrukturen mit reichlich Beerkraut am Boden",
+          "correct": true
+        },
+        {
+          "text": "Das Auerwild kommt in Niedersachsen auf offenen Heide- und Moorflächen vor, die zum Teil mit aufgelichteten Birken- und Kiefernwäldern durchsetzt sind",
+          "correct": false
+        },
+        {
+          "text": "Auerwild ist ein Kulturfolger",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Pflanzen ist für die Sommeräsung des Auerwildes von Bedeutung?",
+      "number": 265,
+      "answers": [
+        {
+          "text": "Adlerfarn",
+          "correct": false
+        },
+        {
+          "text": "Heidelbeere",
+          "correct": true
+        },
+        {
+          "text": "Vogelbeere",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Pflanzen sind für die Winteräsung des Auerwildes von großer Bedeutung?",
+      "number": 266,
+      "answers": [
+        {
+          "text": "Heidelbeere",
+          "correct": false
+        },
+        {
+          "text": "Brombeere",
+          "correct": false
+        },
+        {
+          "text": "Kiefer",
+          "correct": true
+        },
+        {
+          "text": "Tanne",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wo übernachtet der Auerhahn?",
+      "number": 267,
+      "answers": [
+        {
+          "text": "Auf dem Boden bevorzugt auf Waldlichtungen",
+          "correct": false
+        },
+        {
+          "text": "Auf Bäumen im Altholz",
+          "correct": true
+        },
+        {
+          "text": "Auf Bäumen von etwa 10 bis 20-jährigen Dickungen",
+          "correct": false
+        },
+        {
+          "text": "Auf Moor- und Heideflächen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Federwildarten gehört zu den Rauhfußhühnern?",
+      "number": 268,
+      "answers": [
+        {
+          "text": "Auerwild",
+          "correct": true
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "text": "Bläßhuhn",
+          "correct": false
+        },
+        {
+          "text": "Birkhuhn",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Federwildart spielt die Aufnahme von Fichtennadeln im Winter eine große Rolle?",
+      "number": 269,
+      "answers": [
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Haselhuhn",
+          "correct": false
+        },
+        {
+          "text": "Auerwild",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Lebensräume sind für das Birkwild geeignet?",
+      "number": 270,
+      "answers": [
+        {
+          "text": "Tannenreiche Plenterbestände",
+          "correct": false
+        },
+        {
+          "text": "Ausgedehnte Hochmoor- und Heideflächen",
+          "correct": true
+        },
+        {
+          "text": "Lichte Bergwälder an der Baumgrenze",
+          "correct": true
+        },
+        {
+          "text": "Laubholzreiche Mischbestände",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was versteht man unter einer „Huderpfanne“?",
+      "number": 271,
+      "answers": [
+        {
+          "text": "Gerät zur Zubereitung des Aufbruchs",
+          "correct": false
+        },
+        {
+          "text": "Sand- oder Staubbadeplatz eines Hühnervogels",
+          "correct": true
+        },
+        {
+          "text": "Einbuchtung am Fersengelenk des Fasans",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was versteht man unter dem Begriff „Nestflüchter“?",
+      "number": 272,
+      "answers": [
+        {
+          "text": "einen durch Störung vergrämten Bodenbrüter",
+          "correct": false
+        },
+        {
+          "text": "einen aus der Sasse flüchtenden Junghasen",
+          "correct": false
+        },
+        {
+          "text": "Jungvögel, die bald nach dem Schlupf das Nest verlassen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Hühnervogelart ist Zugvogel?",
+      "number": 273,
+      "answers": [
+        {
+          "text": "Haselhuhn",
+          "correct": false
+        },
+        {
+          "text": "Wachtel",
+          "correct": true
+        },
+        {
+          "text": "Wildtruthuhn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo befindet sich der von Wachteln bevorzugte Lebensraum?",
+      "number": 274,
+      "answers": [
+        {
+          "text": "in feuchten Erlenbruchwäldern",
+          "correct": false
+        },
+        {
+          "text": "in Getreide- und Hackfruchtfeldern",
+          "correct": true
+        },
+        {
+          "text": "in Feldgehölzen mit dichtem Unterwuchs",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welcher der nachgenannten Lebensräume ist für das Haselwild geeignet?",
+      "number": 275,
+      "answers": [
+        {
+          "text": "Junge Wälder mit hohem Weichlaubholzanteil",
+          "correct": true
+        },
+        {
+          "text": "Große geschlossene Nadelwälder",
+          "correct": false
+        },
+        {
+          "text": "Großflächiges Wiesen- und Ackerland mit Hecken, Rainen und kleinen Feldgehölzen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Hühnervogelart lebt ausschließlich im Wald?",
+      "number": 276,
+      "answers": [
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Haselhuhn",
+          "correct": true
+        },
+        {
+          "text": "Wachtel",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Alpenschneehuhn sind richtig?",
+      "number": 277,
+      "answers": [
+        {
+          "text": "Es lebt oberhalb der Baumgrenze",
+          "correct": true
+        },
+        {
+          "text": "Sein Gefieder ist im Winter weiß",
+          "correct": true
+        },
+        {
+          "text": "Sein Gefieder ist ganzjährig weiß",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten zählen zu den Feldhühnern?",
+      "number": 278,
+      "answers": [
+        {
+          "text": "Haselwild",
+          "correct": false
+        },
+        {
+          "text": "Auerwild",
+          "correct": false
+        },
+        {
+          "text": "Fasan",
+          "correct": true
+        },
+        {
+          "text": "Birkwild",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Federwildart verlassen die Jungen bald nach dem Schlüpfen das Nest, sind also Nestflüchter?",
+      "number": 279,
+      "answers": [
+        {
+          "text": "Turteltaube",
+          "correct": false
+        },
+        {
+          "text": "Wachtel",
+          "correct": true
+        },
+        {
+          "text": "Graureiher",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Federwildart haben die Hähne zur Balzzeit stark ausgeprägte Rosen?",
+      "number": 280,
+      "answers": [
+        {
+          "text": "Fasan",
+          "correct": true
+        },
+        {
+          "text": "Schnepfe",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welchen der nachgenannten Lebensräume bevorzugt der Fasan?",
+      "number": 281,
+      "answers": [
+        {
+          "text": "Fichtenwälder mit viel Altholz",
+          "correct": false
+        },
+        {
+          "text": "Auen und Bruchwälder mit Wald, Wiese, Wasser und Feld",
+          "correct": true
+        },
+        {
+          "text": "Reine Feldreviere",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo übernachtet der Fasan bevorzugt?",
+      "number": 282,
+      "answers": [
+        {
+          "text": "Am Boden unter tief beasteten Fichten",
+          "correct": false
+        },
+        {
+          "text": "Am Boden im Dornengestrüpp",
+          "correct": true
+        },
+        {
+          "text": "Auf Bäumen in Dickungen",
+          "correct": true
+        },
+        {
+          "text": "Auf einzelstehenden Buchen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Farbe weisen in der Regel die Eier des Fasans auf?",
+      "number": 283,
+      "answers": [
+        {
+          "text": "oliv-grün",
+          "correct": true
+        },
+        {
+          "text": "weißlich",
+          "correct": false
+        },
+        {
+          "text": "bläulich",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann beginnt beim Fasan die Balzzeit?",
+      "number": 284,
+      "answers": [
+        {
+          "text": "im März",
+          "correct": true
+        },
+        {
+          "text": "im Mai",
+          "correct": false
+        },
+        {
+          "text": "im September",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann löst sich die Rebhuhnkette (Volk) zur Paarung auf?",
+      "number": 285,
+      "answers": [
+        {
+          "text": "September/Oktober",
+          "correct": false
+        },
+        {
+          "text": "November/Dezember",
+          "correct": false
+        },
+        {
+          "text": "Februar/März",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie setzt sich eine Rebhuhnkette im August zusammen?",
+      "number": 286,
+      "answers": [
+        {
+          "text": "Aus der alten Henne und den Junghühnern",
+          "correct": false
+        },
+        {
+          "text": "Aus den Elterntieren (Hahn und Henne) und den Junghühnern",
+          "correct": true
+        },
+        {
+          "text": "Aus den Junghühnern",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wodurch findet eine versprengte Kette Rebhühner rasch wieder zusammen?",
+      "number": 287,
+      "answers": [
+        {
+          "text": "Sie finden sich am Übernachtungsplatz ein, den alle Mitglieder der Kette kennen",
+          "correct": true
+        },
+        {
+          "text": "Sie geben ihren Standort durch Lockrufe kund und laufen zusammen",
+          "correct": true
+        },
+        {
+          "text": "Alle Kettenmitglieder fliegen dorthin zurück, wo sie gesprengt worden sind",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Woraus besteht die Nahrung der Rebhuhnküken in den ersten Lebenstagen?",
+      "number": 288,
+      "answers": [
+        {
+          "text": "Grasspitzen und Klee",
+          "correct": false
+        },
+        {
+          "text": "Sekret aus dem Kropf der Altvögel (Kropfmilch)",
+          "correct": true
+        },
+        {
+          "text": "Insekten",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welche Monate fällt die Paarbildung beim Rebhuhn?",
+      "number": 289,
+      "answers": [
+        {
+          "text": "Oktober/November",
+          "correct": false
+        },
+        {
+          "text": "Februar/März",
+          "correct": true
+        },
+        {
+          "text": "April/Mai",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Lebensräume bevorzugt das Rebhuhn?",
+      "number": 290,
+      "answers": [
+        {
+          "text": "Wälder",
+          "correct": false
+        },
+        {
+          "text": "Heidelandschaften",
+          "correct": false
+        },
+        {
+          "text": "kleinflächig gegliederte landwirtschaftliche Flächen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Federwildart werden die Jungen von beiden Elterntieren geführt?",
+      "number": 291,
+      "answers": [
+        {
+          "text": "Stockente",
+          "correct": false
+        },
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Woran kann man beim Rebhuhn den Hahn von der Henne unterscheiden?",
+      "number": 292,
+      "answers": [
+        {
+          "text": "am Sporn",
+          "correct": false
+        },
+        {
+          "text": "an der Form des Schnabels",
+          "correct": false
+        },
+        {
+          "text": "an der Zeichnung der Oberflügeldeckfedern",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wo legen Rebhühner bevorzugt ihre Nester an?",
+      "number": 293,
+      "answers": [
+        {
+          "text": "im Zentrum großer Maisfelder",
+          "correct": false
+        },
+        {
+          "text": "zwei bis vier Meter über dem Boden in Hecken und Feldgehölzen",
+          "correct": false
+        },
+        {
+          "text": "in Altgrasstreifen und Feldrainen",
+          "correct": true
+        },
+        {
+          "text": "im Schilf nahe der Wasserlinie",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Federwildarten hat im Gelege jeweils nur zwei Eier?",
+      "number": 294,
+      "answers": [
+        {
+          "text": "Möwen",
+          "correct": false
+        },
+        {
+          "text": "Waldschnepfen",
+          "correct": false
+        },
+        {
+          "text": "Ringeltauben",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Wildarten brütet in der Regel, auch wenn das Erstgelege nicht zerstört wurde, mehrmals im Jahr Junge aus?",
+      "number": 295,
+      "answers": [
+        {
+          "text": "Auerwild",
+          "correct": false
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        },
+        {
+          "text": "Ringeltaube",
+          "correct": true
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wer füttert die jungen Türkentauben?",
+      "number": 296,
+      "answers": [
+        {
+          "text": "Nur die weibliche Taube",
+          "correct": false
+        },
+        {
+          "text": "Nur der Tauber",
+          "correct": false
+        },
+        {
+          "text": "Die weibliche Taube und der Tauber",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Woraus besteht die Nahrung der jungen Ringeltauben in den allerersten Lebenstagen?",
+      "number": 297,
+      "answers": [
+        {
+          "text": "Aus vorverdauter Nahrung aus dem Kropf der Altvögel",
+          "correct": false
+        },
+        {
+          "text": "Aus einem Sekret, das aus Drüsen im Kropf der Altvögel abgesondert wird (Kropfmilch)",
+          "correct": true
+        },
+        {
+          "text": "Aus Pflanzenkeimen, die die Altvögel den Nestlingen zutragen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie oft brütet die Turteltaube normalerweise in einem Jahr?",
+      "number": 298,
+      "answers": [
+        {
+          "text": "1 mal",
+          "correct": false
+        },
+        {
+          "text": "2 bis 3 mal",
+          "correct": true
+        },
+        {
+          "text": "4 bis 5 mal",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wer versorgt die im Nest hockenden Jungen der Ringeltauben mit Kropfmilch?",
+      "number": 299,
+      "answers": [
+        {
+          "text": "Nur die weibliche Taube",
+          "correct": false
+        },
+        {
+          "text": "Nur der Tauber",
+          "correct": false
+        },
+        {
+          "text": "Die weibliche Taube und der Tauber",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wer bebrütet bei der Ringeltaube das Gelege?",
+      "number": 300,
+      "answers": [
+        {
+          "text": "Nur die männliche Taube (Tauber)",
+          "correct": false
+        },
+        {
+          "text": "Nur die weibliche Taube (Täubin)",
+          "correct": false
+        },
+        {
+          "text": "Tauber und Täubin im Wechsel",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wo nistet die Hohltaube?",
+      "number": 301,
+      "answers": [
+        {
+          "text": "In verlassenen Krähennestern",
+          "correct": false
+        },
+        {
+          "text": "In alten Schwarzspechthöhlen",
+          "correct": true
+        },
+        {
+          "text": "In selbstgebauten Nestern auf Fichten",
+          "correct": false
+        },
+        {
+          "text": "Auf dem Boden",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie viele Arten von Wildtauben gibt es in Deutschland?",
+      "number": 302,
+      "answers": [
+        {
+          "text": "zwei",
+          "correct": false
+        },
+        {
+          "text": "vier",
+          "correct": true
+        },
+        {
+          "text": "sechs",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Federwildart nimmt vornehmlich Salzlecken an?",
+      "number": 303,
+      "answers": [
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "text": "Ringeltaube",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie unterscheidet man alte von jungen Ringeltauben?",
+      "number": 304,
+      "answers": [
+        {
+          "text": "an der Farbe der Ständer",
+          "correct": false
+        },
+        {
+          "text": "am weißen Halsring",
+          "correct": true
+        },
+        {
+          "text": "an der Zeichnung der Deckschwingen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Taubenart brütet in Schwarzspechthöhlen bzw. in Nistkästen?",
+      "number": 305,
+      "answers": [
+        {
+          "text": "Türkentaube",
+          "correct": false
+        },
+        {
+          "text": "Turteltaube",
+          "correct": false
+        },
+        {
+          "text": "Hohltaube",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Farben weisen die Eier von Wildtauben auf?",
+      "number": 306,
+      "answers": [
+        {
+          "text": "olivgrün",
+          "correct": false
+        },
+        {
+          "text": "weißlich",
+          "correct": true
+        },
+        {
+          "text": "bläulich",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der drei genannten Federwildarten hat einfarbige, weiße Eier?",
+      "number": 307,
+      "answers": [
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "text": "Ringeltaube",
+          "correct": true
+        },
+        {
+          "text": "Waldschnepfe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sind bei den Tauben beide Geschlechter an der Brut und Jungenaufzucht beteiligt?",
+      "number": 308,
+      "answers": [
+        {
+          "text": "Nein, nur das weibliche Tier",
+          "correct": false
+        },
+        {
+          "text": "Der Tauber beteiligt sich nur an der Aufzucht",
+          "correct": false
+        },
+        {
+          "text": "Der Tauber beteiligt sich an Brut und Aufzucht",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Sie sehen im Revier eine eintönig hell staubbraune Taube mit einem schwarzen Nackenband. Um welche Taube handelt es sich?",
+      "number": 309,
+      "answers": [
+        {
+          "text": "Felsentaube",
+          "correct": false
+        },
+        {
+          "text": "Hohltaube",
+          "correct": false
+        },
+        {
+          "text": "Türkentaube",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Taubenart befindet sich bevorzugt in dicht besiedelten Bereichen?",
+      "number": 310,
+      "answers": [
+        {
+          "text": "Türkentaube",
+          "correct": true
+        },
+        {
+          "text": "Hohltaube",
+          "correct": false
+        },
+        {
+          "text": "Turteltaube",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "311. Unterscheidet sich die männliche Waldschnepfe äußerlich von der weiblichen?",
+      "number": 311,
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "312. Welchen Lebensraum bevorzugen die Waldschnepfen?",
+      "number": 312,
+      "answers": [
+        {
+          "text": "Schilfbestände an Seeufern",
+          "correct": false
+        },
+        {
+          "text": "Kiefernwälder mit Heide- und Beerkraut",
+          "correct": false
+        },
+        {
+          "text": "Mischwälder mit eingestreuten Erlenbrüchen",
+          "correct": true
+        },
+        {
+          "text": "Hecken und Feldgehölze",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "313. Mitte Mai finden Sie in einem Waldrevier am Boden in einer kreisrund ausgeformten Mulde vier braun gefleckte Eier. Von welcher der nachgenannten Vogelarten stammt dieses Gelege?",
+      "number": 313,
+      "answers": [
+        {
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "text": "Birkwild",
+          "correct": false
+        },
+        {
+          "text": "Waldschnepfe",
+          "correct": true
+        },
+        {
+          "text": "Rohrweihe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "314. Bei welcher Federwildart besteht das Gelege in der Regel aus vier Eiern?",
+      "number": 314,
+      "answers": [
+        {
+          "text": "Ringeltaube",
+          "correct": false
+        },
+        {
+          "text": "Waldschnepfe",
+          "correct": true
+        },
+        {
+          "text": "Auerhuhn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "315. Sie haben bei einer Treibjagd eine Waldschnepfe erlegt. Wo suchen Sie die Malerfedern?",
+      "number": 315,
+      "answers": [
+        {
+          "text": "vor der ersten Handschwinge",
+          "correct": true
+        },
+        {
+          "text": "an der Außenseite des Stoßes",
+          "correct": false
+        },
+        {
+          "text": "an der Bürzeldrüse",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernähren sich Höckerschwäne hauptsächlich?",
+      "number": 316,
+      "answers": [
+        {
+          "text": "Wasser- und Unterwasserpflanzen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen über Schwimmenten sind richtig?",
+      "number": 317,
+      "answers": [
+        {
+          "text": "Zu den Schwimmenten zählen Stockente, Knäkente, Krickente, Löffelente",
+          "correct": true
+        },
+        {
+          "text": "Zu den Schwimmenten zählen Krickente, Spießente, Schnatterente, Pfeifente",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen über Tauchenten sind richtig?",
+      "number": 318,
+      "answers": [
+        {
+          "text": "Zu den Tauchenten zählen Reiherente, Eisente, Bergente, Moorente",
+          "correct": true
+        },
+        {
+          "text": "Zu den Tauchenten zählen Tafelente, Eiderente, Kolbenente, Samtente",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Erkennungsmerkmale bei Schwimm- und Tauchenten sind richtig?",
+      "number": 319,
+      "answers": [
+        {
+          "text": "Wenn die Schwimmente auf dem Wasser schwimmt, sind ihre Schwanzfedern (Bürzel) immer über dem Wasser.",
+          "correct": true
+        },
+        {
+          "text": "Die Schwimmente kann recht steil, ohne Anlauf, direkt vom Wasser in die Luft steigen.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Enten sind Schwimmenten?",
+      "number": 320,
+      "answers": [
+        {
+          "text": "Schnatterente",
+          "correct": true
+        },
+        {
+          "text": "Pfeifente",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In welchem Zeitraum sind Stockentenerpel wegen der Großgefiedermauser in Niedersachsen flugunfähig oder schlecht flugfähig?",
+      "number": 321,
+      "answers": [
+        {
+          "text": "Juni/Juli",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen über die Stockente sind richtig?",
+      "number": 322,
+      "answers": [
+        {
+          "text": "Der Erpel beteiligt sich am Brutgeschäft",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ab welchem Alter sind die Jungen der Stockente flugfähig?",
+      "number": 323,
+      "answers": [
+        {
+          "text": "Etwa mit 2 Monaten",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In welcher Jahreszeit beginnt die Paarbildung bei den Stockenten in der Regel in Niedersachsen?",
+      "number": 324,
+      "answers": [
+        {
+          "text": "Im Herbst",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen trifft auf den Haubentaucher zu?",
+      "number": 325,
+      "answers": [
+        {
+          "text": "Er ernährt sich von Fischen",
+          "correct": true
+        },
+        {
+          "text": "Er ernährt sich von Pflanzen an der Wasseroberfläche",
+          "correct": false
+        },
+        {
+          "text": "Er ernährt sich von Pflanzen auf dem Gewässergrund",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wozu dienen die Hornzähne an den Schnäbeln der Säger?",
+      "number": 326,
+      "answers": [
+        {
+          "text": "Zum Ausfiltern von Fischlaich aus dem Wasser",
+          "correct": false
+        },
+        {
+          "text": "Zum sicheren Fangen und Halten von Fischen",
+          "correct": true
+        },
+        {
+          "text": "Zum leichteren Abschneiden von Wasserpflanzen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernährt sich das Blässhuhn?",
+      "number": 327,
+      "answers": [
+        {
+          "text": "Es ernährt sich ausschließlich von Wasserpflanzen",
+          "correct": false
+        },
+        {
+          "text": "Es ernährt sich ausschließlich von im Wasser lebenden Kleintieren und Insekten",
+          "correct": false
+        },
+        {
+          "text": "Es ernährt sich sowohl von Wasserpflanzen wie auch von Kleintieren und Insekten",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zu Möwen sind richtig?",
+      "number": 328,
+      "answers": [
+        {
+          "text": "Möwen brüten meist einzeln, abseits von Gewässern",
+          "correct": false
+        },
+        {
+          "text": "Möwen können nicht mit dem ganzen Körper tauchen",
+          "correct": false
+        },
+        {
+          "text": "Lachmöwen suchen ihre Nahrung nur auf dem Wasser",
+          "correct": false
+        },
+        {
+          "text": "Möwen brüten meist in Kolonien in Gewässernähe",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen über Gänse sind richtig?",
+      "number": 329,
+      "answers": [
+        {
+          "text": "Graugänse suchen ihre Nahrung fast ausschließlich im Wasser",
+          "correct": false
+        },
+        {
+          "text": "Graugänse suchen ihre Nahrung fast ausschließlich an Land",
+          "correct": true
+        },
+        {
+          "text": "Die Grauganspopulation in Niedersachsen nimmt stetig ab",
+          "correct": false
+        },
+        {
+          "text": "Bei allen Gänsen ist das Gefieder bei Gans und Ganter gleich gefärbt",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Entenarten gehören zu den Schwimmenten (Gründelenten)?",
+      "number": 330,
+      "answers": [
+        {
+          "text": "Spießente, Schnatterente, Krickente",
+          "correct": true
+        },
+        {
+          "text": "Tafelente, Reiherente, Moorente",
+          "correct": false
+        },
+        {
+          "text": "Kolbenente, Schellente, Eisente",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Entenart brütet vornehmlich in Baumhöhlen?",
+      "number": 331,
+      "answers": [
+        {
+          "text": "Eiderente",
+          "correct": false
+        },
+        {
+          "text": "Schellente",
+          "correct": true
+        },
+        {
+          "text": "Krickente",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Entenarten brüten nicht in Niedersachsen",
+      "number": 332,
+      "answers": [
+        {
+          "text": "Krickente",
+          "correct": false
+        },
+        {
+          "text": "Trauerente",
+          "correct": true
+        },
+        {
+          "text": "Reiherente",
+          "correct": false
+        },
+        {
+          "text": "Samtente",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der drei genannten Entenarten zählt zu den Tauchenten?",
+      "number": 333,
+      "answers": [
+        {
+          "text": "Krickente",
+          "correct": false
+        },
+        {
+          "text": "Knäkente",
+          "correct": false
+        },
+        {
+          "text": "Tafelente",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Was versteht man unter „Reihzeit“?",
+      "number": 334,
+      "answers": [
+        {
+          "text": "die Sammlung der Zugvögel im Herbst",
+          "correct": false
+        },
+        {
+          "text": "die Paarungszeit der Enten",
+          "correct": true
+        },
+        {
+          "text": "die Begründung der Rangordnung beim Schalenwild",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie unterscheiden sich bei den Möwen die Geschlechter?",
+      "number": 335,
+      "answers": [
+        {
+          "text": "es gibt keine äußerlichen Unterschiede",
+          "correct": true
+        },
+        {
+          "text": "die Männchen sind deutlich größer als die Weibchen",
+          "correct": false
+        },
+        {
+          "text": "die Männchen sind heller, die Weibchen dunkler gefärbt",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Federwildarten ist im Sommer mauserbedingt einige Wochen flugunfähig?",
+      "number": 336,
+      "answers": [
+        {
+          "text": "Waldschnepfe",
+          "correct": false
+        },
+        {
+          "text": "Stockente",
+          "correct": true
+        },
+        {
+          "text": "Wildtruthahn",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie ist bei der Graugans der Schnabel gefärbt?",
+      "number": 337,
+      "answers": [
+        {
+          "text": "rosafarbig",
+          "correct": true
+        },
+        {
+          "text": "braun",
+          "correct": false
+        },
+        {
+          "text": "schwarz",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welches ist die größte heimische Feldgans?",
+      "number": 338,
+      "answers": [
+        {
+          "text": "Blässgans",
+          "correct": false
+        },
+        {
+          "text": "Graugans",
+          "correct": true
+        },
+        {
+          "text": "Saatgans",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche charakteristischen Merkmale sind der Kanadagans zuzuordnen?",
+      "number": 339,
+      "answers": [
+        {
+          "text": "schwarzer Kopf und Hals",
+          "correct": true
+        },
+        {
+          "text": "grau-weiß gesprenkelter Kopf",
+          "correct": false
+        },
+        {
+          "text": "schmaler weißer Halsring",
+          "correct": false
+        },
+        {
+          "text": "ausgedehntes weißes Kinnband",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Gänsearten gehören zu den Neozoen?",
+      "number": 340,
+      "answers": [
+        {
+          "text": "Saatgans",
+          "correct": false
+        },
+        {
+          "text": "Kanadagans",
+          "correct": true
+        },
+        {
+          "text": "Blässgans",
+          "correct": false
+        },
+        {
+          "text": "Nilgans",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie unterscheidet sich die Grau- von der Saatgans?",
+      "number": 341,
+      "answers": [
+        {
+          "text": "durch die Größe",
+          "correct": false
+        },
+        {
+          "text": "durch die Schnabelfärbung",
+          "correct": true
+        },
+        {
+          "text": "durch die Halslänge",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Wildart brütet auf Bäumen und in Kolonien?",
+      "number": 342,
+      "answers": [
+        {
+          "text": "Kolkrabe",
+          "correct": false
+        },
+        {
+          "text": "Graureiher",
+          "correct": true
+        },
+        {
+          "text": "Ringeltaube",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Zur Ernährung der Graureiher gehören neben Fischen auch andere Tiergruppen. Was gehört aus dem Nachgenannten noch zu seinem Nahrungsspektrum?",
+      "number": 343,
+      "answers": [
+        {
+          "text": "Junghasen und Enten",
+          "correct": false
+        },
+        {
+          "text": "Amphibien und Mäuse",
+          "correct": true
+        },
+        {
+          "text": "Eier aus den Gelegen von Bodenbrütern",
+          "correct": false
+        },
+        {
+          "text": "Schnecken und Würmer",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In welchen Landschaftstypen kommen Graureiher nicht vor?",
+      "number": 344,
+      "answers": [
+        {
+          "text": "geschlossene große Waldgebiete",
+          "correct": true
+        },
+        {
+          "text": "Flussauen und Marschen",
+          "correct": false
+        },
+        {
+          "text": "hohe Gebirgsregionen",
+          "correct": true
+        },
+        {
+          "text": "Mittelgebirge und Heide",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Graureiher sind Stand-, Strich- und Zugvögel (ziehen bis Südafrika). Wie ziehen sie in ihre Überwinterungsgebiete?",
+      "number": 345,
+      "answers": [
+        {
+          "text": "in großen, keilförmig formierten Verbänden",
+          "correct": false
+        },
+        {
+          "text": "im Familienverband unter Führung der Altvögel",
+          "correct": true
+        },
+        {
+          "text": "einzeln oder in losen Trupps",
+          "correct": true
+        },
+        {
+          "text": "meist tagsüber",
+          "correct": false
+        },
+        {
+          "text": "meist nachts",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Was ist für das Flugbild des Graureihers kennzeichnend?",
+      "number": 346,
+      "answers": [
+        {
+          "text": "der s-förmig gekrümmte Hals",
+          "correct": true
+        },
+        {
+          "text": "der gegabelte Stoß",
+          "correct": false
+        },
+        {
+          "text": "der langgestreckte Hals",
+          "correct": false
+        },
+        {
+          "text": "das Rütteln über dem Wasser",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Aussagen treffen auf den Graureiher zu?",
+      "number": 347,
+      "answers": [
+        {
+          "text": "Er zählt zu den Schreitvögeln",
+          "correct": true
+        },
+        {
+          "text": "Er brütet in Kolonien",
+          "correct": true
+        },
+        {
+          "text": "Er ernährt sich ausschließlich von Fischen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was versteht man unter Gewölle?",
+      "number": 348,
+      "answers": [
+        {
+          "text": "ausgespieene unverdauliche Reste der gekröpften Beute von Greifvögeln, Möwen, Rabenvögeln, Reihern und Störchen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie schlüpfen die jungen Greifvogel?",
+      "number": 349,
+      "answers": [
+        {
+          "text": "Sehend und beflaumt",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie unterscheidet sich der Oberschnabel eines Baumfalken wesentlich von dem eines Sperbers?",
+      "number": 350,
+      "answers": [
+        {
+          "text": "Er besitzt den sogenannten Falkenzahn",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Greifvogel töten ihre Beute mit dem Schnabel?",
+      "number": 351,
+      "answers": [
+        {
+          "text": "Wanderfalke",
+          "correct": true
+        },
+        {
+          "text": "Turmfalke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welchen der nachgenannten Federwildarten ist das Weibchen deutlich größer als das Männchen?",
+      "number": 352,
+      "answers": [
+        {
+          "text": "Habicht",
+          "correct": true
+        },
+        {
+          "text": "Wanderfalke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welcher der nachgenannten Greifvögel brütet in der Regel auf Bäumen?",
+      "number": 353,
+      "answers": [
+        {
+          "text": "Schwarzer Milan",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen über Greifvogel sind richtig?",
+      "number": 354,
+      "answers": [
+        {
+          "text": "Steinadler und Wiesenweihe gehören zu den Grifftötern",
+          "correct": true
+        },
+        {
+          "text": "Mäusebussard und Habicht gehören zu den Grifftötern",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher nachgenannten Falkenart spielen Mäuse im Nahrungsspektrum die wichtigste Rolle?",
+      "number": 355,
+      "answers": [
+        {
+          "text": "Turmfalke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Falkenarten bewohnt von Elstern und Krähen erbaute Nester?",
+      "number": 356,
+      "answers": [
+        {
+          "text": "Turmfalke",
+          "correct": true
+        },
+        {
+          "text": "Baumfalke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welcher der nachgenannten Falken schlägt seine Beute in der Regel am Boden?",
+      "number": 357,
+      "answers": [
+        {
+          "text": "Turmfalke",
+          "correct": true
+        },
+        {
+          "text": "Wanderfalke",
+          "correct": false
+        },
+        {
+          "text": "Baumfalke",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Für welchen der nachgenannten Falken ist das Rütteln typisch?",
+      "number": 358,
+      "answers": [
+        {
+          "text": "Wanderfalke",
+          "correct": false
+        },
+        {
+          "text": "Turmfalke",
+          "correct": true
+        },
+        {
+          "text": "Baumfalke",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Falken schlagen ihre Beute ausschließlich im Flug?",
+      "number": 359,
+      "answers": [
+        {
+          "text": "Wanderfalke",
+          "correct": true
+        },
+        {
+          "text": "Turmfalke",
+          "correct": false
+        },
+        {
+          "text": "Baumfalke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie töten Falken ihre Beute?",
+      "number": 360,
+      "answers": [
+        {
+          "text": "Durch Biss mit dem Schnabel in das Genick der Beute",
+          "correct": true
+        },
+        {
+          "text": "Durch Einschlagen der Fänge in das Genick der Beute",
+          "correct": false
+        },
+        {
+          "text": "Durch Biss mit dem Schnabel in die Kehle der Beute",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie tötet der Steinadler seine Beute?",
+      "number": 361,
+      "answers": [
+        {
+          "text": "Durch einen Biss mit seinem kräftigen Schnabel in den Nacken des Beutetieres",
+          "correct": false
+        },
+        {
+          "text": "Mit seinen Fängen",
+          "correct": true
+        },
+        {
+          "text": "Er lässt seine Beute während des Flugs hoch über Grund fallen, dass sie zerschmettert am Boden liegen bleibt",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Greifvogelarten ähneln sich in ihrem Aussehen und der Art ihres Jagens, unterscheiden sich jedoch in der Körpergröße?",
+      "number": 362,
+      "answers": [
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        },
+        {
+          "text": "Wanderfalke",
+          "correct": false
+        },
+        {
+          "text": "Habicht",
+          "correct": true
+        },
+        {
+          "text": "Rohrweihe",
+          "correct": false
+        },
+        {
+          "text": "Turmfalke",
+          "correct": true
+        },
+        {
+          "text": "Sperber",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Vorteile ergeben sich daraus, daß bei Habicht und Sperber die Weibchen größer als Terzel und Sprinz sind?",
+      "number": 363,
+      "answers": [
+        {
+          "text": "Fremde Horste können erobert werden",
+          "correct": false
+        },
+        {
+          "text": "Eier können besser gewärmt werden",
+          "correct": true
+        },
+        {
+          "text": "Ein unterschiedliches Beutespektrum im gleichen Revier kann besser genutzt werden",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ein Greifvogel streicht von einem Randbaum schnell und tief am Wald entlang und schlägt eine am Boden äsende Ringeltaube. Welcher der nachstehend genannten Greifvögel jagt in dieser Weise?",
+      "number": 364,
+      "answers": [
+        {
+          "text": "Turmfalke",
+          "correct": false
+        },
+        {
+          "text": "Habicht",
+          "correct": true
+        },
+        {
+          "text": "Baumfalke",
+          "correct": false
+        },
+        {
+          "text": "Wespenbussard",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo horstet bevorzugt der Habicht?",
+      "number": 365,
+      "answers": [
+        {
+          "text": "In den Kronen alter Waldbäume",
+          "correct": true
+        },
+        {
+          "text": "Auf Bodenerhebungen in Mooren",
+          "correct": false
+        },
+        {
+          "text": "In Scheunen in der Nähe von Haushühnern",
+          "correct": false
+        },
+        {
+          "text": "In Dornenhecken",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wann beginnt das Habichtsweib mit der Mauser?",
+      "number": 366,
+      "answers": [
+        {
+          "text": "Im Verlauf der Brutperiode",
+          "correct": true
+        },
+        {
+          "text": "Nach dem Flüggewerden der Junghabichte",
+          "correct": false
+        },
+        {
+          "text": "Unmittelbar nach der Balz",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "367. Wovon ernährt sich der Sperber hauptsächlich?",
+      "number": 367,
+      "answers": [
+        {
+          "text": "Von Junghasen",
+          "correct": false
+        },
+        {
+          "text": "Von Mäusen",
+          "correct": false
+        },
+        {
+          "text": "Von Kleinvögeln",
+          "correct": true
+        },
+        {
+          "text": "Von Kröten und Fröschen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "368. Welcher der nachgenannten Greifvögel schlägt seine Beute sowohl in der Luft als auch am Boden?",
+      "number": 368,
+      "answers": [
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        },
+        {
+          "text": "Roter Milan",
+          "correct": false
+        },
+        {
+          "text": "Habicht",
+          "correct": true
+        },
+        {
+          "text": "Wanderfalke",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "369. Für welche der nachgenannten Greifvögel ist Aas eine wesentliche Ernährungsgrundlage?",
+      "number": 369,
+      "answers": [
+        {
+          "text": "Habicht",
+          "correct": false
+        },
+        {
+          "text": "Turmfalke",
+          "correct": false
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": true
+        },
+        {
+          "text": "Roter Milan",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "370. Ein Greifvogel blockt auf einem Zaunpfahl im freien Feld und stößt von dieser Ansitzwarte nach Mäusen. Um welchen Greifvogel handelt es sich?",
+      "number": 370,
+      "answers": [
+        {
+          "text": "Wanderfalke",
+          "correct": true
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        },
+        {
+          "text": "Habicht",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "371. Welche Greifvogelgattung zählt ausschließlich zu den Bodenbrütern?",
+      "number": 371,
+      "answers": [
+        {
+          "text": "Weihen",
+          "correct": true
+        },
+        {
+          "text": "Adler",
+          "correct": false
+        },
+        {
+          "text": "Falken",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "372. Von welcher Vogelart stammt das Gewölle, in dem unverdaute Knochen und ganze Mäuseschädel enthalten sind?",
+      "number": 372,
+      "answers": [
+        {
+          "text": "Baumfalke",
+          "correct": false
+        },
+        {
+          "text": "Steinadler",
+          "correct": false
+        },
+        {
+          "text": "Schleiereule",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "373. Wovon ernährt sich der Wespenbussard hauptsächlich?",
+      "number": 373,
+      "answers": [
+        {
+          "text": "Larven, Puppen und ausgewachsene Wespen, Hummeln und Erdbienen",
+          "correct": true
+        },
+        {
+          "text": "Mäusen",
+          "correct": false
+        },
+        {
+          "text": "Aas",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "374. Wann im Jahr kann man in Niedersachsen Wespenbussarde sehen?",
+      "number": 374,
+      "answers": [
+        {
+          "text": "ganzjährig",
+          "correct": false
+        },
+        {
+          "text": "vom zeitigen Frühjahr ab März bis Ende Oktober",
+          "correct": false
+        },
+        {
+          "text": "von Ende April bis Anfang September",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "375. Welcher Greifvogel begrünt seinen Horst?",
+      "number": 375,
+      "answers": [
+        {
+          "text": "Sperber",
+          "correct": false
+        },
+        {
+          "text": "Habicht",
+          "correct": true
+        },
+        {
+          "text": "Baumfalke",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "376. Welche Greifvogel sind Bodenbrüter?",
+      "number": 376,
+      "answers": [
+        {
+          "text": "Rot- und Schwarzmilan",
+          "correct": false
+        },
+        {
+          "text": "die Weihen",
+          "correct": true
+        },
+        {
+          "text": "Fisch- und Seeadler",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welcher Greifvogel kommt bei uns nur im Winter vor?",
+      "number": 377,
+      "answers": [
+        {
+          "text": "Wespenbussard",
+          "correct": false
+        },
+        {
+          "text": "Rauhfußbussard",
+          "correct": true
+        },
+        {
+          "text": "Schwarzmilan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Falkenart erscheint bei uns regelmäßig als Durchzügler und Wintergast?",
+      "number": 378,
+      "answers": [
+        {
+          "text": "Wanderfalke",
+          "correct": false
+        },
+        {
+          "text": "Merlin",
+          "correct": true
+        },
+        {
+          "text": "Turmfalke",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Bussardart überwintert in Afrika?",
+      "number": 379,
+      "answers": [
+        {
+          "text": "Rauhfußbussard",
+          "correct": false
+        },
+        {
+          "text": "Wespenbussard",
+          "correct": true
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Greifvogelart erbeutet häufig auch fliegende Insekten?",
+      "number": 380,
+      "answers": [
+        {
+          "text": "Sperber",
+          "correct": false
+        },
+        {
+          "text": "Baumfalke",
+          "correct": true
+        },
+        {
+          "text": "Wespenbussard",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Greifvogelart ist der Stoß gegabelt?",
+      "number": 381,
+      "answers": [
+        {
+          "text": "Schwarzer Milan",
+          "correct": true
+        },
+        {
+          "text": "Habicht",
+          "correct": false
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo bauen Milane in Deutschland in der Regel ihren Horst?",
+      "number": 382,
+      "answers": [
+        {
+          "text": "an Felswänden",
+          "correct": false
+        },
+        {
+          "text": "am Erdboden",
+          "correct": false
+        },
+        {
+          "text": "auf Bäumen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Sie sehen im Revier einen kleinen, schlanken, fliegenden Greifvogel mit einer breiten, dunklen Endbinde am Stoß und spitzen Schwingen; während seines Fluges rüttelt er wiederholt. Um welchen Greifvogel handelt es sich?",
+      "number": 383,
+      "answers": [
+        {
+          "text": "Turmfalke",
+          "correct": true
+        },
+        {
+          "text": "Sperber",
+          "correct": false
+        },
+        {
+          "text": "Wiesenweihe",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sie finden in einem Getreidefeld ein Gelege mit 3 weißen Eiern in der Größe von Zwerghuhneiern. Welcher Federwildart sind diese Eier zuzuordnen?",
+      "number": 384,
+      "answers": [
+        {
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "text": "Wiesenweihe",
+          "correct": true
+        },
+        {
+          "text": "Wanderfalke",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sie finden einen Greifvogelhorst, an dem Plastikmaterial oder Papierfetzen hängen. Welcher Greifvogelart ist dieser Horst zuzuschreiben?",
+      "number": 385,
+      "answers": [
+        {
+          "text": "Rohrweihe",
+          "correct": false
+        },
+        {
+          "text": "Rotmilan",
+          "correct": true
+        },
+        {
+          "text": "Wespenbussard",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher aufgeführten Greifvogelart ist das Männchen anders gefärbt als das Weibchen?",
+      "number": 386,
+      "answers": [
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        },
+        {
+          "text": "Habicht",
+          "correct": false
+        },
+        {
+          "text": "Turmfalke",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Zuordnungen bei den Greifvögeln sind stimmig?",
+      "number": 387,
+      "answers": [
+        {
+          "text": "Terzel = Habichtmännchen",
+          "correct": true
+        },
+        {
+          "text": "Ritter",
+          "correct": false
+        },
+        {
+          "text": "Sprinz = Sperbermännchen = Adlermännchen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Eichelhäher sind richtig?",
+      "number": 388,
+      "answers": [
+        {
+          "text": "Der Eichelhäher unterliegt dem Jagdrecht",
+          "correct": false
+        },
+        {
+          "text": "Der Eichelhäher gehört zu den Rabenvögeln",
+          "correct": true
+        },
+        {
+          "text": "Der Eichelhäher ist ein reiner Pflanzenfresser",
+          "correct": false
+        },
+        {
+          "text": "Der Eichelhäher trägt zur Verbreitung der Samen von Waldbäumen bei",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zur Elster sind richtig?",
+      "number": 389,
+      "answers": [
+        {
+          "text": "Die Elster ist ein reiner Fleischfresser",
+          "correct": false
+        },
+        {
+          "text": "Die Elster gehört zu den Rabenvögeln",
+          "correct": true
+        },
+        {
+          "text": "Die Nahrung der Elster besteht aus vielen Kleintieren, zur Brutzeit auch aus Eiern und Vogeljungen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zur Rabenkrähe sind richtig?",
+      "number": 390,
+      "answers": [
+        {
+          "text": "Die Nebelkrähe stammt aus einer Kreuzung zwischen Saatkrähe und Rabenkrähe",
+          "correct": true
+        },
+        {
+          "text": "Die Rabenkrähe ernährt sich als Allesfresser auch von Vogelgelegen, nestjungen Vögeln,",
+          "correct": false
+        },
+        {
+          "text": "Die Rabenkrähe meidet städtische Siedlungen",
+          "correct": false
+        },
+        {
+          "text": "Die mehrjährige Rabenkrähe lässt sich an der Befiederung der Schnabelwurzel von der mehrjährigen Saatkrähe unterscheiden",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Aussagen zum Kolkraben sind richtig?",
+      "number": 391,
+      "answers": [
+        {
+          "text": "Der Kolkrabe ist der größte Singvogel in Niedersachsen",
+          "correct": true
+        },
+        {
+          "text": "Das Flugbild des Kolkraben unterscheidet sich durch den keilförmigen Stoß von den übrigen Rabenvögeln",
+          "correct": true
+        },
+        {
+          "text": "Der Kolkrabe ist ein Zugvogel",
+          "correct": false
+        },
+        {
+          "text": "Der Kolkrabe ist ein reiner Fleischfresser",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Aussage zum Brutverhalten der Saatkrähe in Niedersachsen ist richtig?",
+      "number": 392,
+      "answers": [
+        {
+          "text": "Sie brütet nur in der Heide in Kolonien",
+          "correct": false
+        },
+        {
+          "text": "Brutkolonien sind häufig in der Börde und Marsch zu beobachten",
+          "correct": true
+        },
+        {
+          "text": "Sie brütet einzelpaarweise, oft auf der Geest",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie sehen von Rabenkrähen aufgehackte Eier in der Regel aus?",
+      "number": 393,
+      "answers": [
+        {
+          "text": "am stumpfen Pol aufgehackt",
+          "correct": false
+        },
+        {
+          "text": "an beiden Polen aufgehackt",
+          "correct": false
+        },
+        {
+          "text": "in der Mitte aufgehackt",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernähren sich Saatkrähen vornehmlich?",
+      "number": 394,
+      "answers": [
+        {
+          "text": "von Aas",
+          "correct": false
+        },
+        {
+          "text": "von Insekten, Käfern und Würmern",
+          "correct": true
+        },
+        {
+          "text": "von Sämereien und Abfall",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sie sehen auf einem Feld einen Rabenvogel sitzen, dessen Schnabelwurzel unbefiedert ist und ein graugrindiges Aussehen aufweist. Um welchen Rabenvogel handelt es sich?",
+      "number": 395,
+      "answers": [
+        {
+          "text": "Kolkrabe",
+          "correct": false
+        },
+        {
+          "text": "Rabenkrähe",
+          "correct": false
+        },
+        {
+          "text": "Saatkrähe",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernähren sich Rabenvögel im Allgemeinen?",
+      "number": 396,
+      "answers": [
+        {
+          "text": "sie sind als reine Fleischfresser auf bestimmte Beutetierarten spezialisiert",
+          "correct": false
+        },
+        {
+          "text": "sie sind vielseitig anpassungsfähige Allesfresser",
+          "correct": true
+        },
+        {
+          "text": "sie sind vorwiegend Pflanzenfresser",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Sie sehen im März in einer Wallhecke auf einem halbhohen Baum einen aus trockenen Zweigen frisch gebauten, kugelförmigen Horst. Von welchem Vogel stammt der Horst?",
+      "number": 397,
+      "answers": [
+        {
+          "text": "Rabenkrähe",
+          "correct": false
+        },
+        {
+          "text": "Mäusebussard",
+          "correct": false
+        },
+        {
+          "text": "Elster",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Woraus besteht hauptsächlich die Nahrung der Murmeltiere?",
+      "number": 398,
+      "answers": [
+        {
+          "text": "Aus Latschen",
+          "correct": false
+        },
+        {
+          "text": "Aus Insekten und Larven",
+          "correct": false
+        },
+        {
+          "text": "Aus Kräutern und Gräsern",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Tiere gehören zu den Nagetieren?",
+      "number": 399,
+      "answers": [
+        {
+          "text": "Mauswiesel, Dachs",
+          "correct": false
+        },
+        {
+          "text": "Marder, Iltis",
+          "correct": false
+        },
+        {
+          "text": "Murmel, Biber",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welchen sperlingsgroßen Vogel mit schwarzweißrotem Kopf und breiter gelber Flügelbinde findet man im Spätsommer und Herbst auf Rainen und Ödland beim Verzehren von Distelsamen?",
+      "number": 400,
+      "answers": [
+        {
+          "text": "Gimpel",
+          "correct": false
+        },
+        {
+          "text": "Buchfink",
+          "correct": false
+        },
+        {
+          "text": "Stieglitz",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Woran ist die Ringelnatter leicht zu erkennen?",
+      "number": 401,
+      "answers": [
+        {
+          "text": "an den beiden hellen (gelben oder weißen) Flecken im Nacken",
+          "correct": true
+        },
+        {
+          "text": "an der gebänderten Zeichnung",
+          "correct": false
+        },
+        {
+          "text": "am dicken stumpfen Schwanzende",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Schlange gebärt lebende Junge?",
+      "number": 402,
+      "answers": [
+        {
+          "text": "Kreuzotter",
+          "correct": true
+        },
+        {
+          "text": "Ringelnatter",
+          "correct": false
+        },
+        {
+          "text": "Schlingnatter",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welches Feld bewohnende Tier legt unterirdische Bauten bis zu 2 m unter der Erdoberfläche mit mehreren Kammern (Nestkessel, Vorratskammern, Kotplatz) und Röhren bis zu 10 m Länge an?",
+      "number": 403,
+      "answers": [
+        {
+          "text": "Mauswiesel",
+          "correct": false
+        },
+        {
+          "text": "Feldhamster",
+          "correct": true
+        },
+        {
+          "text": "Bisam",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Woraus besteht die Nahrung der Biber?",
+      "number": 404,
+      "answers": [
+        {
+          "text": "Aas",
+          "correct": false
+        },
+        {
+          "text": "jede Form von Pflanzen (Gräser, Kräuter, Wasserpflanzen, Bäume, Sträucher)",
+          "correct": true
+        },
+        {
+          "text": "Mäuse",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was benötigen Hirschkäfer-Larven als Nahrung?",
+      "number": 405,
+      "answers": [
+        {
+          "text": "Laubstreu",
+          "correct": false
+        },
+        {
+          "text": "vermodernde Baumstubben in Laubwäldern",
+          "correct": true
+        },
+        {
+          "text": "Gräser",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie alt wird ein Feldhamster in der Natur?",
+      "number": 406,
+      "answers": [
+        {
+          "text": "1 Jahr",
+          "correct": false
+        },
+        {
+          "text": "4 Jahre",
+          "correct": true
+        },
+        {
+          "text": "20 Jahre",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "In welchem Bundesland leben heute noch Großtrappen in freier Wildbahn?",
+      "number": 407,
+      "answers": [
+        {
+          "text": "Hessen",
+          "correct": false
+        },
+        {
+          "text": "Brandenburg",
+          "correct": true
+        },
+        {
+          "text": "Schleswig-Holstein",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welches Tier raubt mit Vorliebe Enteneier?",
+      "number": 408,
+      "answers": [
+        {
+          "text": "Wanderratte",
+          "correct": true
+        },
+        {
+          "text": "Bisam",
+          "correct": false
+        },
+        {
+          "text": "Nutria",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welcher Fisch fressende Tauchvogel nimmt nach jedem Wasseraufenthalt zum Trocknen des durchnässten Gefieders eine charakteristische Haltung ein (Sitzen auf Uferstein, Pfahl o. ä. mit ausgestreckten Flügeln)?",
+      "number": 409,
+      "answers": [
+        {
+          "text": "Gänsesäger",
+          "correct": false
+        },
+        {
+          "text": "Kormoran",
+          "correct": true
+        },
+        {
+          "text": "Haubentaucher",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welcher Frosch ist auf der Oberseite blattgrün, hat zu einem Polster erweiterte Fingerenden und eine bis zu 3 cm lange Leibeslänge?",
+      "number": 410,
+      "answers": [
+        {
+          "text": "Wasserfrosch",
+          "correct": false
+        },
+        {
+          "text": "Grasfrosch",
+          "correct": false
+        },
+        {
+          "text": "Laubfrosch",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernährt sich ein ausgewachsener Feuersalamander hauptsächlich?",
+      "number": 411,
+      "answers": [
+        {
+          "text": "Fliegen, Mücken und Wespen",
+          "correct": false
+        },
+        {
+          "text": "Schnecken, Regenwürmer und Bodeninsekten",
+          "correct": true
+        },
+        {
+          "text": "Laub, Gras und Kräuter",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "An Spechtlöchern oder Baumritzen findet sich manchmal ein fettiger Eingang, von dem ein eigentümlich unangenehmer Geruch ausgeht. Auf was lässt das schließen?",
+      "number": 412,
+      "answers": [
+        {
+          "text": "Im Bauminneren befindet sich ein Wespennest",
+          "correct": false
+        },
+        {
+          "text": "Der Große Abendsegler nutzt den Baum als Tagesversteck",
+          "correct": true
+        },
+        {
+          "text": "Der Baum ist krank",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der genannten Tierarten legt unterirdische Nahrungsdepots an?",
+      "number": 413,
+      "answers": [
+        {
+          "text": "Igel",
+          "correct": false
+        },
+        {
+          "text": "Mausohr",
+          "correct": false
+        },
+        {
+          "text": "Eichhörnchen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernähren sich Siebenschläfer?",
+      "number": 414,
+      "answers": [
+        {
+          "text": "Gräser und Kräuter",
+          "correct": false
+        },
+        {
+          "text": "Insekten",
+          "correct": true
+        },
+        {
+          "text": "Früchte und Samen",
+          "correct": true
+        },
+        {
+          "text": "Mäuse",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Woran ist im Revier die Anwesenheit des seltenen Neuntoters zu erkennen, auch wenn der Vogel selbst nicht zu sehen ist?",
+      "number": 415,
+      "answers": [
+        {
+          "text": "an Huderpfannen",
+          "correct": false
+        },
+        {
+          "text": "an Rupfungen",
+          "correct": false
+        },
+        {
+          "text": "an auf Dornen aufgespießten Käfern, Eidechsen, kleinen Fröschen und Jungvögeln",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernähren sich Spitzmäuse?",
+      "number": 416,
+      "answers": [
+        {
+          "text": "Gräser",
+          "correct": false
+        },
+        {
+          "text": "Insekten",
+          "correct": true
+        },
+        {
+          "text": "Früchte und Sämereien",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wovon ernähren sich Kreuzottern?",
+      "number": 417,
+      "answers": [
+        {
+          "text": "Mäuse, Eidechsen und Frösche",
+          "correct": true
+        },
+        {
+          "text": "Insekten",
+          "correct": false
+        },
+        {
+          "text": "Gräser und Kräuter",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
