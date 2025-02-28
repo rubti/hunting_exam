@@ -5,22 +5,26 @@ import sys
 import genanki
 from dotenv import load_dotenv
 from langchain.output_parsers import PydanticOutputParser
-from langchain.prompts import (ChatPromptTemplate, HumanMessagePromptTemplate,
-                               SystemMessagePromptTemplate)
+from langchain.prompts import (
+    ChatPromptTemplate,
+    HumanMessagePromptTemplate,
+    SystemMessagePromptTemplate,
+)
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
 from unstract.llmwhisperer.client_v2 import LLMWhispererClientV2
 
-ANKI_FILE = "anki/jaegerpruefung_tiere.apkg"
-ANKI_DECK_NAME = "Jägerprüfung::Tiere"
+ANKI_FILE = "anki/jaegerpruefung_jagdwaffen.apkg"
+ANKI_DECK_NAME = "Jägerprüfung::Jagdwaffen"
 ANKI_DECK_DESCRIPTION = (
-    "Fragen Stand Juli 2022 Fachgebiet 1: "
-    '"Dem Jagdrecht unterliegende und andere frei lebende Tiere" '
+    "Fragen Stand Juli 2022 Fachgebiet 2: "
+    '"Jagdwaffen und Fanggeräte" '
     "für die Jägerprüfung Niedersachsen"
 )
-JSON_FILE = "json/tiere.json"
-INPUT_FILE = "assets/tiere.pdf"
-LAST_PAGE = 52
+JSON_FILE = "json/jagdwaffen_3.json"
+INPUT_FILE = "assets/jagdwaffen.pdf"
+FIRST_PAGE = 45
+LAST_PAGE = 61
 
 
 class Answer(BaseModel):
@@ -47,7 +51,7 @@ def process_hunting_exam(extracted_text):
     preamble = (
         "What you are seeing are questions from an exam for the hunting license in Lower Saxony, Germany. "
         "Your job is to extract only the questions without chapter headings to the given format."
-        "An [X] preceding the answer means that the answer is correct."
+        "An [X] preceding the answer means that the answer is correct. Put all answers in the output and mark incorrect answers with false."
     )
     postamble = (
         "Do not include any explanation in the reply. "
@@ -69,7 +73,7 @@ def process_hunting_exam(extracted_text):
         extracted_text=extracted_text,
         postamble=postamble,
     ).to_messages()
-    chat = ChatOpenAI()
+    chat = ChatOpenAI(model="gpt-4o-mini")
     response = chat(request, temperature=0.0)
     return response.content
 
@@ -154,15 +158,15 @@ def generate_flashcards(data: HuntingExam):
 
 def main():
     load_dotenv("./keys.env")
-    exam = process_pdf(INPUT_FILE, 1)
+    exam = process_pdf(INPUT_FILE, FIRST_PAGE)
     try:
-        for i in range(2, LAST_PAGE + 1):
+        for i in range(FIRST_PAGE + 1, LAST_PAGE + 1):
             exam.questions.extend(process_pdf(INPUT_FILE, f"{i}").questions)
     finally:
         pathlib.Path(JSON_FILE).parent.mkdir(parents=True, exist_ok=True)
         with open(JSON_FILE, "w", encoding="utf-8") as file:
             json.dump(exam.model_dump(), file, indent=2, ensure_ascii=False)
-    generate_flashcards(exam)
+    # generate_flashcards(exam)
 
 
 if __name__ == "__main__":

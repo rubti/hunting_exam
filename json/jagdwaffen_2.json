@@ -347,7 +347,7 @@
       "number": 20,
       "answers": [
         {
-          "text": "Selbstladeflinten und Selbstladebüchsen mit jeweils 2 Patronen im Magazin",
+          "text": "Selbstladeflinten und Selbstladebüchsen mit jeweils 2 Patronen im Magazin,",
           "correct": false
         },
         {
@@ -369,11 +369,11 @@
           "correct": true
         },
         {
-          "text": "Nachtzielgeräte",
-          "correct": true
+          "text": "Leuchtpunktvisiere für Kurzwaffen",
+          "correct": false
         },
         {
-          "text": "Leuchtpunktvisiere für Kurzwaffen",
+          "text": "Nachtzielgeräte",
           "correct": true
         }
       ]
@@ -387,7 +387,7 @@
           "correct": true
         },
         {
-          "text": "Ja.",
+          "text": "ja",
           "correct": false
         }
       ]
@@ -397,16 +397,16 @@
       "number": 23,
       "answers": [
         {
+          "text": "Ja, für alle in der grünen WBK eingetragenen Waffen.",
+          "correct": false
+        },
+        {
+          "text": "Nein.",
+          "correct": false
+        },
+        {
           "text": "Ja, jedoch unterliegen Schalldämpfer für erlaubnispflichtige Schusswaffen ebenfalls der Erlaubnispflicht. Ein Voreintrag in die Waffenbesitzkarte ist nicht erforderlich.",
           "correct": true
-        },
-        {
-          "text": "Ja, für alle in der grünen WBK eingetragenen Waffen.",
-          "correct": false
-        },
-        {
-          "text": "Nein",
-          "correct": false
         }
       ]
     },
@@ -415,15 +415,15 @@
       "number": 24,
       "answers": [
         {
+          "text": "In den Hausmüll werfen.",
+          "correct": false
+        },
+        {
           "text": "Beim Waffenhändler abgeben.",
           "correct": true
         },
         {
-          "text": "In den Hausmüll werfen",
-          "correct": false
-        },
-        {
-          "text": "In den Sondermüll geben",
+          "text": "In den Sondermüll geben.",
           "correct": false
         }
       ]
@@ -433,16 +433,16 @@
       "number": 25,
       "answers": [
         {
+          "text": "Den Außendurchmesser eines Laufes.",
+          "correct": false
+        },
+        {
           "text": "Den Innendurchmesser des Laufes.",
           "correct": true
         },
         {
           "text": "Den Durchmesser des Einzelgeschosses.",
           "correct": true
-        },
-        {
-          "text": "Den Außendurchmesser des Laufes",
-          "correct": false
         }
       ]
     },
@@ -451,15 +451,15 @@
       "number": 26,
       "answers": [
         {
+          "text": "Alles, was ins Patronenlager passt.",
+          "correct": false
+        },
+        {
           "text": "Munition, für die diese Waffe konstruiert und zugelassen ist.",
           "correct": true
         },
         {
-          "text": "Alles was ins Patronenlager passt",
-          "correct": false
-        },
-        {
-          "text": "Nur Zentralfeuermunition",
+          "text": "Nur Zentralfeuermunition.",
           "correct": false
         }
       ]
@@ -469,16 +469,16 @@
       "number": 27,
       "answers": [
         {
+          "text": "Den Innendurchmesser des Laufes in Millimetern.",
+          "correct": false
+        },
+        {
+          "text": "Den Innendurchmesser des Laufes in Zoll (Inch).",
+          "correct": false
+        },
+        {
           "text": "Der Innendurchmesser des Laufes entspricht dem Durchmesser einer Bleikugel mit dem Gewicht eines zwölftel (1/12) Pfundes (englisches Maß, ca. 454 Gramm) Blei.",
           "correct": true
-        },
-        {
-          "text": "Den Innendurchmesser des Laufes in Millimetern",
-          "correct": false
-        },
-        {
-          "text": "Den Innendurchmesser des Laufes in Zoll (Inch)",
-          "correct": false
         }
       ]
     },
@@ -487,16 +487,16 @@
       "number": 28,
       "answers": [
         {
+          "text": "Geschoss abziehen, Pulver in Wasser auflösen, Rest in Hausmüll geben.",
+          "correct": false
+        },
+        {
+          "text": "Als Sondermüll / Gefahrstoff bei der örtlichen Annahmestelle abgeben.",
+          "correct": false
+        },
+        {
           "text": "An den Verkäufer / Hersteller oder einen Delaborierbetrieb geben.",
           "correct": true
-        },
-        {
-          "text": "Geschoss abziehen, Pulver in Wasser auflösen, Rest in Hausmüll geben.",
-          "correct": false
-        },
-        {
-          "text": "Als Sondermüll / Gefahrstoff bei der örtlichen Annahmestelle abgeben.",
-          "correct": false
         }
       ]
     },
@@ -509,7 +509,11 @@
           "correct": true
         },
         {
-          "text": "Nein.",
+          "text": "Nein, nur Personen über 18 Jahren.",
+          "correct": false
+        },
+        {
+          "text": "Nein, nur Inhabern einer Waffenbesitzkarte, eines Jagd- oder Munitionserwerbsscheines.",
           "correct": false
         }
       ]
@@ -518,6 +522,14 @@
       "question": "Woran können Sie erkennen, welche Munition aus einer Ihnen vorliegenden Waffe verschossen werden darf?",
       "number": 30,
       "answers": [
+        {
+          "text": "Die für die Waffe zulässige Munition ist in einer Tabelle des Herstellers exakt angegeben. Diese Tabelle liegt jeder Waffe bei und kann bei Verlust kostenfrei vom Hersteller oder Importeur angefordert werden.",
+          "correct": false
+        },
+        {
+          "text": "Die für die Waffe zulässige Munition ergibt sich aus der Kaliberangabe des amtlichen Eintrags dieser Waffe in der Waffenbesitzkarte des Besitzers.",
+          "correct": false
+        },
         {
           "text": "Die für die Waffe zulässige Munition ergibt sich aus der Munitionsbezeichnung auf der Waffe.",
           "correct": true
@@ -531,6 +543,14 @@
         {
           "text": "Den Durchmesser des Geschosses.",
           "correct": true
+        },
+        {
+          "text": "Die Länge des Geschosses.",
+          "correct": false
+        },
+        {
+          "text": "Das Gewicht des Geschosses.",
+          "correct": false
         }
       ]
     },
@@ -541,6 +561,14 @@
         {
           "text": "Weil es verschiedene 9 mm-Patronen gibt.",
           "correct": true
+        },
+        {
+          "text": "Weil die Kaliberangabe in der Regel nie ganz exakt ist, sondern auf gerundeten Werten beruht.",
+          "correct": false
+        },
+        {
+          "text": "Weil die Kaliberangabe keine Information über die zulässigen Treibladungsmittel (Schwarz- oder Nitrozellulosepulver) enthält.",
+          "correct": false
         }
       ]
     },
@@ -548,6 +576,14 @@
       "question": "Wie viel Munition darf mit einer Waffenbesitzkarte bei entsprechender Munitionserwerbsberechtigung erworben werden (ungeachtet von Transportbeschränkungen)?",
       "number": 33,
       "answers": [
+        {
+          "text": "bis zu 1000 Patronen je Kauf / Lieferung",
+          "correct": false
+        },
+        {
+          "text": "bis zu 5 kg Nettoexplosivmasse je Kauf / Lieferung",
+          "correct": false
+        },
         {
           "text": "unbegrenzt",
           "correct": true
@@ -559,6 +595,14 @@
       "number": 34,
       "answers": [
         {
+          "text": "Hohlspitzpatronen",
+          "correct": false
+        },
+        {
+          "text": "Kleinschrotpatronen",
+          "correct": false
+        },
+        {
           "text": "Leuchtspurpatronen",
           "correct": true
         }
@@ -568,6 +612,10 @@
       "question": "Ist eine Patrone mit Wadcutter-Geschoss verbotene Munition?",
       "number": 35,
       "answers": [
+        {
+          "text": "Ja, denn es handelt sich um ein Dum-Dum-Geschoss.",
+          "correct": false
+        },
         {
           "text": "Nein, es ist Scheibenmunition.",
           "correct": true
@@ -581,6 +629,14 @@
         {
           "text": "Wadcutter-Munition",
           "correct": true
+        },
+        {
+          "text": "Leuchtspurmunition",
+          "correct": false
+        },
+        {
+          "text": "Büchsenpatrone mit Treibspiegel-Geschoss",
+          "correct": false
         }
       ]
     },
@@ -591,6 +647,10 @@
         {
           "text": "Nein, es handelt sich um verbotene Munition.",
           "correct": true
+        },
+        {
+          "text": "Ja, da es keine Munition ist.",
+          "correct": false
         }
       ]
     },
@@ -598,6 +658,14 @@
       "question": "Was versteht man unter Double-Action-Only Pistolen?",
       "number": 38,
       "answers": [
+        {
+          "text": "Pistolen, deren Abzug jedes Mal vorgespannt werden muss.",
+          "correct": false
+        },
+        {
+          "text": "Pistolen, bei denen nur der erste Schuss mittels Spannabzug abgefeuert wird.",
+          "correct": false
+        },
         {
           "text": "Pistolen, bei denen jeder Schuss mittels Spannabzug abgefeuert wird.",
           "correct": true
@@ -613,6 +681,10 @@
           "correct": true
         },
         {
+          "text": "Doppelflinten",
+          "correct": false
+        },
+        {
           "text": "Pistolen",
           "correct": true
         }
@@ -625,6 +697,14 @@
         {
           "text": "Eine Waffe mit Spannabzug (auch im entspannten Zustand kann durch Betätigen des Abzugs ein Schuss abgegeben werden).",
           "correct": true
+        },
+        {
+          "text": "Eine Waffe, die für mindestens zwei Schießsportdisziplinen zugelassen ist.",
+          "correct": false
+        },
+        {
+          "text": "Eine Waffe, bei der durch Betätigen der Sicherung im gespannten Zustand sowohl der Hahn (das Schlagstück) entspannt, als auch der Schlagbolzen gesichert wird.",
+          "correct": false
         }
       ]
     },
@@ -652,7 +732,7 @@
       "answers": [
         {
           "text": "Die Waffe ist sofort auf ihren Ladezustand zu überprüfen.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Es genügt die Sicherung der Waffe auf ihre Funktionssicherheit zu prüfen.",
@@ -1048,7 +1128,7 @@
         },
         {
           "text": "Waffen vorübergehend zur nicht gewerbsmäßigen sicheren Aufbewahrung, wenn der Andere selbst keine waffenrechtliche Erlaubnis besitzt.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Auf dem Schießstand: Waffen ja, Munition nur zum sofortigen Verbrauch.",
@@ -1056,7 +1136,7 @@
         },
         {
           "text": "Zur Beförderung, wenn der Andere selbst eine WBK besitzt.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1582,11 +1662,11 @@
         },
         {
           "text": "Waffenbesitzkarte in Verbindung mit Sportschützenausweis",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Waffenschein oder behördliche Ausnahmegenehmigung",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1812,7 +1892,7 @@
         },
         {
           "text": "Bis ich gefahrlos dem Angriff ausweichen kann, wenn ich dadurch keine wesentlichen Rechtsgüter aufgeben muss.",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Auf jeden Fall bis die Polizei eintrifft.",
@@ -1879,8 +1959,16 @@
       "number": 110,
       "answers": [
         {
+          "text": "Sie finden eine geladene Jagdwaffe im Wald.",
+          "correct": false
+        },
+        {
           "text": "Sie werden durch ein herrenloses Tier angegriffen.",
           "correct": true
+        },
+        {
+          "text": "Sie werden durch eine Person angegriffen.",
+          "correct": false
         }
       ]
     },
@@ -1891,6 +1979,14 @@
         {
           "text": "gegenwärtige, nicht mit geringerem Eingriff abwehrbare Gefahr für ein Rechtsgut; wesentliches Überwiegen des geschützten Interesses",
           "correct": true
+        },
+        {
+          "text": "Absicht, die Gefahr nicht von sich oder einem anderen abzuwenden",
+          "correct": false
+        },
+        {
+          "text": "gegenwärtiger rechtswidriger Angriff",
+          "correct": false
         }
       ]
     },
@@ -1899,8 +1995,16 @@
       "number": 112,
       "answers": [
         {
+          "text": "von sich selbst abzuwenden.",
+          "correct": false
+        },
+        {
           "text": "von einem anderen abzuwenden.",
           "correct": true
+        },
+        {
+          "text": "von sich selbst oder Verwandten abzuwenden.",
+          "correct": false
         }
       ]
     },
@@ -1909,8 +2013,16 @@
       "number": 113,
       "answers": [
         {
+          "text": "Ich leiste bei einem Schwerverletzten Erste Hilfe.",
+          "correct": false
+        },
+        {
           "text": "Ich wehre den Angriff eines Mannes ab, der eine Frau erkennbar unsittlich belästigt.",
           "correct": true
+        },
+        {
+          "text": "Ich verteidige mich angemessen im Rahmen der gesetzlichen Nothilfebestimmungen.",
+          "correct": false
         }
       ]
     },
@@ -1919,8 +2031,16 @@
       "number": 114,
       "answers": [
         {
+          "text": "bei Hilfeleistung am Unfallort.",
+          "correct": false
+        },
+        {
           "text": "wenn ein rechtswidriger Angriff auf einen anderen abgewehrt wird.",
           "correct": true
+        },
+        {
+          "text": "bei finanzieller Hilfeleistung in Not geratener Verwandter.",
+          "correct": false
         }
       ]
     },
@@ -1928,6 +2048,10 @@
       "question": "Wann ist ein Angriff gegenwärtig?",
       "number": 115,
       "answers": [
+        {
+          "text": "Wenn er abgeschlossen ist.",
+          "correct": false
+        },
         {
           "text": "Wenn er unmittelbar bevorsteht.",
           "correct": true
@@ -1943,8 +2067,16 @@
       "number": 116,
       "answers": [
         {
+          "text": "Wenn zu befürchten ist, dass durch eine Drohung des Angreifers zukünftig eine Gefahr für Leib und Leben eintreten könnte.",
+          "correct": false
+        },
+        {
           "text": "Wenn ein Angriff unmittelbar bevorsteht oder noch nicht beendet ist.",
           "correct": true
+        },
+        {
+          "text": "Wenn der Angreifer in die Flucht geschlagen ist, aber mit einem späteren Angriff droht.",
+          "correct": false
         }
       ]
     },
@@ -1955,6 +2087,14 @@
         {
           "text": "jede begonnene oder unmittelbar bevorstehende Verletzung eines Individual-Rechtsgutes.",
           "correct": true
+        },
+        {
+          "text": "jede Androhung von Gewalt für Leib und Leben.",
+          "correct": false
+        },
+        {
+          "text": "auch die bereits abgeschlossene Verletzung eines Rechtsgutes.",
+          "correct": false
         }
       ]
     },
@@ -1965,6 +2105,14 @@
         {
           "text": "Es kann jeden Augenblick ein Schaden eintreten.",
           "correct": true
+        },
+        {
+          "text": "Es wird vielleicht ein Schaden eintreten.",
+          "correct": false
+        },
+        {
+          "text": "Es ist ein Schaden eingetreten, das Rechtsgut ist zur Ruhe gekommen.",
+          "correct": false
         }
       ]
     },
@@ -1972,6 +2120,14 @@
       "question": "Was ist Ihre Pflicht nach einem abgewehrten Angriff?",
       "number": 119,
       "answers": [
+        {
+          "text": "Ich habe keinerlei Pflichten gegenüber dem Angreifer.",
+          "correct": false
+        },
+        {
+          "text": "Ich bin zum Schadensersatz verpflichtet.",
+          "correct": false
+        },
         {
           "text": "Wenn die Notwendigkeit erkennbar und die Situation zumutbar ist, habe ich Hilfe zu leisten.",
           "correct": true
@@ -1982,6 +2138,14 @@
       "question": "Regelungen über Notwehr und Notstand finden Sie im ...",
       "number": 120,
       "answers": [
+        {
+          "text": "Grundgesetz.",
+          "correct": false
+        },
+        {
+          "text": "Waffengesetz.",
+          "correct": false
+        },
         {
           "text": "Strafgesetzbuch / BGB.",
           "correct": true
@@ -2051,12 +2215,12 @@
           "correct": false
         },
         {
-          "text": "in Notstand.",
-          "correct": true
+          "text": "in Nothilfe.",
+          "correct": false
         },
         {
           "text": "in Notstand.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -2334,7 +2498,7 @@
         },
         {
           "text": "Schusswaffen sind immer als geladen zu betrachten, solange man sich nicht persönlich vom Gegenteil überzeugt hat.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Der Lauf von Schusswaffen darf nie auf ein Lebewesen gerichtet werden.",
@@ -3288,7 +3452,7 @@
         },
         {
           "text": "Die Geschossgeschwindigkeit reduziert sich auf Null.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Die Geschossgeschwindigkeit beim Verlassen der Mündung.",
@@ -3608,11 +3772,11 @@
       "answers": [
         {
           "text": "Das verbrannte Pulver erzeugt den Knall im Inneren der Schusswaffe.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Durch die Expansion der vor dem Geschoss komprimierten Luft bei überschallschnellen Geschossen.",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Das nicht vollständig verbrannte Pulvergas vermischt sich mit Sauerstoff und bewirkt den Knall.",
@@ -3931,7 +4095,7 @@
           "correct": true
         },
         {
-          "text": "Wenn Sie 11 erlaubnispflichtige Langwaffen aufbewahren müssen, sind diese i.d.R. auf 2",
+          "text": "Wenn Sie 11 erlaubnispflichtige Langwaffen aufbewahren müssen, sind diese i.d.R. auf 2.",
           "correct": false
         },
         {
@@ -3963,7 +4127,7 @@
       "number": 230,
       "answers": [
         {
-          "text": "Inhaber gültiger Jahresjagdscheine bedürfen zum Erwerb von Jagdlangwaffen keiner weiteren Erlaubnis wie z. B. einer Waffenbesitzkarte mit Voreintrag",
+          "text": "Inhaber gültiger Jahresjagdscheine bedürfen zum Erwerb von Jagdlangwaffen keiner weiteren Erlaubnis wie z. B. einer Waffenbesitzkarte mit Voreintrag.",
           "correct": true
         },
         {
@@ -4004,7 +4168,7 @@
         },
         {
           "text": "Jagdschein und Waffenbesitzkarte",
-          "correct": true
+          "correct": false
         }
       ]
     },
@@ -4120,11 +4284,11 @@
         },
         {
           "text": "Ja, sofern das Geschoß das Grundstück nicht verlässt",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Nein",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -4186,11 +4350,11 @@
         },
         {
           "text": "Durchschlagskraft der Geschosse",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Maßhaltigkeit",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -4247,7 +4411,7 @@
           "correct": true
         },
         {
-          "text": "Auch wenn es die Umstände erlauben, brauchen Sie in keinem Fall vor dem Schusswaffengebrauch im Notwehrfall durch Zuruf, Warnschuss oder auf andere Weise zu warnen.",
+          "text": "Auch wenn es die Umstände erlauben, brauchen Sie in keinem Fall vor dem Schusswaffen- gebrauch im Notwehrfall durch Zuruf, Warnschuss oder auf andere Weise zu warnen.",
           "correct": false
         }
       ]
@@ -4265,7 +4429,7 @@
           "correct": false
         },
         {
-          "text": "Auch wenn es die Umstände erlauben, brauchen Sie in keinem Fall vor dem Schusswaffengebrauch im Notwehrfall durch Zuruf, Warnschuss oder auf andere Weise zu warnen.",
+          "text": "Auch wenn es die Umstände erlauben, brauchen Sie in keinem Fall vor dem Schusswaffen- gebrauch im Notwehrfall durch Zuruf, Warnschuss oder auf andere Weise zu warnen.",
           "correct": false
         }
       ]
@@ -4373,15 +4537,15 @@
       "number": 251,
       "answers": [
         {
-          "text": "5,6 x 50 Magnum, 3,24 g, 1 285 Joule",
+          "text": "5,6 x 50 Magnum",
           "correct": false
         },
         {
-          "text": "7 x 57, 9,00 g, 2 020 Joule",
+          "text": "7 x 57",
           "correct": true
         },
         {
-          "text": ".222 Remington, 3,24 g, 1 001 Joule",
+          "text": ".222 Remington",
           "correct": false
         }
       ]
@@ -4391,16 +4555,16 @@
       "number": 252,
       "answers": [
         {
-          "text": ".22 Hornet, 3,00 g, 471 Joule",
+          "text": ".22 Hornet",
           "correct": false
         },
         {
-          "text": ".222 Remington, 3,24 g, 1 001 Joule",
+          "text": ".222 Remington",
           "correct": true
         },
         {
-          "text": "5,6 x 50 Magnum, 3,24 g, 1 354 Joule",
-          "correct": false
+          "text": "5,6 x 50 Magnum",
+          "correct": true
         }
       ]
     },
@@ -4409,19 +4573,19 @@
       "number": 253,
       "answers": [
         {
-          "text": ".222 Remington, 3,24 g, 1 001 Joule",
+          "text": ".222 Remington",
           "correct": false
         },
         {
-          "text": "6,5 x 57, 6,00 g, 2 325 Joule",
+          "text": "6,5 x 57",
           "correct": true
         },
         {
-          "text": "5,6 x 57 R, 4,80 g, 2 031 Joule",
+          "text": "5,6 x 57 R",
           "correct": false
         },
         {
-          "text": "6,5 x 57 R, 6,00 g, 2 217 Joule",
+          "text": "6,5 x 57 R",
           "correct": true
         }
       ]
@@ -4527,19 +4691,19 @@
       "number": 260,
       "answers": [
         {
-          "text": "6,5 x 57, 7.00 g, 2.470 Joule",
+          "text": "6,5 x 57",
           "correct": true
         },
         {
-          "text": "5,6 x 57, 4.80 g, 2.031 Joule",
+          "text": "5,6 x 57",
           "correct": false
         },
         {
-          "text": "8 × 57 IR, 12.70 g, 2.364 Joule",
+          "text": "8 × 57 IR",
           "correct": true
         },
         {
-          "text": ".243 Winchester, 5.18 g, 2.053 Joule",
+          "text": ".243 Winchester",
           "correct": false
         }
       ]
@@ -4599,6 +4763,20 @@
         {
           "text": "weil die Sicherheitsbestimmungen dies vorschreiben",
           "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Sind bei einer Treibjagd auf Hasen und Fasanen Selbstladeflinten mit mehr als 3 geladenen Patronen zulässig?",
+      "number": 264,
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": false
         }
       ]
     },
@@ -4685,7 +4863,7 @@
       ]
     },
     {
-      "question": "Sie verschießen 3 mm dicke Schrote. Welche Distanz muss als „,gefährliche Schussweite“ eingehalten werden?",
+      "question": "Sie verschießen 3 mm dicke Schrote. Welche Distanz muss als „gefährliche Schussweite“ eingehalten werden?",
       "number": 270,
       "answers": [
         {
@@ -4775,12 +4953,16 @@
       ]
     },
     {
-      "question": "275. Wann müssen nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) bei einem Kesseltreiben im Feld die Flintenläufe entladen werden?",
+      "question": "Wann müssen nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) bei einem Kesseltreiben im Feld die Flintenläufe entladen werden?",
       "number": 275,
       "answers": [
         {
           "text": "Beim Überwinden von Hindernissen",
           "correct": true
+        },
+        {
+          "text": "Nach dem Signal \"Treiber rein\"",
+          "correct": false
         },
         {
           "text": "Nach dem Signal zur Beendigung des Treibens",
@@ -4789,7 +4971,7 @@
       ]
     },
     {
-      "question": "276. Bei welchen der nachgenannten Gefahrenlagen sind nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) die Läufe der Schusswaffen zu entladen?",
+      "question": "Bei welchen der nachgenannten Gefahrenlagen sind nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) die Läufe der Schusswaffen zu entladen?",
       "number": 276,
       "answers": [
         {
@@ -4799,43 +4981,87 @@
         {
           "text": "Überwinden von Hindernissen",
           "correct": true
+        },
+        {
+          "text": "Schlechte Wetterverhältnisse",
+          "correct": false
+        },
+        {
+          "text": "Pirschen im Moor",
+          "correct": false
         }
       ]
     },
     {
-      "question": "277. Was müssen Sie tun, wenn Sie einen Hochsitz besteigen wollen und Ihre Waffe geladen ist?",
+      "question": "Was müssen Sie tun, wenn Sie einen Hochsitz besteigen wollen und Ihre Waffe geladen ist?",
       "number": 277,
       "answers": [
         {
+          "text": "nur die Mündung nach unten halten",
+          "correct": false
+        },
+        {
+          "text": "nur die Waffe sichern",
+          "correct": false
+        },
+        {
           "text": "die Läufe (Patronenlager) entladen",
           "correct": true
+        },
+        {
+          "text": "die Waffe entspannen",
+          "correct": false
         }
       ]
     },
     {
-      "question": "278. Welche Vorschrift enthält die Unfallverhütungsvorschrift Jagd (VSG 4.4) über das Schießen mit Büchsen- oder Flintenlaufgeschossen bei Drückjagden in das Treiben hinein?",
+      "question": "Welche Vorschrift enthält die Unfallverhütungsvorschrift Jagd (VSG 4.4) über das Schießen mit Büchsen- oder Flintenlaufgeschossen bei Drückjagden in das Treiben hinein?",
       "number": 278,
       "answers": [
         {
+          "text": "Die Schützen dürfen in das Treiben nach eigenem Ermessen hineinschießen",
+          "correct": false
+        },
+        {
           "text": "Die Schützen dürfen nur in das Treiben hineinschießen, wenn der Jagdleiter dies genehmigt hat und eine Gefährdung ausgeschlossen ist",
           "correct": true
+        },
+        {
+          "text": "Das Hineinschießen in das Treiben ist ausnahmslos verboten",
+          "correct": false
         }
       ]
     },
     {
-      "question": "279. Kann ein Hindernis in einem Gewehrlauf bei der Schussabgabe gefährlich werden?",
+      "question": "Kann ein Hindernis in einem Gewehrlauf bei der Schussabgabe gefährlich werden?",
       "number": 279,
       "answers": [
         {
           "text": "ja, es kann zu Laufsprengungen oder Laufaufbauchungen kommen",
           "correct": true
+        },
+        {
+          "text": "nein, die Festigkeit der Gewehrlaufstähle ist so hoch, dass keine Aufbauchungen oder Sprengungen entstehen",
+          "correct": false
+        },
+        {
+          "text": "nein, das Hindernis wird durch Pulvergase aus dem Lauf getrieben",
+          "correct": false
         }
       ]
     },
     {
-      "question": "280. Worauf ist zu achten, wenn bei gefrorenem Boden mit der Flinte gejagt wird?",
+      "question": "Worauf ist zu achten, wenn bei gefrorenem Boden mit der Flinte gejagt wird?",
       "number": 280,
       "answers": [
+        {
+          "text": "es darf nur auf Flugwild geschossen werden",
+          "correct": false
+        },
+        {
+          "text": "ich darf nur auf Ziele schießen, die mindestens 50 m entfernt sind",
+          "correct": false
+        },
         {
           "text": "bei einem Schuss auf den Boden können Schrote abgelenkt werden, die Andere gefährden",
           "correct": true
@@ -4843,22 +5069,42 @@
       ]
     },
     {
-      "question": "281. Wie ist eine Repetierbüchse beim Laden und Entladen stets zu halten?",
+      "question": "Wie ist eine Repetierbüchse beim Laden und Entladen stets zu halten?",
       "number": 281,
       "answers": [
         {
           "text": "in eine Richtung, in der niemand gefährdet wird",
           "correct": true
+        },
+        {
+          "text": "nach unten",
+          "correct": false
+        },
+        {
+          "text": "nach oben",
+          "correct": false
         }
       ]
     },
     {
-      "question": "282. Mit wie viel Patronen darf die Mehrladeeinrichtung einer Repetierbüchse auf dem Schießstand (kein Schießkino!) geladen werden?",
+      "question": "Mit wie viel Patronen darf die Mehrladeeinrichtung einer Repetierbüchse auf dem Schießstand (kein Schießkino!) geladen werden?",
       "number": 282,
       "answers": [
         {
+          "text": "die Mehrladeeinrichtung darf nicht geladen werden",
+          "correct": false
+        },
+        {
           "text": "mit einer Patrone",
           "correct": true
+        },
+        {
+          "text": "mit zwei Patronen",
+          "correct": false
+        },
+        {
+          "text": "es gibt keine Vorgabe",
+          "correct": false
         }
       ]
     },
@@ -4988,7 +5234,7 @@
         },
         {
           "text": "Lauf",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Magazin",
@@ -5113,7 +5359,7 @@
       ]
     },
     {
-      "question": "Welche der nachgenannten Sicherungen ist die zuverlässigste?",
+      "question": "Welche der nachgenannten Sicherungen ist die zuverlässigsten?",
       "number": 296,
       "answers": [
         {
@@ -5235,6 +5481,10 @@
       "number": 303,
       "answers": [
         {
+          "text": "die Patronenlager-Bohrungen in der Trommel eines Revolvers",
+          "correct": false
+        },
+        {
           "text": "einen Büchsenlauf ohne Felder und Züge",
           "correct": false
         },
@@ -5251,6 +5501,14 @@
         {
           "text": "eine Langwaffe mit gezogenem Lauf",
           "correct": true
+        },
+        {
+          "text": "eine Langwaffe mit mehreren glatten Läufen",
+          "correct": false
+        },
+        {
+          "text": "eine Langwaffe mit mehreren gezogenen und glatten Läufen",
+          "correct": false
         }
       ]
     },
@@ -5261,6 +5519,14 @@
         {
           "text": "teilgesichert, der Verschluss lässt sich aber öffnen",
           "correct": true
+        },
+        {
+          "text": "gesichert, der Verschluss lässt sich nicht öffnen",
+          "correct": false
+        },
+        {
+          "text": "entsichert",
+          "correct": false
         }
       ]
     },
@@ -5268,6 +5534,22 @@
       "question": "Was sichert die Flügelsicherung bei der Repetierbüchse System Mauser 98?",
       "number": 306,
       "answers": [
+        {
+          "text": "Den Abzug",
+          "correct": false
+        },
+        {
+          "text": "Den Abzugsstollen",
+          "correct": false
+        },
+        {
+          "text": "Die Stange",
+          "correct": false
+        },
+        {
+          "text": "Den Stecher",
+          "correct": false
+        },
         {
           "text": "Die Schlagbolzenmutter und damit den Schlagbolzen",
           "correct": true
@@ -5281,6 +5563,22 @@
         {
           "text": "Beim Anheben des Kammerstengels",
           "correct": true
+        },
+        {
+          "text": "Beim Schließen des Schlosses",
+          "correct": false
+        },
+        {
+          "text": "Beim Entsichern der Waffe",
+          "correct": false
+        },
+        {
+          "text": "Beim Einstechen der Waffe",
+          "correct": false
+        },
+        {
+          "text": "Beim Vorschieben des Kammerstengels einer gesicherten Waffe",
+          "correct": false
         }
       ]
     },
@@ -5291,6 +5589,14 @@
         {
           "text": "Schussgenauigkeit",
           "correct": true
+        },
+        {
+          "text": "Geschoßzerlegung",
+          "correct": false
+        },
+        {
+          "text": "Mündungsgeschwindigkeit",
+          "correct": false
         }
       ]
     },
@@ -5299,8 +5605,16 @@
       "number": 309,
       "answers": [
         {
+          "text": "das freie Schussfeld zwischen Laufmündung und Ziel",
+          "correct": false
+        },
+        {
           "text": "Visier und Korn",
           "correct": true
+        },
+        {
+          "text": "Zielfernrohre mit besonderem Sehfeld",
+          "correct": false
         }
       ]
     },
@@ -5308,6 +5622,14 @@
       "question": "Einen Hülsenausstoßer gibt es nur",
       "number": 310,
       "answers": [
+        {
+          "text": "beim Repetierer",
+          "correct": false
+        },
+        {
+          "text": "bei der Selbstladebüchse",
+          "correct": false
+        },
         {
           "text": "beim Revolver",
           "correct": true
@@ -5321,6 +5643,14 @@
         {
           "text": "eine kurze, meist ganz geschäftete Büchse",
           "correct": true
+        },
+        {
+          "text": "eine einläufige Flinte, die meist kurz geschäftet ist",
+          "correct": false
+        },
+        {
+          "text": "ein Schonzeitgewehr",
+          "correct": false
         }
       ]
     },
@@ -5328,6 +5658,14 @@
       "question": "Eine Waffe hat einen Schrotlauf, einen darunter liegenden großkalibrigen Kugellauf und einen seitlich gelagerten kleinkalibrigen Kugellauf. Wie heißt diese Waffe?",
       "number": 312,
       "answers": [
+        {
+          "text": "Büchsflintendrilling",
+          "correct": false
+        },
+        {
+          "text": "Doppelbüchsdrilling",
+          "correct": false
+        },
         {
           "text": "Bockdrilling",
           "correct": true
@@ -5341,6 +5679,10 @@
         {
           "text": "Drehung des Geschosses zur Stabilisierung der Flugbahn",
           "correct": true
+        },
+        {
+          "text": "Vergrößerung des Schusskanals im Wildkörper",
+          "correct": false
         },
         {
           "text": "Verhinderung des Überschlagens des Geschosses nach Verlassen des Laufes",
@@ -5851,6 +6193,10 @@
         {
           "text": "Zum Auswerfen der leeren Patronenhülsen",
           "correct": true
+        },
+        {
+          "text": "Zum Entspannen der Flinte",
+          "correct": false
         }
       ]
     },
@@ -6062,7 +6408,7 @@
         },
         {
           "text": "durch Verwendung von zäh-elastischem Laufwerkstoff",
-          "correct": true
+          "correct": false
         },
         {
           "text": "durch die Gestaltung der Würgebohrung",
@@ -6093,19 +6439,19 @@
       "number": 356,
       "answers": [
         {
-          "text": "2,5 mm",
+          "text": "a) 2,5 mm",
           "correct": true
         },
         {
-          "text": "3,0 mm",
+          "text": "b) 3,0 mm",
           "correct": false
         },
         {
-          "text": "3,5 mm",
+          "text": "c) 3,5 mm",
           "correct": false
         },
         {
-          "text": "4,0 mm",
+          "text": "d) 4,0 mm",
           "correct": true
         }
       ]
@@ -6115,15 +6461,15 @@
       "number": 357,
       "answers": [
         {
-          "text": "über dem Abzugsbügel an der linken Seite des Schaftes",
+          "text": "a) über dem Abzugsbügel an der linken Seite des Schaftes",
           "correct": false
         },
         {
-          "text": "über dem Abzugsbügel an der rechten Seite des Schaftes",
+          "text": "b) über dem Abzugsbügel an der rechten Seite des Schaftes",
           "correct": false
         },
         {
-          "text": "auf der Oberseite des Pistolengriffs",
+          "text": "c) auf der Oberseite des Pistolengriffs",
           "correct": true
         }
       ]
@@ -6133,27 +6479,27 @@
       "number": 358,
       "answers": [
         {
-          "text": "Bockdoppelflinte",
+          "text": "a) Bockdoppelflinte",
           "correct": false
         },
         {
-          "text": "Bockbüchsflinte",
+          "text": "b) Bockbüchsflinte",
           "correct": true
         },
         {
-          "text": "Repetierbüchse",
+          "text": "c) Repetierbüchse",
           "correct": false
         },
         {
-          "text": "Büchsflinte",
+          "text": "d) Büchsflinte",
           "correct": true
         },
         {
-          "text": "Schrotdrilling",
+          "text": "e) Schrotdrilling",
           "correct": false
         },
         {
-          "text": "Bergstutzen",
+          "text": "f) Bergstutzen",
           "correct": false
         }
       ]
@@ -6163,15 +6509,15 @@
       "number": 359,
       "answers": [
         {
-          "text": "um eine Bockbüchsflinte",
+          "text": "a) um eine Bockbüchsflinte",
           "correct": false
         },
         {
-          "text": "um eine kombinierte Waffe, die einen zwischen zwei Flintenläufen eingelegten kleinkalibrigen Kugellauf in der Laufschiene besitzt",
+          "text": "b) um eine kombinierte Waffe, die einen zwischen zwei Flintenläufen eingelegten kleinkalibrigen Kugellauf in der Laufschiene besitzt",
           "correct": true
         },
         {
-          "text": "um einen kurzen Repetierstutzen",
+          "text": "c) um einen kurzen Repetierstutzen",
           "correct": false
         }
       ]
@@ -6181,15 +6527,15 @@
       "number": 360,
       "answers": [
         {
-          "text": "Eine kombinierte Waffe hat mindestens einen Flinten- und einen Büchsenlauf",
+          "text": "a) Eine kombinierte Waffe hat mindestens einen Flinten- und einen Büchsenlauf",
           "correct": true
         },
         {
-          "text": "Kombination unterschiedlicher Büchsenkaliber zu einem Laufbündel",
+          "text": "b) Kombination unterschiedlicher Büchsenkaliber zu einem Laufbündel",
           "correct": false
         },
         {
-          "text": "Waffen mit auswechselbaren Laufpaaren",
+          "text": "c) Waffen mit auswechselbaren Laufpaaren",
           "correct": false
         }
       ]
@@ -6199,15 +6545,15 @@
       "number": 361,
       "answers": [
         {
-          "text": "ein Gewehr, das nur für die Bockjagd zugelassen ist",
+          "text": "a) ein Gewehr, das nur für die Bockjagd zugelassen ist",
           "correct": false
         },
         {
-          "text": "ein Gewehr mit zwei Schrotläufen und einem Büchsenlauf",
+          "text": "b) ein Gewehr mit zwei Schrotläufen und einem Büchsenlauf",
           "correct": false
         },
         {
-          "text": "ein Gewehr mit einem Schrotlauf und einem kleinkalibrigen und einem großkalibrigen Büchsenlauf",
+          "text": "c) ein Gewehr mit einem Schrotlauf und einem kleinkalibrigen und einem großkalibrigen Büchsenlauf",
           "correct": true
         }
       ]
@@ -6217,34 +6563,34 @@
       "number": 362,
       "answers": [
         {
-          "text": "Bockflinte",
+          "text": "a) Bockflinte",
           "correct": false
         },
         {
-          "text": "Bergstutzen",
+          "text": "b) Bergstutzen",
           "correct": false
         },
         {
-          "text": "Büchsflinte",
+          "text": "c) Büchsflinte",
           "correct": true
         }
       ]
     },
     {
-      "question": "Welche Laufzusammenstellung und .Anordnung hat eine Buchsflinte?",
+      "question": "Welche Laufzusammenstellung und Anordnung hat eine Buchsflinte?",
       "number": 363,
       "answers": [
         {
-          "text": "2 Kugelläufe nebeneinander",
+          "text": "a) 2 Kugelläufe nebeneinander",
           "correct": false
         },
         {
-          "text": "1 Kugel- und 1 Schrotlauf liegen nebeneinander",
+          "text": "b) 1 Kugel- und 1 Schrotlauf liegen nebeneinander",
           "correct": true
         },
         {
-          "text": "1 Kugel- und 1 Schrotlauf liegen übereinander",
-          "correct": true
+          "text": "c) 1 Kugel- und 1 Schrotlauf liegen übereinander",
+          "correct": false
         }
       ]
     },
@@ -6253,15 +6599,15 @@
       "number": 364,
       "answers": [
         {
-          "text": "Kersten-Verschluss",
+          "text": "a) Kersten-Verschluss",
           "correct": true
         },
         {
-          "text": "Blockverschluss",
+          "text": "b) Blockverschluss",
           "correct": false
         },
         {
-          "text": "Zylinderverschluss",
+          "text": "c) Zylinderverschluss",
           "correct": false
         }
       ]
@@ -6623,12 +6969,12 @@
       "number": 385,
       "answers": [
         {
-          "text": "Nein",
-          "correct": true
-        },
-        {
           "text": "Ja",
           "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
         }
       ]
     },
@@ -6747,7 +7093,7 @@
       ]
     },
     {
-      "question": "Für Kipplaufgewehre sind u. a. folgende Patronen des Kalibers 7 x 57 R im Handel:",
+      "question": "Für Kipplaufgewehre sind u. a. folgende Patronen des Kalibers 7 x 57 R im Handel: 1. Teilmantel-Rundkopf, Geschossgewicht 9,00 g, E100 2.020 Joule 2. Kegelspitz, Geschossgewicht 10,50 g, E100 2.570 Joule Können die beiden Patronen gefahrlos aus einem amtlich beschossenen Drilling mit dem Kugelkaliber 7 x 57 R verschossen werden?",
       "number": 393,
       "answers": [
         {
@@ -6765,15 +7111,15 @@
       "number": 394,
       "answers": [
         {
-          "text": "7 x 57",
+          "text": "7 x 57 Kegelspitz 8,00 g",
           "correct": true
         },
         {
-          "text": "7 x 57 R",
+          "text": "7 x 57 R H-Mantel 11,20 g",
           "correct": false
         },
         {
-          "text": "7 x 64",
+          "text": "7 x 64 Teilmantel-Spitz 10,00 g",
           "correct": false
         }
       ]
@@ -6870,11 +7216,11 @@
       "answers": [
         {
           "text": "6,2 mm",
-          "correct": true
+          "correct": false
         },
         {
           "text": "6,9 mm",
-          "correct": false
+          "correct": true
         },
         {
           "text": "8,2 mm",
@@ -7000,2330 +7346,6 @@
         },
         {
           "text": "Auf die Krümmung der Geschossflugbahn",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten (fabrikmäßig) hergestellten Patronen ist in Deutschland zum Erlegen von Hochwild nicht zugelassen?",
-      "number": 408,
-      "answers": [
-        {
-          "text": "7 x 65 R",
-          "correct": false
-        },
-        {
-          "text": "8 × 57 IS",
-          "correct": false
-        },
-        {
-          "text": "8 x 68 S",
-          "correct": false
-        },
-        {
-          "text": "9,3 x 62",
-          "correct": false
-        },
-        {
-          "text": "9,3 x 72 R",
-          "correct": true
-        },
-        {
-          "text": "9,3 x 74 R",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Was bezeichnet die auf einer Schrotpatronenschachtel aufgedruckte Zahlenangabe \"12/70\"?",
-      "number": 409,
-      "answers": [
-        {
-          "text": "Kaliber 12, Hülsenlänge 70 mm",
-          "correct": true
-        },
-        {
-          "text": "Schrotgröße 0,12 Zoll, Hülsenlänge 70 mm",
-          "correct": false
-        },
-        {
-          "text": "Kaliber 12, Inhalt 70 Schrotkugeln",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Worauf bezieht sich die Längenangabe bei der Bezeichnung einer Schrotpatrone?",
-      "number": 410,
-      "answers": [
-        {
-          "text": "auf eine abgeschossene Hülse",
-          "correct": true
-        },
-        {
-          "text": "auf die nicht abgeschossene Patrone",
-          "correct": false
-        },
-        {
-          "text": "auf die Höhe der Bodenkappe",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Flintenpatronen (Kaliber mit Hülsenlänge) gibt es nicht?",
-      "number": 411,
-      "answers": [
-        {
-          "text": "12/67,5",
-          "correct": false
-        },
-        {
-          "text": "12/70",
-          "correct": false
-        },
-        {
-          "text": "16/67,5",
-          "correct": false
-        },
-        {
-          "text": "20/70",
-          "correct": false
-        },
-        {
-          "text": "20/75",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was versteht man unter einer Streupatrone?",
-      "number": 412,
-      "answers": [
-        {
-          "text": "Eine Schrotpatrone, bei der die Durchmesser der einzelnen Schrotkörner eine Streuung aufweisen",
-          "correct": false
-        },
-        {
-          "text": "Eine Schrotpatrone mit enger Streuung",
-          "correct": false
-        },
-        {
-          "text": "Schrotpatronen, die aufgrund der Pfropfenkonstruktion eine deutlich größere Streuung aufweisen als herkömmliche Schrotpatronen",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Können Streupatronen aus Doppelflinten mit verschiedenen Laufbohrungen ohne Sicherheitsbedenken verschossen werden?",
-      "number": 413,
-      "answers": [
-        {
-          "text": "Ja",
-          "correct": true
-        },
-        {
-          "text": "Nein",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Von welchem der nachgenannten Kaliber bei gleicher Schrotgröße enthält eine Schrotpatrone die meisten Schrotkörner?",
-      "number": 414,
-      "answers": [
-        {
-          "text": "Schrotpatrone 12/67,5",
-          "correct": true
-        },
-        {
-          "text": "Schrotpatrone 20/70",
-          "correct": false
-        },
-        {
-          "text": "Schrotpatrone 16/70",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Reicht die Treffgenauigkeit eines Flintenlaufgeschosses für alle jagdlichen Schussentfernungen bei Verwendung von glatten Läufen aus?",
-      "number": 415,
-      "answers": [
-        {
-          "text": "nein, die Höchstschussweite ist begrenzt",
-          "correct": true
-        },
-        {
-          "text": "nein, die Höchstschussweite beträgt maximal 70 m",
-          "correct": false
-        },
-        {
-          "text": "ja, wegen des großen Geschoßgewichtes",
-          "correct": false
-        },
-        {
-          "text": "ja, bei entsprechender Visierung der Waffe",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Auf welche Entfernung ist die Treffsicherheit eines Flintenlaufgeschosses begrenzt?",
-      "number": 416,
-      "answers": [
-        {
-          "text": "Ca. 100 m",
-          "correct": false
-        },
-        {
-          "text": "Ca. 70 m",
-          "correct": false
-        },
-        {
-          "text": "Ca. 50 m",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Worauf bezieht sich die Angabe über die Hülsenlänge (65 mm, 67,5 mm oder 70 mm) einer Schrotpatrone?",
-      "number": 417,
-      "answers": [
-        {
-          "text": "Auf die Patronenlänge vor dem Schuss",
-          "correct": false
-        },
-        {
-          "text": "Auf die Gesamthülsenlänge nach dem Schuss",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche Pulverart wird in Schrotpatronen verwendet?",
-      "number": 418,
-      "answers": [
-        {
-          "text": "Langsam verbrennendes Pulver",
-          "correct": false
-        },
-        {
-          "text": "Schnell verbrennendes Pulver",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Patronen dürfen in einer Flinte mit einem Patronenlager von 65 mm Länge verwenden werden?",
-      "number": 419,
-      "answers": [
-        {
-          "text": "Patronen mit Hülsenlänge von 65 mm",
-          "correct": true
-        },
-        {
-          "text": "Patronen mit Hülsenlänge von 67,5 mm",
-          "correct": true
-        },
-        {
-          "text": "Patronen mit Hülsenlänge von 70 mm",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche Schrotstärke verwendet man zweckmäßigerweise für die Jagd auf Rebhühner?",
-      "number": 420,
-      "answers": [
-        {
-          "text": "2 1/2 mm",
-          "correct": true
-        },
-        {
-          "text": "3 1/2 mm",
-          "correct": false
-        },
-        {
-          "text": "4 mm",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Aussagen zum Stahlschrot (Weicheisenschrot) ist richtig?",
-      "number": 421,
-      "answers": [
-        {
-          "text": "Stahlschrot (Weicheisenschrot) wird zur Entenjagd an Gewässern verwendet",
-          "correct": true
-        },
-        {
-          "text": "Die Verwendung von Stahlschrot (Weicheisenschrot) bei der Jagd ist unzulässig",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche Schrotart ist besonders ablenkgefährdet?",
-      "number": 422,
-      "answers": [
-        {
-          "text": "Stahlschrot",
-          "correct": true
-        },
-        {
-          "text": "Bleischrot",
-          "correct": false
-        },
-        {
-          "text": "Zinkschrot",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wodurch wird in der Regel die schnelle Tötung beim Schrotschuss bewirkt?",
-      "number": 423,
-      "answers": [
-        {
-          "text": "nur durch Verwendung von Weicheisenschrot",
-          "correct": false
-        },
-        {
-          "text": "durch den Schock",
-          "correct": true
-        },
-        {
-          "text": "durch das Eindringen von Schrotkörnern in das Körperinnere",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Was sind „Streupatronen“?",
-      "number": 424,
-      "answers": [
-        {
-          "text": "Büchsenpatronen mit schlechter Schusspräzision",
-          "correct": false
-        },
-        {
-          "text": "spezielle Schrotpatronen für sehr weite Schüsse",
-          "correct": false
-        },
-        {
-          "text": "Schrotpatronen, deren Schrote gegenüber den sonst üblichen Patronen mehr streuen",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Woher bekommt das Flintenlaufgeschoß seine Richtungsstabilität?",
-      "number": 425,
-      "answers": [
-        {
-          "text": "durch den Drall",
-          "correct": false
-        },
-        {
-          "text": "durch seine lange Führung",
-          "correct": false
-        },
-        {
-          "text": "durch seine Massenverteilung (Pfeilprinzip)",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "In welchen Fällen ist die Verwendung von Jagd-Streupatronen angezeigt?",
-      "number": 426,
-      "answers": [
-        {
-          "text": "wenn aus weit gebohrten Flinten geschossen werden soll",
-          "correct": false
-        },
-        {
-          "text": "wenn auf längere Distanzen geschossen werden soll",
-          "correct": false
-        },
-        {
-          "text": "wenn bei Schüssen auf kurze Entfernung eine optimale Streuung erreicht werden soll",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Auf einer Schrotpatrone deutschen Fabrikats steht für die Schrotgröße die Zahl „6“. Wie groß ist der Schrotdurchmesser in mm?",
-      "number": 427,
-      "answers": [
-        {
-          "text": "2 mm",
-          "correct": false
-        },
-        {
-          "text": "2,75 mm",
-          "correct": true
-        },
-        {
-          "text": "3,25 mm",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welcher Fehler wird oft bei der Auswahl der Schrotstärke für ein bestimmtes Wild gemacht?",
-      "number": 428,
-      "answers": [
-        {
-          "text": "Verwendung von zu feinem Schrot",
-          "correct": false
-        },
-        {
-          "text": "Verwendung von zu dickem Schrot",
-          "correct": true
-        },
-        {
-          "text": "Verwendung von Patronen mit zu starker Energie der Schrote",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Ein Jäger wird aufgefordert, eine auf dem Tisch liegende Pistole (Walther PP) aufzunehmen. Das Magazin ist eingeführt; nicht bekannt ist, ob die Pistole geladen, ge- oder entsichert oder unterladen ist. Die richtige und vollständige Reihenfolge bei der Sicherheitsüberprüfung ist:",
-      "number": 429,
-      "answers": [
-        {
-          "text": "Aufnehmen, sichern, Magazin entfernen, Schlitten zurückziehen, um festzustellen, ob eine Patrone im Patronenlager ist.",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Bei welcher der nachgenannten Waffen befindet sich das Patronenlager nicht im Lauf?",
-      "number": 430,
-      "answers": [
-        {
-          "text": "Revolver",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Durch welchen Konstruktionsteil einer Selbstladepistole wird die Patrone in den Lauf geschoben?",
-      "number": 431,
-      "answers": [
-        {
-          "text": "Verschluss",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Ist es möglich, mit einer fertig geladenen und entsicherten Pistole Walther PP notfalls sofort zu schießen oder muss zuerst der Hahn aufgezogen werden?",
-      "number": 432,
-      "answers": [
-        {
-          "text": "Es ist möglich, sofort zu schießen",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Bei einer Selbstladepistole Walther PPK ragt der Signalstift heraus. Welche der nachgenannten Aussagen ist richtig?",
-      "number": 433,
-      "answers": [
-        {
-          "text": "Es befindet sich eine Patrone im Lauf",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wo befindet sich bei einer Pistole das Patronenlager?",
-      "number": 434,
-      "answers": [
-        {
-          "text": "Im Lauf",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Für welche Art von Kurzwaffen sind Patronen mit einer Rille am Hülsenende i. d. R. bestimmt?",
-      "number": 435,
-      "answers": [
-        {
-          "text": "Selbstlade-Pistole",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "436. Was sind blanke Waffen?",
-      "number": 436,
-      "answers": [
-        {
-          "text": "Nicht brünierte Allwetterwaffen aus rostfreiem Stahl",
-          "correct": false
-        },
-        {
-          "text": "Büchsen ohne Visier, die nur mit Zielfernrohr ausgerüstet sind",
-          "correct": false
-        },
-        {
-          "text": "Stich- und Schneidewaffen, die zum Abfangen von Schalenwild benutzt werden",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "437. Was ist eine „kalte Waffe“?",
-      "number": 437,
-      "answers": [
-        {
-          "text": "eine nach Lauferwärmung durch den Schuss wieder abgekühlte Langwaffe",
-          "correct": false
-        },
-        {
-          "text": "eine Schusswaffe nach längerer Frosteinwirkung?",
-          "correct": false
-        },
-        {
-          "text": "eine aus Stahl gefertigte, scharf geschliffene Hieb- und Stichwaffe",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "438. Ein Messer, dessen Klinge seitlich hervorschnellt und hierdurch festgestellt werden kann,",
-      "number": 438,
-      "answers": [
-        {
-          "text": "ist ein Fallmesser und deswegen grundsätzlich erlaubt;",
-          "correct": false
-        },
-        {
-          "text": "ist immer ein verbotener Gegenstand;",
-          "correct": false
-        },
-        {
-          "text": "ist dann ein verbotener Gegenstand, wenn die Klinge nicht zweiseitig geschliffen ist;",
-          "correct": false
-        },
-        {
-          "text": "ist dann ein verbotener Gegenstand, wenn die Länge der Klinge 8,5 cm übersteigt;",
-          "correct": true
-        },
-        {
-          "text": "ist nur dann ein verbotener Gegenstand, wenn die Länge der Klinge 15 cm übersteigt.",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Was verstehen Sie unter dem Begriff „Ballistik“?",
-      "number": 439,
-      "answers": [
-        {
-          "text": "Lehre von der Bewegung geworfener oder geschossener Körper",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was bedeutet bei ballistischen Angaben über Büchsenpatronen in den Schusstafeln der Ausdruck „Joule“?",
-      "number": 440,
-      "answers": [
-        {
-          "text": "Maßeinheit für die Geschoßenergie",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Die Auftreffenergie eines Büchsengeschosses wird beeinflusst durch:",
-      "number": 441,
-      "answers": [
-        {
-          "text": "seine Masse (Gewicht)",
-          "correct": true
-        },
-        {
-          "text": "seine Geschwindigkeit",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "In einer Schusstabelle finden Sie die Angabe „E 100“. Was ist darunter zu verstehen?",
-      "number": 442,
-      "answers": [
-        {
-          "text": "die Energie des Geschosses in Joule bei 100 m Schussentfernung",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was bedeutet in Schusstabellen die Bezeichnung \"Günstigste Einschussentfernung\" (= GEE)?",
-      "number": 443,
-      "answers": [
-        {
-          "text": "Entfernung, bei der das Geschoss zum zweiten Mal die Visierlinie kreuzt und seine Erhebung am höchsten Punkt über der Visierlinie genau 4 cm beträgt.",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wie kann sich die Treffpunktlage bei einem Drilling mit verlöteten Läufen (unten liegender Kugellauf) verändern, wenn rasch hintereinander mehrere Kugelschüsse abgegeben werden? Es kann sich ergeben:",
-      "number": 444,
-      "answers": [
-        {
-          "text": "Hochschuss",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Ist eine Veränderung der Treffpunktlage einer Büchse zu befürchten, wenn aus dem nicht entölten Lauf ein Schuss abgegeben wird?",
-      "number": 445,
-      "answers": [
-        {
-          "text": "Ja",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was bedeutet die Bezeichnung V100 in einer Schusstafel?",
-      "number": 446,
-      "answers": [
-        {
-          "text": "Geschossgeschwindigkeit nach 100 m Schussentfernung",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was ist die Seelenachse?",
-      "number": 447,
-      "answers": [
-        {
-          "text": "Eine gedachte Linie in Längsrichtung durch die Mitte des Laufes (Mittellinie der Laufbohrung)",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wo entsteht beim Schuss der höchste Gasdruck?",
-      "number": 448,
-      "answers": [
-        {
-          "text": "an der Mündung",
-          "correct": false
-        },
-        {
-          "text": "30 cm vor dem Patronenlager",
-          "correct": false
-        },
-        {
-          "text": "im Patronenlager",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "An welcher Stelle des Gewehrs entsteht der höchste Gasdruck?",
-      "number": 449,
-      "answers": [
-        {
-          "text": "Unmittelbar vor der Laufmündung",
-          "correct": false
-        },
-        {
-          "text": "Ungefähr in der Mitte des Laufes",
-          "correct": false
-        },
-        {
-          "text": "Im Bereich des Patronenlagers",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wie groß ist die Mündungsgeschwindigkeit (V2,5) einer Schrotgarbe aus einer Jagdflinte?",
-      "number": 450,
-      "answers": [
-        {
-          "text": "etwa 100 . 200 m/Sekunde",
-          "correct": false
-        },
-        {
-          "text": "etwa 300 . 400 m/Sekunde",
-          "correct": true
-        },
-        {
-          "text": "etwa 500 . 600 m/Sekunde",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Was versteht man unter Innenballistik des Büchsenschusses?",
-      "number": 451,
-      "answers": [
-        {
-          "text": "Die Vorgänge im Lauf von der Zündung bis zum Austritt des Geschosses",
-          "correct": true
-        },
-        {
-          "text": "Die Vorgänge während des Geschossfluges ab der Laufmündung bis zum Erreichen des Zieles",
-          "correct": false
-        },
-        {
-          "text": "Die Wirkung des Geschosses im Wildkörper",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wo ist die Geschossgeschwindigkeit am höchsten?",
-      "number": 452,
-      "answers": [
-        {
-          "text": "Bei 50 m Entfernung von der Laufmündung",
-          "correct": false
-        },
-        {
-          "text": "Bei 100 m Entfernung von der Laufmündung",
-          "correct": false
-        },
-        {
-          "text": "Beim Verlassen des Laufes",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Schneidet die Flugbahn eines Büchsengeschosses die Seelenachse?",
-      "number": 453,
-      "answers": [
-        {
-          "text": "Ja, einmal",
-          "correct": false
-        },
-        {
-          "text": "Ja, zweimal",
-          "correct": false
-        },
-        {
-          "text": "Nein",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wie weit kann ein Büchsengeschoss im Kaliber 7 x 57 das Hintergelände höchstens gefährden?",
-      "number": 454,
-      "answers": [
-        {
-          "text": "Etwa 10 000 m",
-          "correct": false
-        },
-        {
-          "text": "Etwa 5 000 m",
-          "correct": true
-        },
-        {
-          "text": "Etwa 2 000 m",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie weit kann ein modernes Hochleistungs-Büchsengeschoss fliegen?",
-      "number": 455,
-      "answers": [
-        {
-          "text": "min. 3.000 m",
-          "correct": false
-        },
-        {
-          "text": "min. 5.000 m",
-          "correct": true
-        },
-        {
-          "text": "min. 8.000 m",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Bei welchem der nachgenannten Punkte der Flugbahn eines Büchsengeschosses liegt die \"Günstigste Einschussentfernung\" (= GEE)?",
-      "number": 456,
-      "answers": [
-        {
-          "text": "Beim Kreuzen des fallenden Geschosses mit der Visierlinie",
-          "correct": true
-        },
-        {
-          "text": "Beim Kreuzen des steigenden Geschosses mit der Visierlinie",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Warum soll ein Geschoss im Jagdgebrauch einen Ausschuss liefern?",
-      "number": 457,
-      "answers": [
-        {
-          "text": "Damit es schnell tötet",
-          "correct": false
-        },
-        {
-          "text": "Damit die Schussverletzung des Wildes eine deutliche Schweißfährte liefert",
-          "correct": true
-        },
-        {
-          "text": "Damit die Wildbretzerstörung (Hämatom) gering ist",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie weit kann ein Schrotschuss das Hintergelände gefährden?",
-      "number": 458,
-      "answers": [
-        {
-          "text": "Schrotstärke (mm) x 50 m",
-          "correct": false
-        },
-        {
-          "text": "Schrotstärke (mm) x 100 m",
-          "correct": true
-        },
-        {
-          "text": "Schrotstärke (mm) x 200 m",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Mit welchem maximalen Gefahrenbereich ist beim Schießen mit Flintenlaufgeschossen aus Sicherheitsgründen zu rechnen?",
-      "number": 459,
-      "answers": [
-        {
-          "text": "700 m",
-          "correct": false
-        },
-        {
-          "text": "1.500 m",
-          "correct": true
-        },
-        {
-          "text": "2.500 m",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Bis zu welcher Entfernung reicht die Schusspräzision von Flintenlaufgeschossen aus, um eine Schussabgabe auf erwachsenes Schwarzwild verantworten zu können?",
-      "number": 460,
-      "answers": [
-        {
-          "text": "Bis zu 50 m",
-          "correct": true
-        },
-        {
-          "text": "Bis zu 80 m",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie wird im Allgemeinen waffenseitig das Ausbreitungsverhalten einer Schrotgarbe beeinflusst?",
-      "number": 461,
-      "answers": [
-        {
-          "text": "durch die Würgebohrung",
-          "correct": true
-        },
-        {
-          "text": "durch die Länge des Übergangskegels",
-          "correct": false
-        },
-        {
-          "text": "durch die Drall-Länge",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Geschossarten hat die größte Durchschlagskraft?",
-      "number": 462,
-      "answers": [
-        {
-          "text": "Teilmantelgeschoss",
-          "correct": false
-        },
-        {
-          "text": "H-Mantelgeschoss",
-          "correct": false
-        },
-        {
-          "text": "Vollmantelgeschoss",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welches der nachgenannten Geschosse soll auf gesundes Schalenwild nicht verwendet werden?",
-      "number": 463,
-      "answers": [
-        {
-          "text": "Vollmantelgeschoss",
-          "correct": true
-        },
-        {
-          "text": "Teilmantel-Rundkopfgeschoss",
-          "correct": false
-        },
-        {
-          "text": "H-Mantel-Hohlspitzgeschoss",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Geschosse zerlegen sich im Wildkörper in der Regel nicht?",
-      "number": 464,
-      "answers": [
-        {
-          "text": "Brenneke-Flintenlaufgeschoss",
-          "correct": true
-        },
-        {
-          "text": "Teilmantel-Rundkopfgeschoss",
-          "correct": false
-        },
-        {
-          "text": "H-Mantel-Geschoss mit verdeckter Hohlspitze",
-          "correct": true
-        },
-        {
-          "text": "Vollmantel-Geschoss",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Geschossarten hat die größte Durchschlagskraft auf Wild?",
-      "number": 465,
-      "answers": [
-        {
-          "text": "Brenneke-Flintenlaufgeschoss Kal. 12",
-          "correct": false
-        },
-        {
-          "text": ".300 Winchester Magnum Teilmantel",
-          "correct": false
-        },
-        {
-          "text": ".308 Winchester Vollmantel",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was ist bei einem Ölschuss zu beachten?",
-      "number": 466,
-      "answers": [
-        {
-          "text": "starke Rauchentwicklung",
-          "correct": false
-        },
-        {
-          "text": "Treffpunktlageabweichung",
-          "correct": true
-        },
-        {
-          "text": "gefährliche Gasdrucksteigerung",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wo sitzt der Kugelschuss bei einem links verkanteten Gewehr im Ziel?",
-      "number": 467,
-      "answers": [
-        {
-          "text": "hoch links",
-          "correct": false
-        },
-        {
-          "text": "tief links",
-          "correct": true
-        },
-        {
-          "text": "tief rechts",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie ändert sich die Treffpunktlage eines Geschosses bei einem Winkelschuss (Schuss im Gebirge) steil nach oben?",
-      "number": 468,
-      "answers": [
-        {
-          "text": "Hochschuss",
-          "correct": true
-        },
-        {
-          "text": "Tiefschuss",
-          "correct": false
-        },
-        {
-          "text": "keine Änderung",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Sie stellen fest, dass sich die Treffpunktlage Ihrer Repetierbüchse unzulässig verändert hat. Welche der nachstehenden Ursachen könnte dafür verantwortlich sein?",
-      "number": 469,
-      "answers": [
-        {
-          "text": "Sie haben die Dioptrieneinstellung Ihres Zielfernrohres verstellt",
-          "correct": false
-        },
-        {
-          "text": "von den vorhergehenden Schüssen hat sich Geschoßmantel-Material im Lauf abgelagert („Laufverschmierung“)",
-          "correct": true
-        },
-        {
-          "text": "das Patronenmagazin war nicht vollständig gefüllt",
-          "correct": false
-        },
-        {
-          "text": "Zielfernrohr oder Montage defekt",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche Flugweite muss beim Schießen mit Flintenlaufgeschossen aus Sicherheitsgründen beachtet werden?",
-      "number": 470,
-      "answers": [
-        {
-          "text": "ca. 500 m",
-          "correct": false
-        },
-        {
-          "text": "ca. 1.500 m",
-          "correct": true
-        },
-        {
-          "text": "ca. 2.500 m",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche Breitenausdehnung hat in etwa eine Schrotgarbe auf 100 m Entfernung (bei einer Schrotstärke von 2,5 mm)?",
-      "number": 471,
-      "answers": [
-        {
-          "text": "2 m",
-          "correct": false
-        },
-        {
-          "text": "6 m",
-          "correct": false
-        },
-        {
-          "text": "18 m",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Bis zu welcher Entfernung ist der Schrotschuss mit 3,5 mm Schrot auf einen Hasen zuverlässig wirksam?",
-      "number": 472,
-      "answers": [
-        {
-          "text": "55 m",
-          "correct": false
-        },
-        {
-          "text": "45 m",
-          "correct": false
-        },
-        {
-          "text": "35 m",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Bis zu welcher Entfernung ist der Schrotschuss mit 3 mm Schrot auf eine breit vorbeistreichende Stockente zuverlässig wirksam?",
-      "number": 473,
-      "answers": [
-        {
-          "text": "50 m",
-          "correct": false
-        },
-        {
-          "text": "40 m",
-          "correct": false
-        },
-        {
-          "text": "30 m",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Bis zu welcher Entfernung ist der Schrotschuss mit 4 mm Schrot auf einen breit vorbeiflüchtenden Fuchs zuverlässig wirksam?",
-      "number": 474,
-      "answers": [
-        {
-          "text": "65 m",
-          "correct": false
-        },
-        {
-          "text": "50 m",
-          "correct": false
-        },
-        {
-          "text": "35 m",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was muss bei gestochenen Waffen vor dem Entstechen unbedingt geschehen?",
-      "number": 475,
-      "answers": [
-        {
-          "text": "die Waffe ist zu sichern",
-          "correct": true
-        },
-        {
-          "text": "die Waffe ist zu entladen",
-          "correct": false
-        },
-        {
-          "text": "die Waffe ist zu sichern und zu entladen",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Ihre Waffe mit aufgesetztem Zielfernrohr ist Ihnen aus der Hand gefallen und auf den Boden aufgeschlagen. Ist ein Probeschießen erforderlich?",
-      "number": 476,
-      "answers": [
-        {
-          "text": "ja, ein Probeschießen ist durchzuführen",
-          "correct": true
-        },
-        {
-          "text": "ein Probeschießen ist nur erforderlich, wenn die Waffe auf eine harte Unterlage fiel",
-          "correct": false
-        },
-        {
-          "text": "nein, der heutige Fertigungsstand lässt hohe Erschütterungen der Optik ohne Veränderungen des Absehens zu",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie verhalten Sie sich bei einem Versager?",
-      "number": 477,
-      "answers": [
-        {
-          "text": "Die Laufmündung in Zielrichtung halten und den Verschluss erst nach 10 Sekunden öffnen",
-          "correct": true
-        },
-        {
-          "text": "Sofort den Verschluss öffnen und die Patrone schnell aus dem Lager nehmen",
-          "correct": false
-        },
-        {
-          "text": "Die Waffe, ohne zu öffnen, dem Büchsenmacher bringen (Sprengungsgefahr)",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wann wird eine Schusswaffe mit Stecher eingestochen?",
-      "number": 478,
-      "answers": [
-        {
-          "text": "Nach dem Laden",
-          "correct": false
-        },
-        {
-          "text": "Vor dem Entsichern",
-          "correct": false
-        },
-        {
-          "text": "Unmittelbar vor Schussabgabe",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was verstehen Sie waffentechnisch unter dem Begriff Abkommen?",
-      "number": 479,
-      "answers": [
-        {
-          "text": "eine mündliche Vereinbarung mit dem Reviernachbarn über Bejagungspraktiken an der Reviergrenze",
-          "correct": false
-        },
-        {
-          "text": "die Bezeichnung für die Zielmarke im Zielfernrohr",
-          "correct": false
-        },
-        {
-          "text": "die Art und Weise, wie beim Schuss das Ziel erfasst wurde",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Ein zu hoher Abzugswiderstand bei einer Waffe ist nachteilig, weil:",
-      "number": 480,
-      "answers": [
-        {
-          "text": "der Schuss „verrissen“ werden kann",
-          "correct": true
-        },
-        {
-          "text": "durch die damit verbundene höhere Schlagbolzenenergie Zündhütchendurchbläser entstehen",
-          "correct": false
-        },
-        {
-          "text": "die mechanischen Belastungen der Schlossteile unzulässig hoch werden können",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Warum muss der Oberhebel einer Kipplaufwaffe bei der Schussabgabe ganz geschlossen sein?",
-      "number": 481,
-      "answers": [
-        {
-          "text": "es kommt zu Treffpunktlageveränderungen, weil beim Schuss der Verschlussabstand zu groß wird",
-          "correct": false
-        },
-        {
-          "text": "die Belastung der Laufhaken wird sonst unzulässig hoch",
-          "correct": false
-        },
-        {
-          "text": "bei Abgabe des Schusses kann sich der Verschluss öffnen und es besteht dann erhebliche Verletzungsgefahr für den Schützen",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was verstehen Sie unter dem Begriff „Unterladen“?",
-      "number": 482,
-      "answers": [
-        {
-          "text": "Schießen von Patronen mit reduzierter Pulverladung",
-          "correct": false
-        },
-        {
-          "text": "das gefüllte Magazin befindet sich bei geschlossenem Verschluss in der ungeladenen Waffe",
-          "correct": true
-        },
-        {
-          "text": "bei einer Selbstladepistole ist das Magazin nicht gefüllt",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "483. Wann wird eine Büchse eingestochen?",
-      "number": 483,
-      "answers": [
-        {
-          "text": "vor dem Anschlagen",
-          "correct": false
-        },
-        {
-          "text": "vor dem Entsichern",
-          "correct": false
-        },
-        {
-          "text": "nach dem Entsichern im Anschlag, unmittelbar vor der Schussabgabe",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "484. Wozu führt ein \"hartes\" Auflegen der Büchse in der Nähe der Laufmündung beim Schuss?",
-      "number": 484,
-      "answers": [
-        {
-          "text": "Es ist ohne Einfluss auf die Treffpunktlage",
-          "correct": false
-        },
-        {
-          "text": "Es führt zu einem Kurzschuss",
-          "correct": false
-        },
-        {
-          "text": "Es führt zu einem Hochschuss",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "485. Zu welchem Schussergebnis führt das Abkommen bei offener Visierung mit Feinkorn?",
-      "number": 485,
-      "answers": [
-        {
-          "text": "Hochschuss",
-          "correct": false
-        },
-        {
-          "text": "Fleckschuss",
-          "correct": false
-        },
-        {
-          "text": "Tiefschuss",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "486. Wo sitzt der Schuss, wenn bei offener Visierung das Korn links geklemmt wird?",
-      "number": 486,
-      "answers": [
-        {
-          "text": "Links",
-          "correct": true
-        },
-        {
-          "text": "Rechts",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "487. Wo sitzt der Schuss bei linksverkantetem Gewehr?",
-      "number": 487,
-      "answers": [
-        {
-          "text": "Rechts hoch",
-          "correct": false
-        },
-        {
-          "text": "Links",
-          "correct": false
-        },
-        {
-          "text": "Links tief",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "488. Beim Anschießen einer Büchse mit Zielfernrohr sitzt der Schuss zu hoch. In welche Richtung muss der Zielstachel zur Korrektur verstellt werden?",
-      "number": 488,
-      "answers": [
-        {
-          "text": "Nach oben",
-          "correct": true
-        },
-        {
-          "text": "Nach unten",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "489. Beim Anschießen einer Büchse mit Zielfernrohr sitzt der Schuss zu tief. Müssen Sie zur Korrektur den Zielstachel nach oben oder nach unten verstellen?",
-      "number": 489,
-      "answers": [
-        {
-          "text": "Nach oben",
-          "correct": false
-        },
-        {
-          "text": "Nach unten",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "490. Beim Kugelschuss durch das Zielfernrohr sitzt der Schuss zu weit rechts. In welche Richtung muss der Zielstachel zur Korrektur verstellt werden?",
-      "number": 490,
-      "answers": [
-        {
-          "text": "Nach links",
-          "correct": false
-        },
-        {
-          "text": "Nach rechts",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "491. Was versteht man bei der Abgabe eines Büchsenschusses unter Abkommen?",
-      "number": 491,
-      "answers": [
-        {
-          "text": "Die seitliche Geschossabweichung infolge Windeinflusses",
-          "correct": false
-        },
-        {
-          "text": "Den anvisierten Zielpunkt bei der Schussabgabe",
-          "correct": true
-        },
-        {
-          "text": "Die Treffpunktverlagerung nach Abgabe von mehreren Schüssen in schneller Folge aus einer kombinierten Waffe",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "492. Welchen Lauf einer handelsüblichen Doppelbüchse löst der vordere Abzug aus?",
-      "number": 492,
-      "answers": [
-        {
-          "text": "Den rechten Lauf",
-          "correct": true
-        },
-        {
-          "text": "Den linken Lauf",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "493. Wie verhalten Sie sich bei einer Funktionsstörung an der Selbstladepistole?",
-      "number": 493,
-      "answers": [
-        {
-          "text": "Sie nehmen lediglich das Magazin aus der Waffe",
-          "correct": false
-        },
-        {
-          "text": "Sie repetieren als erstes die Versagerpatrone aus dem Patronenlager",
-          "correct": false
-        },
-        {
-          "text": "Sie sichern, entnehmen das Magazin und repetieren die Versagerpatrone aus der Pistole",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Patronen ist für den Schuss auf Rehwild (auch unter Berücksichtigung der Wildbretverwertung) die geeignetste?",
-      "number": 494,
-      "answers": [
-        {
-          "text": "7 x 57 R 9,0 g",
-          "correct": true
-        },
-        {
-          "text": "9,3 x 64 19,0 g",
-          "correct": false
-        },
-        {
-          "text": "Kal. 12",
-          "correct": false
-        },
-        {
-          "text": "30.06 11,0 g",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Büchsenpatronen ist für die Rehwildjagd geeigneter?",
-      "number": 495,
-      "answers": [
-        {
-          "text": "6,5 x 57 TMS",
-          "correct": true
-        },
-        {
-          "text": "9,3 x 74 R TM",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Sie besitzen die nachgenannten Jagdgewehre. Welches dieser Gewehre verwenden Sie zweckmäßigerweise, wenn Sie zur Erlegung eines Gamsbockes in einem hochalpinen Bergrevier eingeladen werden?",
-      "number": 496,
-      "answers": [
-        {
-          "text": "Drilling 8 x 57 IRS, 12/70",
-          "correct": false
-        },
-        {
-          "text": "Bockbüchsflinte 9,3 x 74 R, 16/65",
-          "correct": false
-        },
-        {
-          "text": "Repetierbüchse 6,5 x 68",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Waffen ist bei einer Druckjagd auf Schwarzwild, Rehwild und Füchse am geeignetsten?",
-      "number": 497,
-      "answers": [
-        {
-          "text": "Drilling mit Kugelkaliber 8 x 57 IRS und Schrotkaliber 16/70, Zielfernrohr 1,5 - 6 x 42",
-          "correct": true
-        },
-        {
-          "text": "Repetierer, 7 x 64, Zielfernrohr mit Festmontage 6 x 42",
-          "correct": false
-        },
-        {
-          "text": "Bockbüchsflinte mit Kugelkaliber 6,5 x 57 R und Schrotkaliber 16/70, Zielfernrohr 8 x 56",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie werden schonend Geschoßmantel-Ablagerungen (Tombak) aus einem Büchsenlauf entfernt?",
-      "number": 498,
-      "answers": [
-        {
-          "text": "durch Lösen der Rückstände mit einem geeigneten Mittel und anschließendem Auswischen",
-          "correct": true
-        },
-        {
-          "text": "durch Putzen mit einer Bürste, die mit Schmirgelpapier umwickelt ist",
-          "correct": false
-        },
-        {
-          "text": "durch Auskratzen mit einer Stahldrahtbürste",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie wird am zweckmäßigsten bei einem Revolver kontrolliert, ob die Laufbohrung frei von Hindernissen ist?",
-      "number": 499,
-      "answers": [
-        {
-          "text": "eine Kontrolle ist nicht erforderlich, da bei der kurzen Lauflänge keine Schwierigkeiten mit Hindernissen zu erwarten sind",
-          "correct": false
-        },
-        {
-          "text": "eventuell vorhandene Hindernisse können durch Abgabe eines Schusses aus dem Lauf geschossen werden",
-          "correct": false
-        },
-        {
-          "text": "bei ausgeschwenkter Trommel wird Licht in den Lauf gespiegelt; von der Mündung her lässt sich dann die Laufbohrung kontrollieren",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wie verhalten Sie sich, wenn der Pfropfen einer abgefeuerten Schrotpatrone im Lauf steckengeblieben ist?",
-      "number": 500,
-      "answers": [
-        {
-          "text": "das Hindernis muss entfernt werden",
-          "correct": true
-        },
-        {
-          "text": "Hindernis mit einer weiteren Patrone aus dem Lauf schießen",
-          "correct": false
-        },
-        {
-          "text": "mit einer Patrone, aus der die Schrote entfernt worden sind, den Pfropfen aus dem Lauf schießen",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Aus welchem Lauf löst sich bei den meisten der gebräuchlichen Bockdoppelflinten der Schuss, wenn der vordere Abzug betätigt wird?",
-      "number": 501,
-      "answers": [
-        {
-          "text": "Aus dem oberen Lauf",
-          "correct": false
-        },
-        {
-          "text": "Aus dem unteren Lauf",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wie werden Doppelflinten mit Einabzug entspannt?",
-      "number": 502,
-      "answers": [
-        {
-          "text": "Durch Schließen der Waffe mit durchgezogenem Abzug",
-          "correct": false
-        },
-        {
-          "text": "Durch Laden mit Pufferpatronen und Abschlagen der Schlosse",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Darf aus einer alten Doppelflinte, welche den Beschussstempel \"N\" nicht trägt, mit den heute für die Jagd allgemein gebräuchlichen Schrotpatronen geschossen werden?",
-      "number": 503,
-      "answers": [
-        {
-          "text": "Ja",
-          "correct": false
-        },
-        {
-          "text": "Nein",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Aus welchem Lauf lässt sich aus einem Drilling ein Schrotschuss abgeben, wenn der Drilling auf Kugel gestellt ist und vorher nicht umgeschaltet wird?",
-      "number": 504,
-      "answers": [
-        {
-          "text": "Aus dem linken Schrotlauf",
-          "correct": true
-        },
-        {
-          "text": "Aus dem rechten Schrotlauf",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie kontrollieren Sie am schnellsten, ob sich Patronen in einem Drilling befinden?",
-      "number": 505,
-      "answers": [
-        {
-          "text": "durch Öffnen der Waffe",
-          "correct": true
-        },
-        {
-          "text": "durch Kontrollieren der Stellung der Abzüge",
-          "correct": false
-        },
-        {
-          "text": "durch Kontrollieren der Signalstifte",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche Vorteile bietet eine kombinierte Waffe mit separater Kugelspannung?",
-      "number": 506,
-      "answers": [
-        {
-          "text": "Die Abzugswiderstände verringern sich deutlich",
-          "correct": false
-        },
-        {
-          "text": "Die Waffe lässt sich sicherer handhaben und führen",
-          "correct": true
-        },
-        {
-          "text": "Der Büchsenlauf hat eine bessere Präzision",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie wird eine Bockbüchsflinte eingestochen?",
-      "number": 507,
-      "answers": [
-        {
-          "text": "Durch Vordrücken des vorderen Abzugs (Rückstecher)",
-          "correct": true
-        },
-        {
-          "text": "Durch Drücken des hinteren Abzugs (Doppelzüngelstecher)",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Aus welchem Lauf löst sich der Schuss, wenn bei einem auf Kugel gestellten Drilling der hintere Abzug betätigt wird?",
-      "number": 508,
-      "answers": [
-        {
-          "text": "Aus dem linken Schrotlauf",
-          "correct": true
-        },
-        {
-          "text": "Aus dem rechten Schrotlauf",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Aus welchem Lauf löst sich bei einem auf „Schrot“ gestellten Drilling der Schuss, wenn der vordere Abzug betätigt wird?",
-      "number": 509,
-      "answers": [
-        {
-          "text": "aus dem linken Schrotlauf",
-          "correct": false
-        },
-        {
-          "text": "aus dem rechten Schrotlauf",
-          "correct": true
-        },
-        {
-          "text": "aus dem Büchsenlauf",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Kann an den Signalstiften eines Drillings erkannt werden, ob er geladen ist?",
-      "number": 510,
-      "answers": [
-        {
-          "text": "Ja",
-          "correct": false
-        },
-        {
-          "text": "Nein",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was wird bei einem mit Signalstiften versehenen Drilling angezeigt, wenn die Stifte herausstehen?",
-      "number": 511,
-      "answers": [
-        {
-          "text": "Die Schlosse sind gespannt",
-          "correct": true
-        },
-        {
-          "text": "Die Waffe ist geladen",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "An einem geschlossenen Drilling sind die Signalstifte nicht sichtbar. Kann die Waffe trotzdem geladen sein?",
-      "number": 512,
-      "answers": [
-        {
-          "text": "Ja",
-          "correct": true
-        },
-        {
-          "text": "Nein",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "In welchen Lauf muss bei einem mit Zielfernrohr versehenen Drilling der Einstecklauf für .22 Winchester Magnum eingebracht werden, wenn beim Schießen mit dieser Patrone der Stecher benutzt werden soll?",
-      "number": 513,
-      "answers": [
-        {
-          "text": "Kugellauf",
-          "correct": false
-        },
-        {
-          "text": "Rechter Schrotlauf",
-          "correct": true
-        },
-        {
-          "text": "Linker Schrotlauf",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Sie haben den Drilling eingestochen und der Bock springt ab. Was tun Sie?",
-      "number": 514,
-      "answers": [
-        {
-          "text": "Lauf senken, sichern, entstechen, Waffe öffnen",
-          "correct": false
-        },
-        {
-          "text": "entstechen, sichern, Lauf senken, Waffe öffnen",
-          "correct": false
-        },
-        {
-          "text": "sichern, Lauf senken, Waffe öffnen, entstechen",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was bedeutet die Angabe 7 x 42 bei einem Fernglas?",
-      "number": 515,
-      "answers": [
-        {
-          "text": "42-fache Vergrößerung, 7 cm Objektivdurchmesser",
-          "correct": false
-        },
-        {
-          "text": "7-fache Vergrößerung, 42 mm Objektivdurchmesser",
-          "correct": true
-        },
-        {
-          "text": "7-fache Vergrößerung, 42 cm Okulardurchmesser",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welches der nachgenannten Ferngläser erbringt die größte Dämmerungsleistung?",
-      "number": 516,
-      "answers": [
-        {
-          "text": "8 x 56",
-          "correct": true
-        },
-        {
-          "text": "7 x 42",
-          "correct": false
-        },
-        {
-          "text": "8 x 30",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Was bedeuten die Zahlen beim Fernglas 8 x 56?",
-      "number": 517,
-      "answers": [
-        {
-          "text": "8-fache Vergrößerung",
-          "correct": true
-        },
-        {
-          "text": "56 mm Durchmesser des Objektives",
-          "correct": true
-        },
-        {
-          "text": "448 m Sehfeld auf 1 000 m Entfernung",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Auf welche Entfernung bezieht sich die Angabe für ein Fernglas 'Sehfeld 145 m'?",
-      "number": 518,
-      "answers": [
-        {
-          "text": "100 m",
-          "correct": false
-        },
-        {
-          "text": "500 m",
-          "correct": false
-        },
-        {
-          "text": "1.000 m",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welches der nachgenannten Ferngläser ist für die Tagespirsch bei der Jagd bezüglich der optischen Leistung auf weite Entfernungen am besten geeignet?",
-      "number": 519,
-      "answers": [
-        {
-          "text": "6 x 30",
-          "correct": false
-        },
-        {
-          "text": "7 x 50",
-          "correct": false
-        },
-        {
-          "text": "10 x 40",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welches der nachgenannten Ferngläser ist für die Jagd bei Mondschein am besten geeignet?",
-      "number": 520,
-      "answers": [
-        {
-          "text": "6 x 30",
-          "correct": false
-        },
-        {
-          "text": "8 x 30",
-          "correct": false
-        },
-        {
-          "text": "8 x 56",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Auf welche Entfernung bezieht sich die Sehfeldangabe von Zielfernrohren?",
-      "number": 521,
-      "answers": [
-        {
-          "text": "1.000 m",
-          "correct": false
-        },
-        {
-          "text": "100 m",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Für das Flüchtigschießen, etwa auf Drückjagden, ist ein Glas empfehlenswert mit",
-      "number": 522,
-      "answers": [
-        {
-          "text": "8 - 12-facher Vergrößerung",
-          "correct": false
-        },
-        {
-          "text": "4 - 6-facher Vergrößerung",
-          "correct": false
-        },
-        {
-          "text": "1,5 - 3-facher Vergrößerung",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Angaben sind von maßgeblicher Bedeutung für die Leistung eines Zielfernrohrs bei schwachem Licht?",
-      "number": 523,
-      "answers": [
-        {
-          "text": "Vergrößerung",
-          "correct": true
-        },
-        {
-          "text": "Durchmesser des Objektivs (dem Objekt zugewandte Linse)",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welches der nachgenannten Zielfernrohre hat das größte Sehfeld?",
-      "number": 524,
-      "answers": [
-        {
-          "text": "2 1/2 x 20",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Bei welcher Vergrößerung eines variablen Zielfernrohrs ist das Sehfeld größer?",
-      "number": 525,
-      "answers": [
-        {
-          "text": "1 1/2-fach",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was wird durch die Vergütung der Optik eines Zielfernrohrs vorrangig erreicht?",
-      "number": 526,
-      "answers": [
-        {
-          "text": "Eine Reflexminderung an den Glasoberflächen",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wie weit ist ein breitstehender Rehbock etwa entfernt, wenn er beim Anvisieren durch ein Zielfernrohr mit 4facher Vergrößerung mit Absehen 1 den Zwischenraum zwischen den Querbalken gerade ausfüllt?",
-      "number": 527,
-      "answers": [
-        {
-          "text": "Etwa 100 m",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welches unbeleuchtete Zielfernrohrabsehen ist bei schlechten Lichtverhältnissen (z. B. tiefe Dämmerung) für einen sicheren Schuss am wenigsten geeignet?",
-      "number": 528,
-      "answers": [
-        {
-          "text": "Absehen 6",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wie ändert sich das Sehfeld, wenn bei einem variablen Zielfernrohr die Vergrößerung von 1 1/2-fach auf 6-fach verstellt wird?",
-      "number": 529,
-      "answers": [
-        {
-          "text": "Es wird kleiner",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche Einstellung bei einem variablen Zielfernrohr gilt für den Schuss auf flüchtiges Schalenwild als optimal?",
-      "number": 530,
-      "answers": [
-        {
-          "text": "1 1/2-fache Vergrößerung",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was bedeutet der Begriff \"Absehen\"? Das Absehen ist",
-      "number": 531,
-      "answers": [
-        {
-          "text": "die Zieleinrichtung im Zielfernrohr, wie z. B. das Fadenkreuz",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche Merkmale sollte ein Zielfernrohr aufweisen, wenn es vor allem bei Drückjagden verwendet werden soll?",
-      "number": 532,
-      "answers": [
-        {
-          "text": "Geringe Vergrößerung (z. B. 1,5 bis 2,5fach)",
-          "correct": true
-        },
-        {
-          "text": "Großes Sehfeld",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Aussagen zum Leuchtabsehen in Zielfernrohren ist richtig?",
-      "number": 533,
-      "answers": [
-        {
-          "text": "Beleuchtete Absehen dienen der genauen Zielerkennung",
-          "correct": false
-        },
-        {
-          "text": "Beleuchtete Absehen ermöglichen ein genaues Sehen des Absehens bei schlechten Lichtverhältnissen",
-          "correct": true
-        },
-        {
-          "text": "Beleuchtete Absehen verbessern das Ansprechen des Wildes in der Dämmerung/Nacht",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche nachstehenden Angaben beeinflussen bei einem Zielfernrohr dessen Dämmerungsleistung?",
-      "number": 534,
-      "answers": [
-        {
-          "text": "der Durchmesser des Okulars",
-          "correct": false
-        },
-        {
-          "text": "die Dicke des Absehens",
-          "correct": false
-        },
-        {
-          "text": "der Durchmesser des Objektivs",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Beim Einschießen einer Büchse liegt die Treffpunktlage der Schüsse zu weit links. In welche Richtung muss das Absehen verstellt werden, um Fleckschuss zu erhalten?",
-      "number": 535,
-      "answers": [
-        {
-          "text": "nach rechts",
-          "correct": false
-        },
-        {
-          "text": "nach links",
-          "correct": true
-        },
-        {
-          "text": "keine Veränderung; es lassen sich nur Höhenabweichungen korrigieren",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Bei welcher Entfernung passt ein ausgewachsenes Reh vom Stich bis zum Spiegel zwischen die waagerechten Balken eines Absehens 1, das sich in der Objektivbildebene des Zielfernrohres befindet?",
-      "number": 536,
-      "answers": [
-        {
-          "text": "50 m",
-          "correct": false
-        },
-        {
-          "text": "100 m",
-          "correct": true
-        },
-        {
-          "text": "150 m",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche Einstellung wählen Sie bei einem variablen Zielfernrohr für den Schuss auf flüchtiges Schalenwild?",
-      "number": 537,
-      "answers": [
-        {
-          "text": "starke Vergrößerung",
-          "correct": false
-        },
-        {
-          "text": "immer 10-fache Vergrößerung",
-          "correct": false
-        },
-        {
-          "text": "geringe Vergrößerung mit großem Sehfeld",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachgenannten Fallen sind Fallen für den Lebendfang von Wild?",
-      "number": 538,
-      "answers": [
-        {
-          "text": "Wippbrettfalle",
-          "correct": true
-        },
-        {
-          "text": "Schwanenhals",
-          "correct": false
-        },
-        {
-          "text": "Scherenfalle",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachstehend aufgeführten Fallen ist erlaubt?",
-      "number": 539,
-      "answers": [
-        {
-          "text": "Tellereisen",
-          "correct": false
-        },
-        {
-          "text": "kleines Kräheneisen",
-          "correct": false
-        },
-        {
-          "text": "Kastenfalle",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Welche der nachstehend aufgeführten Fallen ist, ohne dass eine Ausnahmegenehmigung vorliegt, verboten?",
-      "number": 540,
-      "answers": [
-        {
-          "text": "Betonrohrfalle",
-          "correct": false
-        },
-        {
-          "text": "Norwegischer Krähenfang",
-          "correct": true
-        },
-        {
-          "text": "Eiabzugseisen",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche Vorkehrungen garantieren, dass in einer Wippbrettfalle Fehlfänge von Mäusen oder Mauswieseln vermieden werden?",
-      "number": 541,
-      "answers": [
-        {
-          "text": "ein Hindernis erschwert den Einlauf",
-          "correct": false
-        },
-        {
-          "text": "Geruchsstoffe veranlassen Mauswiesel und Maus die Falle zu umgehen",
-          "correct": false
-        },
-        {
-          "text": "ein Gewicht (100 g) verhindert das Zuschlagen der Wippe bei Mäusen und Mauswieseln",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was garantiert, dass z. B. Kinder nicht in eingespanntes Eiabzugseisen greifen?",
-      "number": 542,
-      "answers": [
-        {
-          "text": "Sicherheitsfangbunker und längerer Einlauftunnel",
-          "correct": true
-        },
-        {
-          "text": "Warnschild mit roter Schrift",
-          "correct": false
-        },
-        {
-          "text": "Einzäunung",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie oft am Tag sind Wippbrettfallen mindestens zu kontrollieren?",
-      "number": 543,
-      "answers": [
-        {
-          "text": "1 mal täglich",
-          "correct": false
-        },
-        {
-          "text": "2 mal täglich",
-          "correct": true
-        },
-        {
-          "text": "3 mal täglich",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wann sind mit Kastenfallen am ehesten Fangergebnisse zu erzielen?",
-      "number": 544,
-      "answers": [
-        {
-          "text": "wenn sie nicht mehr neu sind",
-          "correct": false
-        },
-        {
-          "text": "wenn sie auf Zwangswechseln stehen",
-          "correct": true
-        },
-        {
-          "text": "wenn sie nicht verblendet sind",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Wie spannt man ein Abzugseisen?",
-      "number": 545,
-      "answers": [
-        {
-          "text": "mit den Füßen",
-          "correct": false
-        },
-        {
-          "text": "mit einem Spannhebel",
-          "correct": true
-        },
-        {
-          "text": "vorsichtig mit den Händen",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Was ist ein Fangbunker?",
-      "number": 546,
-      "answers": [
-        {
-          "text": "Totschlagfalle",
-          "correct": false
-        },
-        {
-          "text": "Lebendfalle",
-          "correct": false
-        },
-        {
-          "text": "gesicherter Fangplatz für Abzugseisen",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Was ist ein Spannbrett?",
-      "number": 547,
-      "answers": [
-        {
-          "text": "eine Vorrichtung zum Aufspannen und Trocknen von Bälgen",
-          "correct": true
-        },
-        {
-          "text": "ein Gerät zum Spannen von Bügelfallen",
-          "correct": false
-        },
-        {
-          "text": "eine Einrichtung zum Trocknen von Jagdbekleidung",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "question": "Welche Fallen werden in der Regel für den Fang von Füchsen eingesetzt?",
-      "number": 548,
-      "answers": [
-        {
-          "text": "Wieselwippbrettfalle",
-          "correct": false
-        },
-        {
-          "text": "Eiabzugseisen",
-          "correct": false
-        },
-        {
-          "text": "Betonrohrfalle",
-          "correct": true
-        }
-      ]
-    },
-    {
-      "question": "Wie muss ein Marder in einem Eiabzugseisen mit einer Bügelweite von 38 cm tierschutzgerecht gefangen werden?",
-      "number": 549,
-      "answers": [
-        {
-          "text": "Über den losen Bügel",
-          "correct": true
-        },
-        {
-          "text": "Über den feststehenden Bügel",
-          "correct": false
-        },
-        {
-          "text": "Marder dürfen in Eiabzugseisen erst ab einer Bügelweite von 42 cm gefangen werden.",
-          "correct": false
-        },
-        {
-          "text": "Raubwild darf mit Eiabzugseisen nicht gefangen werden, da es zu den verbotenen Fanggeräten gehört.",
-          "correct": false
-        },
-        {
-          "text": "Das Eiabzugseisen muss bei Auslösen sofort töten.",
           "correct": true
         }
       ]

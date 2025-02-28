@@ -3559,6 +3559,14 @@
           "correct": true
         },
         {
+          "text": "Fuchs und Dachs bewohnen nie gleichzeitig denselben Bau",
+          "correct": false
+        },
+        {
+          "text": "Füchse können den Dachs aus dem Bau vertreiben",
+          "correct": false
+        },
+        {
           "text": "Füchse nehmen häufig verlassene Dachsbaue an",
           "correct": true
         }
@@ -3569,8 +3577,20 @@
       "number": 183,
       "answers": [
         {
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "text": "Luchs",
+          "correct": false
+        },
+        {
           "text": "Fischotter",
           "correct": true
+        },
+        {
+          "text": "Wildkatze",
+          "correct": false
         },
         {
           "text": "Steinmarder",
@@ -3587,8 +3607,20 @@
           "correct": true
         },
         {
+          "text": "Der Luchs kehrt häufig zu größeren Rissen zurück",
+          "correct": false
+        },
+        {
           "text": "Der Luchs nimmt niemals Fallwild an",
           "correct": true
+        },
+        {
+          "text": "Der Luchs benötigt große zusammenhängende Waldgebiete als Streifgebiete",
+          "correct": false
+        },
+        {
+          "text": "Der Luchs tötet typischerweise durch einen gezielten Kehlbiss",
+          "correct": false
         }
       ]
     },
@@ -3597,8 +3629,20 @@
       "number": 185,
       "answers": [
         {
+          "text": "im Dezember/Januar",
+          "correct": false
+        },
+        {
           "text": "im März/April",
           "correct": true
+        },
+        {
+          "text": "im August/September",
+          "correct": false
+        },
+        {
+          "text": "im Oktober/November",
+          "correct": false
         }
       ]
     },
@@ -3611,6 +3655,10 @@
           "correct": true
         },
         {
+          "text": "Sie jagt stets zusammen mit der Partnerkatze",
+          "correct": false
+        },
+        {
           "text": "Sie führt ein heimliches, verstecktes Leben",
           "correct": true
         }
@@ -3620,6 +3668,10 @@
       "question": "Beim Ansitz beobachten Sie eine Katze, die Sie für eine europäische Wildkatze halten. Welche der nachfolgend aufgeführten Merkmale bestärken Sie in Ihrer Ansicht?",
       "number": 187,
       "answers": [
+        {
+          "text": "Kräftig durchgezeichnetes Fellmuster",
+          "correct": false
+        },
         {
           "text": "Stumpfähnlicher, stark buschiger Schwanz",
           "correct": true
@@ -3635,6 +3687,10 @@
       "number": 188,
       "answers": [
         {
+          "text": "sie lebt monogam",
+          "correct": false
+        },
+        {
           "text": "sie lebt polygam",
           "correct": true
         },
@@ -3649,8 +3705,20 @@
       "number": 189,
       "answers": [
         {
+          "text": "15 - 25 km2",
+          "correct": false
+        },
+        {
+          "text": "25 - 50 km2",
+          "correct": false
+        },
+        {
           "text": "150 - 350 km2",
           "correct": true
+        },
+        {
+          "text": "600 - 1.000 km2",
+          "correct": false
         }
       ]
     },
@@ -3659,8 +3727,20 @@
       "number": 190,
       "answers": [
         {
+          "text": "36 - 48 Monate",
+          "correct": false
+        },
+        {
+          "text": "24 - 36 Monate",
+          "correct": false
+        },
+        {
           "text": "11 - 22 Monate",
           "correct": true
+        },
+        {
+          "text": "5 - 9 Monate",
+          "correct": false
         }
       ]
     },
