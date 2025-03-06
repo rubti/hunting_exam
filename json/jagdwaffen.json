@@ -369,11 +369,11 @@
           "correct": true
         },
         {
-          "text": "Nachtzielgeräte",
-          "correct": true
+          "text": "Leuchtpunktvisiere für Kurzwaffen",
+          "correct": false
         },
         {
-          "text": "Leuchtpunktvisiere für Kurzwaffen",
+          "text": "Nachtzielgeräte",
           "correct": true
         }
       ]
@@ -519,6 +519,14 @@
       "number": 30,
       "answers": [
         {
+          "text": "Die für die Waffe zulässige Munition ist in einer Tabelle des Herstellers exakt angegeben. Diese Tabelle liegt jeder Waffe bei und kann bei Verlust kostenfrei vom Hersteller oder Importeur angefordert werden.",
+          "correct": false
+        },
+        {
+          "text": "Die für die Waffe zulässige Munition ergibt sich aus der Kaliberangabe des amtlichen Eintrags dieser Waffe in der Waffenbesitzkarte des Besitzers.",
+          "correct": false
+        },
+        {
           "text": "Die für die Waffe zulässige Munition ergibt sich aus der Munitionsbezeichnung auf der Waffe.",
           "correct": true
         }
@@ -531,6 +539,14 @@
         {
           "text": "Den Durchmesser des Geschosses.",
           "correct": true
+        },
+        {
+          "text": "Die Länge des Geschosses.",
+          "correct": false
+        },
+        {
+          "text": "Das Gewicht des Geschosses.",
+          "correct": false
         }
       ]
     },
@@ -541,6 +557,14 @@
         {
           "text": "Weil es verschiedene 9 mm-Patronen gibt.",
           "correct": true
+        },
+        {
+          "text": "Weil die Kaliberangabe in der Regel nie ganz exakt ist, sondern auf gerundeten Werten beruht.",
+          "correct": false
+        },
+        {
+          "text": "Weil die Kaliberangabe keine Information über die zulässigen Treibladungsmittel (Schwarz- oder Nitrozellulosepulver) enthält.",
+          "correct": false
         }
       ]
     },
@@ -548,6 +572,14 @@
       "question": "Wie viel Munition darf mit einer Waffenbesitzkarte bei entsprechender Munitionserwerbsberechtigung erworben werden (ungeachtet von Transportbeschränkungen)?",
       "number": 33,
       "answers": [
+        {
+          "text": "bis zu 1000 Patronen je Kauf / Lieferung",
+          "correct": false
+        },
+        {
+          "text": "bis zu 5 kg Nettoexplosivmasse je Kauf / Lieferung",
+          "correct": false
+        },
         {
           "text": "unbegrenzt",
           "correct": true
@@ -559,6 +591,14 @@
       "number": 34,
       "answers": [
         {
+          "text": "Hohlspitzpatronen",
+          "correct": false
+        },
+        {
+          "text": "Kleinschrotpatronen",
+          "correct": false
+        },
+        {
           "text": "Leuchtspurpatronen",
           "correct": true
         }
@@ -568,6 +608,10 @@
       "question": "Ist eine Patrone mit Wadcutter-Geschoss verbotene Munition?",
       "number": 35,
       "answers": [
+        {
+          "text": "Ja, denn es handelt sich um ein Dum-Dum-Geschoss.",
+          "correct": false
+        },
         {
           "text": "Nein, es ist Scheibenmunition.",
           "correct": true
@@ -581,6 +625,14 @@
         {
           "text": "Wadcutter-Munition",
           "correct": true
+        },
+        {
+          "text": "Leuchtspurmunition",
+          "correct": false
+        },
+        {
+          "text": "Büchsenpatrone mit Treibspiegel-Geschoss",
+          "correct": false
         }
       ]
     },
@@ -591,6 +643,10 @@
         {
           "text": "Nein, es handelt sich um verbotene Munition.",
           "correct": true
+        },
+        {
+          "text": "Ja, da es keine Munition ist.",
+          "correct": false
         }
       ]
     },
@@ -598,6 +654,14 @@
       "question": "Was versteht man unter Double-Action-Only Pistolen?",
       "number": 38,
       "answers": [
+        {
+          "text": "Pistolen, deren Abzug jedes Mal vorgespannt werden muss.",
+          "correct": false
+        },
+        {
+          "text": "Pistolen, bei denen nur der erste Schuss mittels Spannabzug abgefeuert wird.",
+          "correct": false
+        },
         {
           "text": "Pistolen, bei denen jeder Schuss mittels Spannabzug abgefeuert wird.",
           "correct": true
@@ -613,6 +677,10 @@
           "correct": true
         },
         {
+          "text": "Doppelflinten",
+          "correct": false
+        },
+        {
           "text": "Pistolen",
           "correct": true
         }
@@ -625,6 +693,14 @@
         {
           "text": "Eine Waffe mit Spannabzug (auch im entspannten Zustand kann durch Betätigen des Abzugs ein Schuss abgegeben werden).",
           "correct": true
+        },
+        {
+          "text": "Eine Waffe, die für mindestens zwei Schießsportdisziplinen zugelassen ist.",
+          "correct": false
+        },
+        {
+          "text": "Eine Waffe, bei der durch Betätigen der Sicherung im gespannten Zustand sowohl der Hahn (das Schlagstück) entspannt, als auch der Schlagbolzen gesichert wird.",
+          "correct": false
         }
       ]
     },
@@ -1879,8 +1955,16 @@
       "number": 110,
       "answers": [
         {
+          "text": "Sie finden eine geladene Jagdwaffe im Wald.",
+          "correct": false
+        },
+        {
           "text": "Sie werden durch ein herrenloses Tier angegriffen.",
           "correct": true
+        },
+        {
+          "text": "Sie werden durch eine Person angegriffen.",
+          "correct": false
         }
       ]
     },
@@ -1891,6 +1975,14 @@
         {
           "text": "gegenwärtige, nicht mit geringerem Eingriff abwehrbare Gefahr für ein Rechtsgut; wesentliches Überwiegen des geschützten Interesses",
           "correct": true
+        },
+        {
+          "text": "Absicht, die Gefahr nicht von sich oder einem anderen abzuwenden",
+          "correct": false
+        },
+        {
+          "text": "gegenwärtiger rechtswidriger Angriff",
+          "correct": false
         }
       ]
     },
@@ -1899,8 +1991,16 @@
       "number": 112,
       "answers": [
         {
+          "text": "von sich selbst abzuwenden.",
+          "correct": false
+        },
+        {
           "text": "von einem anderen abzuwenden.",
           "correct": true
+        },
+        {
+          "text": "von sich selbst oder Verwandten abzuwenden.",
+          "correct": false
         }
       ]
     },
@@ -1909,8 +2009,16 @@
       "number": 113,
       "answers": [
         {
+          "text": "Ich leiste bei einem Schwerverletzten Erste Hilfe.",
+          "correct": false
+        },
+        {
           "text": "Ich wehre den Angriff eines Mannes ab, der eine Frau erkennbar unsittlich belästigt.",
           "correct": true
+        },
+        {
+          "text": "Ich verteidige mich angemessen im Rahmen der gesetzlichen Nothilfebestimmungen.",
+          "correct": false
         }
       ]
     },
@@ -1919,8 +2027,16 @@
       "number": 114,
       "answers": [
         {
+          "text": "bei Hilfeleistung am Unfallort.",
+          "correct": false
+        },
+        {
           "text": "wenn ein rechtswidriger Angriff auf einen anderen abgewehrt wird.",
           "correct": true
+        },
+        {
+          "text": "bei finanzieller Hilfeleistung in Not geratener Verwandter.",
+          "correct": false
         }
       ]
     },
@@ -1928,6 +2044,10 @@
       "question": "Wann ist ein Angriff gegenwärtig?",
       "number": 115,
       "answers": [
+        {
+          "text": "Wenn er abgeschlossen ist.",
+          "correct": false
+        },
         {
           "text": "Wenn er unmittelbar bevorsteht.",
           "correct": true
@@ -1943,8 +2063,16 @@
       "number": 116,
       "answers": [
         {
+          "text": "Wenn zu befürchten ist, dass durch eine Drohung des Angreifers zukünftig eine Gefahr für Leib und Leben eintreten könnte.",
+          "correct": false
+        },
+        {
           "text": "Wenn ein Angriff unmittelbar bevorsteht oder noch nicht beendet ist.",
           "correct": true
+        },
+        {
+          "text": "Wenn der Angreifer in die Flucht geschlagen ist, aber mit einem späteren Angriff droht.",
+          "correct": false
         }
       ]
     },
@@ -1955,6 +2083,14 @@
         {
           "text": "jede begonnene oder unmittelbar bevorstehende Verletzung eines Individual-Rechtsgutes.",
           "correct": true
+        },
+        {
+          "text": "jede Androhung von Gewalt für Leib und Leben.",
+          "correct": false
+        },
+        {
+          "text": "auch die bereits abgeschlossene Verletzung eines Rechtsgutes.",
+          "correct": false
         }
       ]
     },
@@ -1965,6 +2101,14 @@
         {
           "text": "Es kann jeden Augenblick ein Schaden eintreten.",
           "correct": true
+        },
+        {
+          "text": "Es wird vielleicht ein Schaden eintreten.",
+          "correct": false
+        },
+        {
+          "text": "Es ist ein Schaden eingetreten, das Rechtsgut ist zur Ruhe gekommen.",
+          "correct": false
         }
       ]
     },
@@ -1972,6 +2116,14 @@
       "question": "Was ist Ihre Pflicht nach einem abgewehrten Angriff?",
       "number": 119,
       "answers": [
+        {
+          "text": "Ich habe keinerlei Pflichten gegenüber dem Angreifer.",
+          "correct": false
+        },
+        {
+          "text": "Ich bin zum Schadensersatz verpflichtet.",
+          "correct": false
+        },
         {
           "text": "Wenn die Notwendigkeit erkennbar und die Situation zumutbar ist, habe ich Hilfe zu leisten.",
           "correct": true
@@ -1982,6 +2134,14 @@
       "question": "Regelungen über Notwehr und Notstand finden Sie im ...",
       "number": 120,
       "answers": [
+        {
+          "text": "Grundgesetz.",
+          "correct": false
+        },
+        {
+          "text": "Waffengesetz.",
+          "correct": false
+        },
         {
           "text": "Strafgesetzbuch / BGB.",
           "correct": true
@@ -4783,6 +4943,10 @@
           "correct": true
         },
         {
+          "text": "Nach dem Signal \"Treiber rein\"",
+          "correct": false
+        },
+        {
           "text": "Nach dem Signal zur Beendigung des Treibens",
           "correct": true
         }
@@ -4799,6 +4963,14 @@
         {
           "text": "Überwinden von Hindernissen",
           "correct": true
+        },
+        {
+          "text": "Schlechte Wetterverhältnisse",
+          "correct": false
+        },
+        {
+          "text": "Pirschen im Moor",
+          "correct": false
         }
       ]
     },
@@ -4807,8 +4979,20 @@
       "number": 277,
       "answers": [
         {
+          "text": "nur die Mündung nach unten halten",
+          "correct": false
+        },
+        {
+          "text": "nur die Waffe sichern",
+          "correct": false
+        },
+        {
           "text": "die Läufe (Patronenlager) entladen",
           "correct": true
+        },
+        {
+          "text": "die Waffe entspannen",
+          "correct": false
         }
       ]
     },
@@ -4817,8 +5001,16 @@
       "number": 278,
       "answers": [
         {
+          "text": "Die Schützen dürfen in das Treiben nach eigenem Ermessen hineinschießen",
+          "correct": false
+        },
+        {
           "text": "Die Schützen dürfen nur in das Treiben hineinschießen, wenn der Jagdleiter dies genehmigt hat und eine Gefährdung ausgeschlossen ist",
           "correct": true
+        },
+        {
+          "text": "Das Hineinschießen in das Treiben ist ausnahmslos verboten",
+          "correct": false
         }
       ]
     },
@@ -4829,6 +5021,14 @@
         {
           "text": "ja, es kann zu Laufsprengungen oder Laufaufbauchungen kommen",
           "correct": true
+        },
+        {
+          "text": "nein, die Festigkeit der Gewehrlaufstähle ist so hoch, dass keine Aufbauchungen oder Sprengungen entstehen",
+          "correct": false
+        },
+        {
+          "text": "nein, das Hindernis wird durch Pulvergase aus dem Lauf getrieben",
+          "correct": false
         }
       ]
     },
@@ -4836,6 +5036,14 @@
       "question": "280. Worauf ist zu achten, wenn bei gefrorenem Boden mit der Flinte gejagt wird?",
       "number": 280,
       "answers": [
+        {
+          "text": "es darf nur auf Flugwild geschossen werden",
+          "correct": false
+        },
+        {
+          "text": "ich darf nur auf Ziele schießen, die mindestens 50 m entfernt sind",
+          "correct": false
+        },
         {
           "text": "bei einem Schuss auf den Boden können Schrote abgelenkt werden, die Andere gefährden",
           "correct": true
@@ -4849,6 +5057,14 @@
         {
           "text": "in eine Richtung, in der niemand gefährdet wird",
           "correct": true
+        },
+        {
+          "text": "nach unten",
+          "correct": false
+        },
+        {
+          "text": "nach oben",
+          "correct": false
         }
       ]
     },
@@ -4857,8 +5073,20 @@
       "number": 282,
       "answers": [
         {
+          "text": "die Mehrladeeinrichtung darf nicht geladen werden",
+          "correct": false
+        },
+        {
           "text": "mit einer Patrone",
           "correct": true
+        },
+        {
+          "text": "mit zwei Patronen",
+          "correct": false
+        },
+        {
+          "text": "es gibt keine Vorgabe",
+          "correct": false
         }
       ]
     },
@@ -5251,6 +5479,14 @@
         {
           "text": "eine Langwaffe mit gezogenem Lauf",
           "correct": true
+        },
+        {
+          "text": "eine Langwaffe mit mehreren glatten Läufen",
+          "correct": false
+        },
+        {
+          "text": "eine Langwaffe mit mehreren gezogenen und glatten Läufen",
+          "correct": false
         }
       ]
     },
@@ -5261,6 +5497,14 @@
         {
           "text": "teilgesichert, der Verschluss lässt sich aber öffnen",
           "correct": true
+        },
+        {
+          "text": "gesichert, der Verschluss lässt sich nicht öffnen",
+          "correct": false
+        },
+        {
+          "text": "entsichert",
+          "correct": false
         }
       ]
     },
@@ -5268,6 +5512,22 @@
       "question": "Was sichert die Flügelsicherung bei der Repetierbüchse System Mauser 98?",
       "number": 306,
       "answers": [
+        {
+          "text": "Den Abzug",
+          "correct": false
+        },
+        {
+          "text": "Den Abzugsstollen",
+          "correct": false
+        },
+        {
+          "text": "Die Stange",
+          "correct": false
+        },
+        {
+          "text": "Den Stecher",
+          "correct": false
+        },
         {
           "text": "Die Schlagbolzenmutter und damit den Schlagbolzen",
           "correct": true
@@ -5281,6 +5541,22 @@
         {
           "text": "Beim Anheben des Kammerstengels",
           "correct": true
+        },
+        {
+          "text": "Beim Schließen des Schlosses",
+          "correct": false
+        },
+        {
+          "text": "Beim Entsichern der Waffe",
+          "correct": false
+        },
+        {
+          "text": "Beim Einstechen der Waffe",
+          "correct": false
+        },
+        {
+          "text": "Beim Vorschieben des Kammerstengels einer gesicherten Waffe",
+          "correct": false
         }
       ]
     },
@@ -5291,6 +5567,14 @@
         {
           "text": "Schussgenauigkeit",
           "correct": true
+        },
+        {
+          "text": "Geschoßzerlegung",
+          "correct": false
+        },
+        {
+          "text": "Mündungsgeschwindigkeit",
+          "correct": false
         }
       ]
     },
@@ -5299,8 +5583,16 @@
       "number": 309,
       "answers": [
         {
+          "text": "das freie Schussfeld zwischen Laufmündung und Ziel",
+          "correct": false
+        },
+        {
           "text": "Visier und Korn",
           "correct": true
+        },
+        {
+          "text": "Zielfernrohre mit besonderem Sehfeld",
+          "correct": false
         }
       ]
     },
@@ -5308,6 +5600,14 @@
       "question": "Einen Hülsenausstoßer gibt es nur",
       "number": 310,
       "answers": [
+        {
+          "text": "beim Repetierer",
+          "correct": false
+        },
+        {
+          "text": "bei der Selbstladebüchse",
+          "correct": false
+        },
         {
           "text": "beim Revolver",
           "correct": true
@@ -5321,6 +5621,14 @@
         {
           "text": "eine kurze, meist ganz geschäftete Büchse",
           "correct": true
+        },
+        {
+          "text": "eine einläufige Flinte, die meist kurz geschäftet ist",
+          "correct": false
+        },
+        {
+          "text": "ein Schonzeitgewehr",
+          "correct": false
         }
       ]
     },
@@ -5328,6 +5636,14 @@
       "question": "Eine Waffe hat einen Schrotlauf, einen darunter liegenden großkalibrigen Kugellauf und einen seitlich gelagerten kleinkalibrigen Kugellauf. Wie heißt diese Waffe?",
       "number": 312,
       "answers": [
+        {
+          "text": "Büchsflintendrilling",
+          "correct": false
+        },
+        {
+          "text": "Doppelbüchsdrilling",
+          "correct": false
+        },
         {
           "text": "Bockdrilling",
           "correct": true
@@ -5341,6 +5657,10 @@
         {
           "text": "Drehung des Geschosses zur Stabilisierung der Flugbahn",
           "correct": true
+        },
+        {
+          "text": "Vergrößerung des Schusskanals im Wildkörper",
+          "correct": false
         },
         {
           "text": "Verhinderung des Überschlagens des Geschosses nach Verlassen des Laufes",
@@ -7395,8 +7715,24 @@
       "number": 429,
       "answers": [
         {
+          "text": "Aufnehmen, Magazin entfernen, sichern.",
+          "correct": false
+        },
+        {
+          "text": "Aufnehmen, sichern, Magazin entfernen.",
+          "correct": false
+        },
+        {
+          "text": "Aufnehmen, Schlitten zurückziehen, sichern, Magazin entfernen.",
+          "correct": false
+        },
+        {
           "text": "Aufnehmen, sichern, Magazin entfernen, Schlitten zurückziehen, um festzustellen, ob eine Patrone im Patronenlager ist.",
           "correct": true
+        },
+        {
+          "text": "Aufnehmen, Magazin entfernen, Schlitten zurückziehen, sichern.",
+          "correct": false
         }
       ]
     },
@@ -7404,6 +7740,14 @@
       "question": "Bei welcher der nachgenannten Waffen befindet sich das Patronenlager nicht im Lauf?",
       "number": 430,
       "answers": [
+        {
+          "text": "Selbstladebüchse",
+          "correct": false
+        },
+        {
+          "text": "Pistole",
+          "correct": false
+        },
         {
           "text": "Revolver",
           "correct": true
@@ -7415,8 +7759,16 @@
       "number": 431,
       "answers": [
         {
+          "text": "Magazinfeder",
+          "correct": false
+        },
+        {
           "text": "Verschluss",
           "correct": true
+        },
+        {
+          "text": "Auszieher",
+          "correct": false
         }
       ]
     },
@@ -7427,6 +7779,10 @@
         {
           "text": "Es ist möglich, sofort zu schießen",
           "correct": true
+        },
+        {
+          "text": "Es muss erst der Hahn aufgezogen werden",
+          "correct": false
         }
       ]
     },
@@ -7435,8 +7791,16 @@
       "number": 433,
       "answers": [
         {
+          "text": "Die Waffe ist gespannt",
+          "correct": false
+        },
+        {
           "text": "Es befindet sich eine Patrone im Lauf",
           "correct": true
+        },
+        {
+          "text": "Die Waffe ist unterladen",
+          "correct": false
         }
       ]
     },
@@ -7445,8 +7809,16 @@
       "number": 434,
       "answers": [
         {
+          "text": "Im Magazin",
+          "correct": false
+        },
+        {
           "text": "Im Lauf",
           "correct": true
+        },
+        {
+          "text": "Im Griffstück",
+          "correct": false
         }
       ]
     },
@@ -7457,6 +7829,10 @@
         {
           "text": "Selbstlade-Pistole",
           "correct": true
+        },
+        {
+          "text": "Revolver",
+          "correct": false
         }
       ]
     },
@@ -7529,6 +7905,14 @@
         {
           "text": "Lehre von der Bewegung geworfener oder geschossener Körper",
           "correct": true
+        },
+        {
+          "text": "Lehre von den Handfeuerwaffen",
+          "correct": false
+        },
+        {
+          "text": "Beschussverfahren von Kurzwaffen",
+          "correct": false
         }
       ]
     },
@@ -7537,8 +7921,16 @@
       "number": 440,
       "answers": [
         {
+          "text": "Maßeinheit für den Gasdruck im Patronenlager",
+          "correct": false
+        },
+        {
           "text": "Maßeinheit für die Geschoßenergie",
           "correct": true
+        },
+        {
+          "text": "Bezugsgröße für die Geschoßgeschwindigkeit",
+          "correct": false
         }
       ]
     },
@@ -7546,6 +7938,14 @@
       "question": "Die Auftreffenergie eines Büchsengeschosses wird beeinflusst durch:",
       "number": 441,
       "answers": [
+        {
+          "text": "sein Kaliber",
+          "correct": false
+        },
+        {
+          "text": "seine Kopfform",
+          "correct": false
+        },
         {
           "text": "seine Masse (Gewicht)",
           "correct": true
@@ -7561,8 +7961,20 @@
       "number": 442,
       "answers": [
         {
+          "text": "Empfohlene Einschussentfernung 100 m",
+          "correct": false
+        },
+        {
+          "text": "Maximale Schussentfernung 100 m",
+          "correct": false
+        },
+        {
           "text": "die Energie des Geschosses in Joule bei 100 m Schussentfernung",
           "correct": true
+        },
+        {
+          "text": "die Energie des Geschosses beträgt 100 Joule",
+          "correct": false
         }
       ]
     },
@@ -7570,6 +7982,14 @@
       "question": "Was bedeutet in Schusstabellen die Bezeichnung \"Günstigste Einschussentfernung\" (= GEE)?",
       "number": 443,
       "answers": [
+        {
+          "text": "Entfernung, bei der die Auftreffenergie des Geschosses am höchsten ist",
+          "correct": false
+        },
+        {
+          "text": "Einschussentfernung für preiswerte Standard-Zielfernrohre",
+          "correct": false
+        },
         {
           "text": "Entfernung, bei der das Geschoss zum zweiten Mal die Visierlinie kreuzt und seine Erhebung am höchsten Punkt über der Visierlinie genau 4 cm beträgt.",
           "correct": true
@@ -7580,6 +8000,10 @@
       "question": "Wie kann sich die Treffpunktlage bei einem Drilling mit verlöteten Läufen (unten liegender Kugellauf) verändern, wenn rasch hintereinander mehrere Kugelschüsse abgegeben werden? Es kann sich ergeben:",
       "number": 444,
       "answers": [
+        {
+          "text": "Tiefschuss",
+          "correct": false
+        },
         {
           "text": "Hochschuss",
           "correct": true
@@ -7593,6 +8017,10 @@
         {
           "text": "Ja",
           "correct": true
+        },
+        {
+          "text": "Nein",
+          "correct": false
         }
       ]
     },
@@ -7601,8 +8029,16 @@
       "number": 446,
       "answers": [
         {
+          "text": "Geschossenergie nach 100 m Schussentfernung",
+          "correct": false
+        },
+        {
           "text": "Geschossgeschwindigkeit nach 100 m Schussentfernung",
           "correct": true
+        },
+        {
+          "text": "Abstand der Visierlinie zur Treffpunktlage des Geschosses nach 100 m Schussentfernung",
+          "correct": false
         }
       ]
     },
@@ -7613,6 +8049,10 @@
         {
           "text": "Eine gedachte Linie in Längsrichtung durch die Mitte des Laufes (Mittellinie der Laufbohrung)",
           "correct": true
+        },
+        {
+          "text": "Die Visierlinie Auge-Zielfernrohr in gerader Verlängerung",
+          "correct": false
         }
       ]
     },
@@ -8915,8 +9355,16 @@
           "correct": true
         },
         {
+          "text": "Durchmesser des Okulars (dem Auge zugewandte Linse)",
+          "correct": false
+        },
+        {
           "text": "Durchmesser des Objektivs (dem Objekt zugewandte Linse)",
           "correct": true
+        },
+        {
+          "text": "Länge des Zielfernrohrs",
+          "correct": false
         }
       ]
     },
@@ -8927,6 +9375,14 @@
         {
           "text": "2 1/2 x 20",
           "correct": true
+        },
+        {
+          "text": "4 x 32",
+          "correct": false
+        },
+        {
+          "text": "8 x 56",
+          "correct": false
         }
       ]
     },
@@ -8937,6 +9393,10 @@
         {
           "text": "1 1/2-fach",
           "correct": true
+        },
+        {
+          "text": "6-fach",
+          "correct": false
         }
       ]
     },
@@ -8944,6 +9404,14 @@
       "question": "Was wird durch die Vergütung der Optik eines Zielfernrohrs vorrangig erreicht?",
       "number": 526,
       "answers": [
+        {
+          "text": "Eine längere Haltbarkeit der Linsen",
+          "correct": false
+        },
+        {
+          "text": "Eine Verminderung des Feuchtigkeitsbeschlags an den Glasoberflächen",
+          "correct": false
+        },
         {
           "text": "Eine Reflexminderung an den Glasoberflächen",
           "correct": true
@@ -8955,8 +9423,16 @@
       "number": 527,
       "answers": [
         {
+          "text": "Etwa 50 m",
+          "correct": false
+        },
+        {
           "text": "Etwa 100 m",
           "correct": true
+        },
+        {
+          "text": "Etwa 200 m",
+          "correct": false
         }
       ]
     },
@@ -8964,6 +9440,14 @@
       "question": "Welches unbeleuchtete Zielfernrohrabsehen ist bei schlechten Lichtverhältnissen (z. B. tiefe Dämmerung) für einen sicheren Schuss am wenigsten geeignet?",
       "number": 528,
       "answers": [
+        {
+          "text": "Absehen 1",
+          "correct": false
+        },
+        {
+          "text": "Absehen 4",
+          "correct": false
+        },
         {
           "text": "Absehen 6",
           "correct": true
@@ -8977,6 +9461,14 @@
         {
           "text": "Es wird kleiner",
           "correct": true
+        },
+        {
+          "text": "Es wird größer",
+          "correct": false
+        },
+        {
+          "text": "Es bleibt gleich",
+          "correct": false
         }
       ]
     },
@@ -8987,6 +9479,14 @@
         {
           "text": "1 1/2-fache Vergrößerung",
           "correct": true
+        },
+        {
+          "text": "4-fache Vergrößerung",
+          "correct": false
+        },
+        {
+          "text": "6-fache Vergrößerung",
+          "correct": false
         }
       ]
     },
@@ -8994,6 +9494,14 @@
       "question": "Was bedeutet der Begriff \"Absehen\"? Das Absehen ist",
       "number": 531,
       "answers": [
+        {
+          "text": "der Punkt, auf den der Zielstachel des Zielfernrohrs im Augenblick der Schussabgabe zeigt",
+          "correct": false
+        },
+        {
+          "text": "die falsche Entfernung zwischen Auge und Zielfernrohr-Okular, die zur Einengung des Sehfeldes führt",
+          "correct": false
+        },
         {
           "text": "die Zieleinrichtung im Zielfernrohr, wie z. B. das Fadenkreuz",
           "correct": true
@@ -9007,6 +9515,14 @@
         {
           "text": "Geringe Vergrößerung (z. B. 1,5 bis 2,5fach)",
           "correct": true
+        },
+        {
+          "text": "Starke Vergrößerung (z. B. mehr als 6fach)",
+          "correct": false
+        },
+        {
+          "text": "Geringes Sehfeld",
+          "correct": false
         },
         {
           "text": "Großes Sehfeld",

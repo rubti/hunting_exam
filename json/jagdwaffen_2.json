@@ -7349,6 +7349,694 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "Ein Jäger wird aufgefordert, eine auf dem Tisch liegende Pistole (Walther PP) aufzunehmen. Das Magazin ist eingeführt; nicht bekannt ist, ob die Pistole geladen, ge- oder entsichert oder unterladen ist.",
+      "number": 429,
+      "answers": [
+        {
+          "text": "Aufnehmen, Magazin entfernen, sichern.",
+          "correct": false
+        },
+        {
+          "text": "Aufnehmen, sichern, Magazin entfernen.",
+          "correct": false
+        },
+        {
+          "text": "Aufnehmen, Schlitten zurückziehen, sichern, Magazin entfernen.",
+          "correct": false
+        },
+        {
+          "text": "Aufnehmen, sichern, Magazin entfernen, Schlitten zurückziehen, um festzustellen, ob eine Patrone im Patronenlager ist.",
+          "correct": true
+        },
+        {
+          "text": "Aufnehmen, Magazin entfernen, Schlitten zurückziehen, sichern.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher der nachgenannten Waffen befindet sich das Patronenlager nicht im Lauf?",
+      "number": 430,
+      "answers": [
+        {
+          "text": "Selbstladebüchse",
+          "correct": false
+        },
+        {
+          "text": "Pistole",
+          "correct": false
+        },
+        {
+          "text": "Revolver",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Durch welchen Konstruktionsteil einer Selbstladepistole wird die Patrone in den Lauf geschoben?",
+      "number": 431,
+      "answers": [
+        {
+          "text": "Magazinfeder",
+          "correct": false
+        },
+        {
+          "text": "Verschluss",
+          "correct": true
+        },
+        {
+          "text": "Auszieher",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ist es möglich, mit einer fertig geladenen und entsicherten Pistole Walther PP notfalls sofort zu schießen oder muss zuerst der Hahn aufgezogen werden?",
+      "number": 432,
+      "answers": [
+        {
+          "text": "Es ist möglich, sofort zu schießen",
+          "correct": true
+        },
+        {
+          "text": "Es muss erst der Hahn aufgezogen werden",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei einer Selbstladepistole Walther PPK ragt der Signalstift heraus. Welche der nachgenannten Aussagen ist richtig?",
+      "number": 433,
+      "answers": [
+        {
+          "text": "Die Waffe ist gespannt",
+          "correct": false
+        },
+        {
+          "text": "Es befindet sich eine Patrone im Lauf",
+          "correct": true
+        },
+        {
+          "text": "Die Waffe ist unterladen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo befindet sich bei einer Pistole das Patronenlager?",
+      "number": 434,
+      "answers": [
+        {
+          "text": "Im Magazin",
+          "correct": false
+        },
+        {
+          "text": "Im Lauf",
+          "correct": true
+        },
+        {
+          "text": "Im Griffstück",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Für welche Art von Kurzwaffen sind Patronen mit einer Rille am Hülsenende i. d. R. bestimmt?",
+      "number": 435,
+      "answers": [
+        {
+          "text": "Selbstlade-Pistole",
+          "correct": true
+        },
+        {
+          "text": "Revolver",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was sind blanke Waffen?",
+      "number": 436,
+      "answers": [
+        {
+          "text": "Nicht brünierte Allwetterwaffen aus rostfreiem Stahl",
+          "correct": false
+        },
+        {
+          "text": "Büchsen ohne Visier, die nur mit Zielfernrohr ausgerüstet sind",
+          "correct": false
+        },
+        {
+          "text": "Stich- und Schneidewaffen, die zum Abfangen von Schalenwild benutzt werden",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Was ist eine „kalte Waffe“?",
+      "number": 437,
+      "answers": [
+        {
+          "text": "eine nach Lauferwärmung durch den Schuss wieder abgekühlte Langwaffe",
+          "correct": false
+        },
+        {
+          "text": "eine Schusswaffe nach längerer Frosteinwirkung?",
+          "correct": false
+        },
+        {
+          "text": "eine aus Stahl gefertigte, scharf geschliffene Hieb- und Stichwaffe",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ein Messer, dessen Klinge seitlich hervorschnellt und hierdurch festgestellt werden kann,",
+      "number": 438,
+      "answers": [
+        {
+          "text": "ist ein Fallmesser und deswegen grundsätzlich erlaubt;",
+          "correct": false
+        },
+        {
+          "text": "ist immer ein verbotener Gegenstand;",
+          "correct": false
+        },
+        {
+          "text": "ist dann ein verbotener Gegenstand, wenn die Klinge nicht zweiseitig geschliffen ist;",
+          "correct": false
+        },
+        {
+          "text": "ist dann ein verbotener Gegenstand, wenn die Länge der Klinge 8,5 cm übersteigt;",
+          "correct": true
+        },
+        {
+          "text": "ist nur dann ein verbotener Gegenstand, wenn die Länge der Klinge 15 cm übersteigt.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was verstehen Sie unter dem Begriff „Ballistik“?",
+      "number": 439,
+      "answers": [
+        {
+          "text": "Lehre von der Bewegung geworfener oder geschossener Körper",
+          "correct": true
+        },
+        {
+          "text": "Lehre von den Handfeuerwaffen",
+          "correct": false
+        },
+        {
+          "text": "Beschussverfahren von Kurzwaffen",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was bedeutet bei ballistischen Angaben über Büchsenpatronen in den Schusstafeln der Ausdruck „Joule“?",
+      "number": 440,
+      "answers": [
+        {
+          "text": "Maßeinheit für den Gasdruck im Patronenlager",
+          "correct": false
+        },
+        {
+          "text": "Maßeinheit für die Geschoßenergie",
+          "correct": true
+        },
+        {
+          "text": "Bezugsgröße für die Geschoßgeschwindigkeit",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Die Auftreffenergie eines Büchsengeschosses wird beeinflusst durch:",
+      "number": 441,
+      "answers": [
+        {
+          "text": "sein Kaliber",
+          "correct": false
+        },
+        {
+          "text": "seine Kopfform",
+          "correct": false
+        },
+        {
+          "text": "seine Masse (Gewicht)",
+          "correct": true
+        },
+        {
+          "text": "seine Geschwindigkeit",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In einer Schusstabelle finden Sie die Angabe „E 100“. Was ist darunter zu verstehen?",
+      "number": 442,
+      "answers": [
+        {
+          "text": "Empfohlene Einschussentfernung 100 m",
+          "correct": false
+        },
+        {
+          "text": "Maximale Schussentfernung 100 m",
+          "correct": false
+        },
+        {
+          "text": "die Energie des Geschosses in Joule bei 100 m Schussentfernung",
+          "correct": true
+        },
+        {
+          "text": "die Energie des Geschosses beträgt 100 Joule",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was bedeutet in Schusstabellen die Bezeichnung \"Günstigste Einschussentfernung\" (= GEE)?",
+      "number": 443,
+      "answers": [
+        {
+          "text": "Entfernung, bei der die Auftreffenergie des Geschosses am höchsten ist",
+          "correct": false
+        },
+        {
+          "text": "Einschussentfernung für preiswerte Standard-Zielfernrohre",
+          "correct": false
+        },
+        {
+          "text": "Entfernung, bei der das Geschoss zum zweiten Mal die Visierlinie kreuzt und seine Erhebung am höchsten Punkt über der Visierlinie genau 4 cm beträgt.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie kann sich die Treffpunktlage bei einem Drilling mit verlöteten Läufen (unten liegender Kugellauf) verändern, wenn rasch hintereinander mehrere Kugelschüsse abgegeben werden? Es kann sich ergeben:",
+      "number": 444,
+      "answers": [
+        {
+          "text": "Tiefschuss",
+          "correct": false
+        },
+        {
+          "text": "Hochschuss",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ist eine Veränderung der Treffpunktlage einer Büchse zu befürchten, wenn aus dem nicht entölten Lauf ein Schuss abgegeben wird?",
+      "number": 445,
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "text": "Nein",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was bedeutet die Bezeichnung V100 in einer Schusstafel?",
+      "number": 446,
+      "answers": [
+        {
+          "text": "Geschossenergie nach 100 m Schussentfernung",
+          "correct": false
+        },
+        {
+          "text": "Geschossgeschwindigkeit nach 100 m Schussentfernung",
+          "correct": true
+        },
+        {
+          "text": "Abstand der Visierlinie zur Treffpunktlage des Geschosses nach 100 m Schussentfernung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was ist die Seelenachse?",
+      "number": 447,
+      "answers": [
+        {
+          "text": "Eine gedachte Linie in Längsrichtung durch die Mitte des Laufes (Mittellinie der Laufbohrung)",
+          "correct": true
+        },
+        {
+          "text": "Die Visierlinie Auge-Zielfernrohr in gerader Verlängerung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo entsteht beim Schuss der höchste Gasdruck?",
+      "number": 448,
+      "answers": [
+        {
+          "text": "an der Mündung",
+          "correct": false
+        },
+        {
+          "text": "30 cm vor dem Patronenlager",
+          "correct": false
+        },
+        {
+          "text": "im Patronenlager",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "An welcher Stelle des Gewehrs entsteht der höchste Gasdruck?",
+      "number": 449,
+      "answers": [
+        {
+          "text": "Unmittelbar vor der Laufmündung",
+          "correct": false
+        },
+        {
+          "text": "Ungefähr in der Mitte des Laufes",
+          "correct": false
+        },
+        {
+          "text": "Im Bereich des Patronenlagers",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie groß ist die Mündungsgeschwindigkeit (V2,5) einer Schrotgarbe aus einer Jagdflinte?",
+      "number": 450,
+      "answers": [
+        {
+          "text": "etwa 100 . 200 m/Sekunde",
+          "correct": false
+        },
+        {
+          "text": "etwa 300 . 400 m/Sekunde",
+          "correct": true
+        },
+        {
+          "text": "etwa 500 . 600 m/Sekunde",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was versteht man unter Innenballistik des Büchsenschusses?",
+      "number": 451,
+      "answers": [
+        {
+          "text": "Die Vorgänge im Lauf von der Zündung bis zum Austritt des Geschosses",
+          "correct": true
+        },
+        {
+          "text": "Die Vorgänge während des Geschossfluges ab der Laufmündung bis zum Erreichen des Zieles",
+          "correct": false
+        },
+        {
+          "text": "Die Wirkung des Geschosses im Wildkörper",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wo ist die Geschossgeschwindigkeit am höchsten?",
+      "number": 452,
+      "answers": [
+        {
+          "text": "Bei 50 m Entfernung von der Laufmündung",
+          "correct": false
+        },
+        {
+          "text": "Bei 100 m Entfernung von der Laufmündung",
+          "correct": false
+        },
+        {
+          "text": "Beim Verlassen des Laufes",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Schneidet die Flugbahn eines Büchsengeschosses die Seelenachse?",
+      "number": 453,
+      "answers": [
+        {
+          "text": "Ja, einmal",
+          "correct": false
+        },
+        {
+          "text": "Ja, zweimal",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie weit kann ein Büchsengeschoss im Kaliber 7 x 57 das Hintergelände höchstens gefährden?",
+      "number": 454,
+      "answers": [
+        {
+          "text": "Etwa 10 000 m",
+          "correct": false
+        },
+        {
+          "text": "Etwa 5 000 m",
+          "correct": true
+        },
+        {
+          "text": "Etwa 2 000 m",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wie weit kann ein modernes Hochleistungs-Büchsengeschoss fliegen?",
+      "number": 455,
+      "answers": [
+        {
+          "text": "min. 3.000 m",
+          "correct": false
+        },
+        {
+          "text": "min. 5.000 m",
+          "correct": true
+        },
+        {
+          "text": "min. 8.000 m",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welchem der nachgenannten Punkte der Flugbahn eines Büchsengeschosses liegt die \"Günstigste Einschussentfernung\" (= GEE)?",
+      "number": 456,
+      "answers": [
+        {
+          "text": "Beim Kreuzen des fallenden Geschosses mit der Visierlinie",
+          "correct": true
+        },
+        {
+          "text": "Beim Kreuzen des steigenden Geschosses mit der Visierlinie",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche der nachgenannten Angaben sind von maßgeblicher Bedeutung für die Leistung eines Zielfernrohrs bei schwachem Licht?",
+      "number": 523,
+      "answers": [
+        {
+          "text": "Vergrößerung",
+          "correct": true
+        },
+        {
+          "text": "Durchmesser des Okulars (dem Auge zugewandte Linse)",
+          "correct": false
+        },
+        {
+          "text": "Durchmesser des Objektivs (dem Objekt zugewandte Linse)",
+          "correct": true
+        },
+        {
+          "text": "Länge des Zielfernrohrs",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welches der nachgenannten Zielfernrohre hat das größte Sehfeld?",
+      "number": 524,
+      "answers": [
+        {
+          "text": "2 1/2 x 20",
+          "correct": true
+        },
+        {
+          "text": "4 x 32",
+          "correct": false
+        },
+        {
+          "text": "8 x 56",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Bei welcher Vergrößerung eines variablen Zielfernrohrs ist das Sehfeld größer?",
+      "number": 525,
+      "answers": [
+        {
+          "text": "1 1/2-fach",
+          "correct": true
+        },
+        {
+          "text": "6-fach",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was wird durch die Vergütung der Optik eines Zielfernrohrs vorrangig erreicht?",
+      "number": 526,
+      "answers": [
+        {
+          "text": "Eine längere Haltbarkeit der Linsen",
+          "correct": false
+        },
+        {
+          "text": "Eine Verminderung des Feuchtigkeitsbeschlags an den Glasoberflächen",
+          "correct": false
+        },
+        {
+          "text": "Eine Reflexminderung an den Glasoberflächen",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie weit ist ein breitstehender Rehbock etwa entfernt, wenn er beim Anvisieren durch ein Zielfernrohr mit 4facher Vergrößerung mit Absehen 1 den Zwischenraum zwischen den Querbalken gerade ausfüllt?",
+      "number": 527,
+      "answers": [
+        {
+          "text": "Etwa 50 m",
+          "correct": false
+        },
+        {
+          "text": "Etwa 100 m",
+          "correct": true
+        },
+        {
+          "text": "Etwa 200 m",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welches unbeleuchtete Zielfernrohrabsehen ist bei schlechten Lichtverhältnissen (z. B. tiefe Dämmerung) für einen sicheren Schuss am wenigsten geeignet?",
+      "number": 528,
+      "answers": [
+        {
+          "text": "Absehen 1",
+          "correct": false
+        },
+        {
+          "text": "Absehen 4",
+          "correct": false
+        },
+        {
+          "text": "Absehen 6",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wie ändert sich das Sehfeld, wenn bei einem variablen Zielfernrohr die Vergrößerung von 1 1/2-fach auf 6-fach verstellt wird?",
+      "number": 529,
+      "answers": [
+        {
+          "text": "Es wird kleiner",
+          "correct": true
+        },
+        {
+          "text": "Es wird größer",
+          "correct": false
+        },
+        {
+          "text": "Es bleibt gleich",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Welche Einstellung bei einem variablen Zielfernrohr gilt für den Schuss auf flüchtiges Schalenwild als optimal?",
+      "number": 530,
+      "answers": [
+        {
+          "text": "1 1/2-fache Vergrößerung",
+          "correct": true
+        },
+        {
+          "text": "4-fache Vergrößerung",
+          "correct": false
+        },
+        {
+          "text": "6-fache Vergrößerung",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Was bedeutet der Begriff \"Absehen\"? Das Absehen ist",
+      "number": 531,
+      "answers": [
+        {
+          "text": "der Punkt, auf den der Zielstachel des Zielfernrohrs im Augenblick der Schussabgabe zeigt",
+          "correct": false
+        },
+        {
+          "text": "die falsche Entfernung zwischen Auge und Zielfernrohr-Okular, die zur Einengung des Sehfeldes führt",
+          "correct": false
+        },
+        {
+          "text": "die Zieleinrichtung im Zielfernrohr, wie z. B. das Fadenkreuz",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Welche Merkmale sollte ein Zielfernrohr aufweisen, wenn es vor allem bei Drückjagden verwendet werden soll?",
+      "number": 532,
+      "answers": [
+        {
+          "text": "Geringe Vergrößerung (z. B. 1,5 bis 2,5fach)",
+          "correct": true
+        },
+        {
+          "text": "Starke Vergrößerung (z. B. mehr als 6fach)",
+          "correct": false
+        },
+        {
+          "text": "Geringes Sehfeld",
+          "correct": false
+        },
+        {
+          "text": "Großes Sehfeld",
+          "correct": true
+        }
+      ]
     }
   ]
 }

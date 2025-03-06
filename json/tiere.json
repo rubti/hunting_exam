@@ -4558,7 +4558,7 @@
         },
         {
           "text": "Es lebt überwiegend in waldarmer Landschaft",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Es kommt häufig auf Dachboden vor",
@@ -4860,7 +4860,7 @@
         },
         {
           "text": "Der Sumpfbiber ist kein Nagetier",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Der Schwanz des Sumpfbibers ist rund und beschuppt",
