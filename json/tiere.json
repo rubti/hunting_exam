@@ -6305,6 +6305,14 @@
         {
           "text": "Wasser- und Unterwasserpflanzen",
           "correct": true
+        },
+        {
+          "text": "Pflanzen und Fischlaich",
+          "correct": false
+        },
+        {
+          "text": "Kleinfische und Amphibienlaich",
+          "correct": false
         }
       ]
     },
@@ -6317,8 +6325,24 @@
           "correct": true
         },
         {
+          "text": "Zu den Schwimmenten zählen Stockente, Tafelente, Krickente, Pfeifente",
+          "correct": false
+        },
+        {
+          "text": "Zu den Schwimmenten zählen Reiherente, Schnatterente, Knäkente, Löffelente",
+          "correct": false
+        },
+        {
+          "text": "Zu den Schwimmenten zählen Krickente, Kolbenente, Schnatterente, Pfeifente",
+          "correct": false
+        },
+        {
           "text": "Zu den Schwimmenten zählen Krickente, Spießente, Schnatterente, Pfeifente",
           "correct": true
+        },
+        {
+          "text": "Zu den Schwimmenten zählen Stockente, Knäkente, Krickente, Trauerente",
+          "correct": false
         }
       ]
     },
@@ -6327,12 +6351,28 @@
       "number": 318,
       "answers": [
         {
+          "text": "Zu den Tauchenten zählen Schnatterente, Eisente, Bergente, Moorente",
+          "correct": false
+        },
+        {
+          "text": "Zu den Tauchenten zählen Spießente, Reiherente, Eisente, Bergente",
+          "correct": false
+        },
+        {
           "text": "Zu den Tauchenten zählen Reiherente, Eisente, Bergente, Moorente",
           "correct": true
         },
         {
           "text": "Zu den Tauchenten zählen Tafelente, Eiderente, Kolbenente, Samtente",
           "correct": true
+        },
+        {
+          "text": "Zu den Tauchenten zählen Tafelente, Eiderente, Kolbenente, Krickente",
+          "correct": false
+        },
+        {
+          "text": "Zu den Tauchenten zählen Eiderente, Kolbenente, Löffelente, Pfeifente",
+          "correct": false
         }
       ]
     },
@@ -6345,8 +6385,16 @@
           "correct": true
         },
         {
+          "text": "Wenn die Tauchente auf dem Wasser schwimmt, sind ihre Schwanzfedern (Bürzel) immer über dem Wasser.",
+          "correct": false
+        },
+        {
           "text": "Die Schwimmente kann recht steil, ohne Anlauf, direkt vom Wasser in die Luft steigen.",
           "correct": true
+        },
+        {
+          "text": "Die Tauchente kann recht steil, ohne Anlauf, direkt vom Wasser in die Luft steigen.",
+          "correct": false
         }
       ]
     },
@@ -6355,12 +6403,28 @@
       "number": 320,
       "answers": [
         {
+          "text": "Moorente",
+          "correct": false
+        },
+        {
+          "text": "Eisente",
+          "correct": false
+        },
+        {
           "text": "Schnatterente",
           "correct": true
         },
         {
+          "text": "Eiderente",
+          "correct": false
+        },
+        {
           "text": "Pfeifente",
           "correct": true
+        },
+        {
+          "text": "Kolbenente",
+          "correct": false
         }
       ]
     },
@@ -6369,8 +6433,16 @@
       "number": 321,
       "answers": [
         {
+          "text": "April/Mai",
+          "correct": false
+        },
+        {
           "text": "Juni/Juli",
           "correct": true
+        },
+        {
+          "text": "September/Oktober",
+          "correct": false
         }
       ]
     },
@@ -6380,7 +6452,15 @@
       "answers": [
         {
           "text": "Der Erpel beteiligt sich am Brutgeschäft",
+          "correct": false
+        },
+        {
+          "text": "Die Küken sind sofort nach dem Schlüpfen schwimmfähig",
           "correct": true
+        },
+        {
+          "text": "Die Ente beginnt sofort nach Ablage des ersten Eies dieses zu bebrüten",
+          "correct": false
         }
       ]
     },
@@ -6389,8 +6469,16 @@
       "number": 323,
       "answers": [
         {
+          "text": "Etwa mit 1 Monat",
+          "correct": false
+        },
+        {
           "text": "Etwa mit 2 Monaten",
           "correct": true
+        },
+        {
+          "text": "Etwa mit 3 Monaten",
+          "correct": false
         }
       ]
     },
@@ -6401,6 +6489,14 @@
         {
           "text": "Im Herbst",
           "correct": true
+        },
+        {
+          "text": "Im Winter",
+          "correct": false
+        },
+        {
+          "text": "Im Frühjahr",
+          "correct": false
         }
       ]
     },
@@ -6865,6 +6961,14 @@
         {
           "text": "ausgespieene unverdauliche Reste der gekröpften Beute von Greifvögeln, Möwen, Rabenvögeln, Reihern und Störchen",
           "correct": true
+        },
+        {
+          "text": "die Kaninchenwolle in der Setzröhre",
+          "correct": false
+        },
+        {
+          "text": "die Unterwolle im Balg des Haarraubwildes",
+          "correct": false
         }
       ]
     },
@@ -6875,6 +6979,14 @@
         {
           "text": "Sehend und beflaumt",
           "correct": true
+        },
+        {
+          "text": "Sehend und nackt",
+          "correct": false
+        },
+        {
+          "text": "Blind und nackt",
+          "correct": false
         }
       ]
     },
@@ -6882,6 +6994,14 @@
       "question": "Wie unterscheidet sich der Oberschnabel eines Baumfalken wesentlich von dem eines Sperbers?",
       "number": 350,
       "answers": [
+        {
+          "text": "Er ist stärker gekrümmt",
+          "correct": false
+        },
+        {
+          "text": "Er hat eine ins Rötliche gehende Färbung",
+          "correct": false
+        },
         {
           "text": "Er besitzt den sogenannten Falkenzahn",
           "correct": true
@@ -6897,8 +7017,16 @@
           "correct": true
         },
         {
+          "text": "Habicht",
+          "correct": false
+        },
+        {
           "text": "Turmfalke",
           "correct": true
+        },
+        {
+          "text": "Sperber",
+          "correct": false
         }
       ]
     },
@@ -6913,6 +7041,14 @@
         {
           "text": "Wanderfalke",
           "correct": true
+        },
+        {
+          "text": "Bussard",
+          "correct": false
+        },
+        {
+          "text": "Birkwild",
+          "correct": false
         }
       ]
     },
@@ -6921,8 +7057,20 @@
       "number": 353,
       "answers": [
         {
+          "text": "Rohrweihe",
+          "correct": false
+        },
+        {
           "text": "Schwarzer Milan",
           "correct": true
+        },
+        {
+          "text": "Steinadler",
+          "correct": false
+        },
+        {
+          "text": "Wanderfalke",
+          "correct": false
         }
       ]
     },
@@ -6935,6 +7083,18 @@
           "correct": true
         },
         {
+          "text": "Steinadler und Wiesenweihe gehören zu den Bißtötern",
+          "correct": false
+        },
+        {
+          "text": "Turmfalke und Wanderfalke sind Bodenbrüter",
+          "correct": false
+        },
+        {
+          "text": "Turmfalke und Baumfalke gehören zu den Grifftötern",
+          "correct": false
+        },
+        {
           "text": "Mäusebussard und Habicht gehören zu den Grifftötern",
           "correct": true
         }
@@ -6945,6 +7105,14 @@
       "number": 355,
       "answers": [
         {
+          "text": "Wanderfalke",
+          "correct": false
+        },
+        {
+          "text": "Baumfalke",
+          "correct": false
+        },
+        {
           "text": "Turmfalke",
           "correct": true
         }
@@ -6954,6 +7122,10 @@
       "question": "Welche der nachgenannten Falkenarten bewohnt von Elstern und Krähen erbaute Nester?",
       "number": 356,
       "answers": [
+        {
+          "text": "Wanderfalke",
+          "correct": false
+        },
         {
           "text": "Turmfalke",
           "correct": true
