@@ -2,10 +2,11 @@ from processor import HuntingExam, process_pdf
 import json
 from dotenv import load_dotenv
 
-PDF_FILE = "assets/jagdwaffen.pdf"
-FAILS_FILE = "json/jagdwaffen.json"
-CORRECT_FILE = "json/jagdwaffen_2.json"
-OUTPUT_FILE = "json/jagdwaffen_correct.json"
+SUBJECT = "tiere"
+PDF_FILE = f"assets/{SUBJECT}.pdf"
+FAILS_FILE = f"json/{SUBJECT}.json"
+CORRECT_FILE = f"json/{SUBJECT}_2.json"
+OUTPUT_FILE = f"json/{SUBJECT}_correct.json"
 
 
 def check_for_only_true_answers(data: HuntingExam):
@@ -31,10 +32,13 @@ def count_only_true_answers(data: HuntingExam):
     true_only = []
     for q in data.questions:
         all_true = True
+        all_false = True
         for a in q.answers:
             if not a.correct:
                 all_true = False
-        if all_true:
+            else:
+                all_false = False
+        if all_true or all_false:
             true_only.append(q.number)
     return true_only
 
@@ -51,16 +55,28 @@ def fix_json(failed_file, correct_file, output_file=None):
     return fails
 
 
-def extract_pages(pages_to_extract: list):
+def extract_pages(pdf_file, output_file, pages_to_extract: list):
     exam = HuntingExam(**{"questions": []})
     for p in pages_to_extract:
-        exam.questions.extend(process_pdf(PDF_FILE, p, model="gpt-4o-mini").questions)
-    with open(CORRECT_FILE, "x", encoding="utf-8") as file:
+        exam.questions.extend(process_pdf(pdf_file, p, model="gpt-4o-mini").questions)
+    with open(output_file, "x", encoding="utf-8") as file:
         json.dump(exam.model_dump(), file, indent=2, ensure_ascii=False)
     return exam
 
 
+def check_continuity(data: HuntingExam):
+    for i in range(len(data.questions)):
+        if data.questions[i].number != i + 1:
+            raise Exception(
+                f"Wrong number detected at {data.questions[i].number}. Actual number: {i + 1}"
+            )
+
+
 if __name__ == "__main__":
     # fix_json(FAILS_FILE, CORRECT_FILE, OUTPUT_FILE)
-    with open(OUTPUT_FILE, "r", encoding="utf-8") as file:
-        print(count_only_true_answers(HuntingExam(**json.load(file))))
+    # load_dotenv("./keys.env")
+    # extract_pages(PDF_FILE, CORRECT_FILE, [11, 21, 23, 35, 37, 49])
+    with open(FAILS_FILE, "r", encoding="utf-8") as file:
+        # print(FAILS_FILE)
+        # print(count_only_true_answers(HuntingExam(**json.load(file))))
+        check_continuity(HuntingExam(**json.load(file)))

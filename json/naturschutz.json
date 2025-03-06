@@ -3899,6 +3899,24 @@
       ]
     },
     {
+      "question": "Bei welcher der nachgenannten Baumarten zeigen die reifen Zapfen nur nach oben?",
+      "number": 200,
+      "answers": [
+        {
+          "text": "Weißtanne",
+          "correct": true
+        },
+        {
+          "text": "Kiefer",
+          "correct": false
+        },
+        {
+          "text": "Fichte",
+          "correct": false
+        }
+      ]
+    },
+    {
       "question": "Bei welchen der nachgenannten Holzarten ist der Samen flugfähig?",
       "number": 201,
       "answers": [

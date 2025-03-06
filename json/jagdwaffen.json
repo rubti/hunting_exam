@@ -4763,6 +4763,20 @@
       ]
     },
     {
+      "question": "Sind bei einer Treibjagd auf Hasen und Fasanen Selbstladeflinten mit mehr als 3 geladenen Patronen zulässig?",
+      "number": 264,
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
+        }
+      ]
+    },
+    {
       "question": "Darf ein Keiler mit einem Flintenlaufgeschoss erlegt werden?",
       "number": 265,
       "answers": [
