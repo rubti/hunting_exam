@@ -1895,7 +1895,24 @@
     {
       "question": "Ein Eigenjagdbesitzer stellt fest, dass der Wildackeraufwuchs unter der Schattenwirkung seiner durchgewachsenen Hecke kümmert. Er beabsichtigt deshalb, die ihm gehörende Hecke zurückzuschneiden. Ist diese Maßnahme naturschutzrechtlich erlaubt?",
       "number": 99,
-      "answers": []
+      "answers": [
+        {
+          "text": "In welchem Zeitraum ist es verboten, in der freien Natur Hecken und lebende Zäune zurückzuschneiden oder auf den Stock zu setzen?",
+          "correct": false
+        },
+        {
+          "text": "Ja, aber nur außerhalb der Vegetationszeit (Oktober bis Februar)",
+          "correct": true
+        },
+        {
+          "text": "Ja, ohne Einschränkung",
+          "correct": false
+        },
+        {
+          "text": "1. April bis 15. Juli",
+          "correct": false
+        }
+      ]
     },
     {
       "question": "In welchem Zeitraum ist es verboten, in der freien Natur Hecken und lebende Zäune zurückzuschneiden oder auf den Stock zu setzen?",
@@ -3547,10 +3564,10 @@
       "answers": [
         {
           "text": "In Naturwäldern ist die Jagd grundsätzlich verboten",
-          "correct": true
+          "correct": false
         },
         {
-          "text": "Abgesehen von notwendigen Maßnahmen des Forstschutzes und der Verkehrssicherung findet",
+          "text": "Abgesehen von notwendigen Maßnahmen des Forstschutzes und der Verkehrssicherung findet in Naturwäldern keine forstliche Bewirtschaftung und keine sonstige Holzentnahme statt",
           "correct": true
         },
         {
@@ -3756,8 +3773,24 @@
       "number": 195,
       "answers": [
         {
+          "text": "Buchen",
+          "correct": false
+        },
+        {
           "text": "Birken",
           "correct": true
+        },
+        {
+          "text": "Eschen",
+          "correct": false
+        },
+        {
+          "text": "Lärchen",
+          "correct": false
+        },
+        {
+          "text": "Stieleichen",
+          "correct": false
         }
       ]
     },
@@ -3768,6 +3801,14 @@
         {
           "text": "Douglasie",
           "correct": true
+        },
+        {
+          "text": "Schwarzkiefer",
+          "correct": false
+        },
+        {
+          "text": "Ulme",
+          "correct": false
         },
         {
           "text": "Roteiche",
@@ -3784,8 +3825,20 @@
           "correct": true
         },
         {
+          "text": "Douglasie",
+          "correct": false
+        },
+        {
           "text": "Lärche",
           "correct": true
+        },
+        {
+          "text": "Kiefer",
+          "correct": false
+        },
+        {
+          "text": "Tanne",
+          "correct": false
         }
       ]
     },
@@ -3794,12 +3847,24 @@
       "number": 198,
       "answers": [
         {
+          "text": "Fichte",
+          "correct": false
+        },
+        {
+          "text": "Tanne",
+          "correct": false
+        },
+        {
           "text": "Rotbuche",
           "correct": true
         },
         {
           "text": "Lärche",
           "correct": true
+        },
+        {
+          "text": "Kiefer",
+          "correct": false
         }
       ]
     },
@@ -3808,12 +3873,28 @@
       "number": 199,
       "answers": [
         {
+          "text": "Weißtanne",
+          "correct": false
+        },
+        {
           "text": "Sandbirke",
           "correct": true
         },
         {
+          "text": "Bergahorn",
+          "correct": false
+        },
+        {
+          "text": "Rotbuche",
+          "correct": false
+        },
+        {
           "text": "Kiefer",
           "correct": true
+        },
+        {
+          "text": "Fichte",
+          "correct": false
         }
       ]
     },
@@ -3822,8 +3903,20 @@
       "number": 201,
       "answers": [
         {
+          "text": "Buche",
+          "correct": false
+        },
+        {
+          "text": "Eiche",
+          "correct": false
+        },
+        {
           "text": "Birke",
           "correct": true
+        },
+        {
+          "text": "Kastanie",
+          "correct": false
         },
         {
           "text": "Kiefer",
@@ -3838,6 +3931,10 @@
         {
           "text": "Zählen der Astquirle",
           "correct": true
+        },
+        {
+          "text": "Messen des Stockumfangs",
+          "correct": false
         }
       ]
     },
@@ -5614,6 +5711,14 @@
         {
           "text": "wenn der Wildbestand höher ist, als die Lebensraumverhältnisse dies zulassen",
           "correct": true
+        },
+        {
+          "text": "wenn das Wild schwer und kräftig ist",
+          "correct": false
+        },
+        {
+          "text": "wenn der Abschussplan überschritten wird",
+          "correct": false
         }
       ]
     },
@@ -5622,8 +5727,16 @@
       "number": 295,
       "answers": [
         {
+          "text": "wenn im Verhältnis mehr junge als alte Tiere erlegt werden",
+          "correct": false
+        },
+        {
           "text": "wenn in einem angepassten Wildbestand die Nutzung zahlenmäßig höher ist als der Zuwachs",
           "correct": true
+        },
+        {
+          "text": "wenn infolge seuchenhafter Erkrankung die Population zurückgeht",
+          "correct": false
         }
       ]
     },
@@ -5634,6 +5747,14 @@
         {
           "text": "2 Stück auf 100 ha",
           "correct": true
+        },
+        {
+          "text": "6 Stück auf 100 ha",
+          "correct": false
+        },
+        {
+          "text": "10 Stück auf 100 ha",
+          "correct": false
         }
       ]
     },
@@ -5641,6 +5762,14 @@
       "question": "297. Wie hoch soll der angestrebte Abschuss eines Frischlingsjahrgangs sein?",
       "number": 297,
       "answers": [
+        {
+          "text": "ca. 25 %",
+          "correct": false
+        },
+        {
+          "text": "ca. 50 %",
+          "correct": false
+        },
         {
           "text": "ca. 80 %",
           "correct": true
@@ -5654,6 +5783,14 @@
         {
           "text": "in der Paarungszeit",
           "correct": true
+        },
+        {
+          "text": "vormittags und nachmittags",
+          "correct": false
+        },
+        {
+          "text": "in der Mittagszeit",
+          "correct": false
         }
       ]
     },
@@ -5664,6 +5801,14 @@
         {
           "text": "in der Morgen- und Abenddämmerung",
           "correct": true
+        },
+        {
+          "text": "am späten Vormittag",
+          "correct": false
+        },
+        {
+          "text": "um Mitternacht",
+          "correct": false
         }
       ]
     },
@@ -5672,8 +5817,20 @@
       "number": 300,
       "answers": [
         {
+          "text": "Rebhühner",
+          "correct": false
+        },
+        {
           "text": "Stockenten",
           "correct": true
+        },
+        {
+          "text": "Milane",
+          "correct": false
+        },
+        {
+          "text": "Graureiher",
+          "correct": false
         }
       ]
     },
@@ -5682,12 +5839,20 @@
       "number": 301,
       "answers": [
         {
+          "text": "Mähen in den frühen Morgenstunden",
+          "correct": false
+        },
+        {
           "text": "Wildrettergeräte an der Mähmaschine",
           "correct": true
         },
         {
           "text": "Absuchen der Wiese mit dem Hund",
           "correct": true
+        },
+        {
+          "text": "Mähen vom äußeren Wiesenrand nach Innen",
+          "correct": false
         }
       ]
     },
@@ -5695,6 +5860,14 @@
       "question": "302. Welche der nachgenannten Tierarten können den Besatz an Bodenbrütern verringern?",
       "number": 302,
       "answers": [
+        {
+          "text": "Bisam",
+          "correct": false
+        },
+        {
+          "text": "Nutria",
+          "correct": false
+        },
         {
           "text": "Enok",
           "correct": true
@@ -5864,6 +6037,18 @@
       "number": 310,
       "answers": [
         {
+          "text": "Die Schadensschwelle wurde überschritten. Ich darf in den nächsten zwei Monaten maximal einen Wolf in meinem Revier erlegen.",
+          "correct": false
+        },
+        {
+          "text": "Die zuständige untere Naturschutzbehörde gibt einen Wolf per Ausnahmegenehmigung zum Abschuss frei, ich darf mich ohne weiteres an der Entnahme beteiligen.",
+          "correct": false
+        },
+        {
+          "text": "Als Jagdausübungsberechtigter bin ich den in meinem Revier geschädigten Nutztierhaltern gegenüber wildschadensersatzpflichtig.",
+          "correct": false
+        },
+        {
           "text": "Die zuständige untere Naturschutzbehörde gibt einen Wolf per Ausnahmegenehmigung zum Abschuss frei, ich weigere mich an der Entnahme zu beteiligen, muss aber dulden, dass der Beauftragte des Landes in meinem Revier einem Wolf nachstellt und ihn erlegt.",
           "correct": true
         }
@@ -5876,6 +6061,18 @@
         {
           "text": "Ja, wenn es sich um einen Verkehrsunfall handelt und kein Tierarzt erreichbar ist.",
           "correct": true
+        },
+        {
+          "text": "Nein, unter keinen Umständen.",
+          "correct": false
+        },
+        {
+          "text": "Nein, dies darf nur der zuständige Amtsveterinär durchführen.",
+          "correct": false
+        },
+        {
+          "text": "Ja, auch wenn der Wolf nur leicht verletzt ist.",
+          "correct": false
         }
       ]
     },
@@ -5884,8 +6081,16 @@
       "number": 312,
       "answers": [
         {
+          "text": "Schlehe",
+          "correct": false
+        },
+        {
           "text": "Eichel",
           "correct": true
+        },
+        {
+          "text": "Hagebutte",
+          "correct": false
         }
       ]
     },
@@ -5896,6 +6101,14 @@
         {
           "text": "Eichen",
           "correct": true
+        },
+        {
+          "text": "Kiefern",
+          "correct": false
+        },
+        {
+          "text": "Linden",
+          "correct": false
         }
       ]
     },
@@ -5906,6 +6119,10 @@
         {
           "text": "Im Oktober/November",
           "correct": true
+        },
+        {
+          "text": "Im Januar/Februar",
+          "correct": false
         }
       ]
     },
@@ -5914,12 +6131,24 @@
       "number": 315,
       "answers": [
         {
+          "text": "Weidenröschen",
+          "correct": false
+        },
+        {
+          "text": "Erle",
+          "correct": false
+        },
+        {
           "text": "Brombeere",
           "correct": true
         },
         {
           "text": "Heidelbeere",
           "correct": true
+        },
+        {
+          "text": "Spätblühende Traubenkirsche",
+          "correct": false
         }
       ]
     },
@@ -5927,6 +6156,14 @@
       "question": "Welcher Baum liefert Mast für das Schalenwild?",
       "number": 316,
       "answers": [
+        {
+          "text": "Ahorn",
+          "correct": false
+        },
+        {
+          "text": "Linde",
+          "correct": false
+        },
         {
           "text": "Rosskastanie",
           "correct": true
@@ -5944,6 +6181,14 @@
         {
           "text": "Knöterich",
           "correct": true
+        },
+        {
+          "text": "Windhalm",
+          "correct": false
+        },
+        {
+          "text": "Schachtelhalm",
+          "correct": false
         }
       ]
     },
@@ -5952,8 +6197,16 @@
       "number": 318,
       "answers": [
         {
+          "text": "Dachs",
+          "correct": false
+        },
+        {
           "text": "Rebhuhn",
           "correct": true
+        },
+        {
+          "text": "Rehwild",
+          "correct": false
         }
       ]
     },
@@ -7916,6 +8169,14 @@
         {
           "text": "Unmittelbar anschließender Anstand (Ansitz) am Bau",
           "correct": true
+        },
+        {
+          "text": "Trampeln über dem Bau",
+          "correct": false
+        },
+        {
+          "text": "Abklopfen der Röhren",
+          "correct": false
         }
       ]
     },
@@ -7924,8 +8185,16 @@
       "number": 416,
       "answers": [
         {
+          "text": "Bei strengem Frost",
+          "correct": false
+        },
+        {
           "text": "Bei Wind und tropfendem Nassschnee",
           "correct": true
+        },
+        {
+          "text": "Bei sonnigem Wetter",
+          "correct": false
         }
       ]
     },
@@ -7934,8 +8203,20 @@
       "number": 417,
       "answers": [
         {
+          "text": "Ansitz",
+          "correct": false
+        },
+        {
           "text": "Ausneuen",
           "correct": true
+        },
+        {
+          "text": "Treibjagd",
+          "correct": false
+        },
+        {
+          "text": "Stöbern",
+          "correct": false
         }
       ]
     },
@@ -7948,8 +8229,16 @@
           "correct": true
         },
         {
+          "text": "Treibjagd",
+          "correct": false
+        },
+        {
           "text": "Ansitz beim Mondschein an Kirrplätzen",
           "correct": true
+        },
+        {
+          "text": "Drückjagd",
+          "correct": false
         }
       ]
     },
@@ -7960,6 +8249,14 @@
         {
           "text": "die Frettierjagd",
           "correct": true
+        },
+        {
+          "text": "die Drückjagd",
+          "correct": false
+        },
+        {
+          "text": "die Kesseljagd",
+          "correct": false
         }
       ]
     },
@@ -7968,8 +8265,16 @@
       "number": 420,
       "answers": [
         {
+          "text": "Pflegemaßnahmen einer Wildwiese",
+          "correct": false
+        },
+        {
           "text": "Baujagd mit Frettchen auf Wildkaninchen",
           "correct": true
+        },
+        {
+          "text": "Die Verwendung von Netzen bei der Baujagd",
+          "correct": false
         }
       ]
     },
@@ -7978,8 +8283,16 @@
       "number": 421,
       "answers": [
         {
+          "text": "Füchse",
+          "correct": false
+        },
+        {
           "text": "Wildkaninchen",
           "correct": true
+        },
+        {
+          "text": "Feldhasen",
+          "correct": false
         }
       ]
     },
@@ -7992,8 +8305,12 @@
           "correct": true
         },
         {
+          "text": "Ringeltaube",
+          "correct": false
+        },
+        {
           "text": "Hermelin",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Fasan",
