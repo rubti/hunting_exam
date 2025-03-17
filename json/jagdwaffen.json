@@ -1124,7 +1124,7 @@
         },
         {
           "text": "Waffen vorübergehend zur nicht gewerbsmäßigen sicheren Aufbewahrung, wenn der Andere selbst keine waffenrechtliche Erlaubnis besitzt.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Auf dem Schießstand: Waffen ja, Munition nur zum sofortigen Verbrauch.",
@@ -1132,7 +1132,7 @@
         },
         {
           "text": "Zur Beförderung, wenn der Andere selbst eine WBK besitzt.",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1658,11 +1658,11 @@
         },
         {
           "text": "Waffenbesitzkarte in Verbindung mit Sportschützenausweis",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Waffenschein oder behördliche Ausnahmegenehmigung",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1888,7 +1888,7 @@
         },
         {
           "text": "Bis ich gefahrlos dem Angriff ausweichen kann, wenn ich dadurch keine wesentlichen Rechtsgüter aufgeben muss.",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Auf jeden Fall bis die Polizei eintrifft.",
@@ -2203,7 +2203,7 @@
       ]
     },
     {
-      "question": "Bei der Abwehr eines nicht auf Kommando angreifenden herrenlosen Hundes handeln",
+      "question": "Bei der Abwehr eines nicht auf Kommando angreifenden herrenlosen Hundes handeln Sie...",
       "number": 124,
       "answers": [
         {
@@ -2215,7 +2215,7 @@
           "correct": true
         },
         {
-          "text": "in Notstand.",
+          "text": "in Nothilfe.",
           "correct": false
         }
       ]

@@ -131,7 +131,7 @@
       "number": 8,
       "answers": [
         {
-          "text": "",
+          "text": "ja",
           "correct": false
         },
         {
@@ -334,11 +334,11 @@
         },
         {
           "text": "nur mit Genehmigung des Jagdpächters",
-          "correct": true
+          "correct": false
         },
         {
           "text": "nein, weil es verboten ist, streng geschützte Arten an ihren Brutstätten durch Fotografieren zu stören",
-          "correct": false
+          "correct": true
         }
       ]
     },

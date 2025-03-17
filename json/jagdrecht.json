@@ -350,7 +350,7 @@
         },
         {
           "text": "Ziegenmelker",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Höckerschwan",
@@ -376,7 +376,7 @@
         },
         {
           "text": "Hohltaube",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Kormoran",
