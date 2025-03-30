@@ -5676,7 +5676,7 @@
         },
         {
           "text": "Am Boden im Dornengestrüpp",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Auf Bäumen in Dickungen",
@@ -5766,7 +5766,7 @@
       "answers": [
         {
           "text": "Sie finden sich am Übernachtungsplatz ein, den alle Mitglieder der Kette kennen",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Sie geben ihren Standort durch Lockrufe kund und laufen zusammen",
@@ -5788,11 +5788,11 @@
         },
         {
           "text": "Sekret aus dem Kropf der Altvögel (Kropfmilch)",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Insekten",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -6205,7 +6205,7 @@
       ]
     },
     {
-      "question": "311. Unterscheidet sich die männliche Waldschnepfe äußerlich von der weiblichen?",
+      "question": "Unterscheidet sich die männliche Waldschnepfe äußerlich von der weiblichen?",
       "number": 311,
       "answers": [
         {
@@ -6219,7 +6219,7 @@
       ]
     },
     {
-      "question": "312. Welchen Lebensraum bevorzugen die Waldschnepfen?",
+      "question": "Welchen Lebensraum bevorzugen die Waldschnepfen?",
       "number": 312,
       "answers": [
         {
@@ -6241,7 +6241,7 @@
       ]
     },
     {
-      "question": "313. Mitte Mai finden Sie in einem Waldrevier am Boden in einer kreisrund ausgeformten Mulde vier braun gefleckte Eier. Von welcher der nachgenannten Vogelarten stammt dieses Gelege?",
+      "question": "Mitte Mai finden Sie in einem Waldrevier am Boden in einer kreisrund ausgeformten Mulde vier braun gefleckte Eier. Von welcher der nachgenannten Vogelarten stammt dieses Gelege?",
       "number": 313,
       "answers": [
         {
@@ -6263,7 +6263,7 @@
       ]
     },
     {
-      "question": "314. Bei welcher Federwildart besteht das Gelege in der Regel aus vier Eiern?",
+      "question": "Bei welcher Federwildart besteht das Gelege in der Regel aus vier Eiern?",
       "number": 314,
       "answers": [
         {
@@ -6281,7 +6281,7 @@
       ]
     },
     {
-      "question": "315. Sie haben bei einer Treibjagd eine Waldschnepfe erlegt. Wo suchen Sie die Malerfedern?",
+      "question": "Sie haben bei einer Treibjagd eine Waldschnepfe erlegt. Wo suchen Sie die Malerfedern?",
       "number": 315,
       "answers": [
         {
@@ -6564,7 +6564,7 @@
         },
         {
           "text": "Möwen können nicht mit dem ganzen Körper tauchen",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Lachmöwen suchen ihre Nahrung nur auf dem Wasser",
@@ -7248,7 +7248,7 @@
         },
         {
           "text": "Turmfalke",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Sperber",
@@ -7337,7 +7337,7 @@
       ]
     },
     {
-      "question": "367. Wovon ernährt sich der Sperber hauptsächlich?",
+      "question": "Wovon ernährt sich der Sperber hauptsächlich?",
       "number": 367,
       "answers": [
         {
@@ -7359,7 +7359,7 @@
       ]
     },
     {
-      "question": "368. Welcher der nachgenannten Greifvögel schlägt seine Beute sowohl in der Luft als auch am Boden?",
+      "question": "Welcher der nachgenannten Greifvögel schlägt seine Beute sowohl in der Luft als auch am Boden?",
       "number": 368,
       "answers": [
         {
@@ -7381,7 +7381,7 @@
       ]
     },
     {
-      "question": "369. Für welche der nachgenannten Greifvögel ist Aas eine wesentliche Ernährungsgrundlage?",
+      "question": "Für welche der nachgenannten Greifvögel ist Aas eine wesentliche Ernährungsgrundlage?",
       "number": 369,
       "answers": [
         {
@@ -7403,16 +7403,16 @@
       ]
     },
     {
-      "question": "370. Ein Greifvogel blockt auf einem Zaunpfahl im freien Feld und stößt von dieser Ansitzwarte nach Mäusen. Um welchen Greifvogel handelt es sich?",
+      "question": "Ein Greifvogel blockt auf einem Zaunpfahl im freien Feld und stößt von dieser Ansitzwarte nach Mäusen. Um welchen Greifvogel handelt es sich?",
       "number": 370,
       "answers": [
         {
           "text": "Wanderfalke",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Mäusebussard",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Habicht",
@@ -7421,7 +7421,7 @@
       ]
     },
     {
-      "question": "371. Welche Greifvogelgattung zählt ausschließlich zu den Bodenbrütern?",
+      "question": "Welche Greifvogelgattung zählt ausschließlich zu den Bodenbrütern?",
       "number": 371,
       "answers": [
         {
@@ -7439,7 +7439,7 @@
       ]
     },
     {
-      "question": "372. Von welcher Vogelart stammt das Gewölle, in dem unverdaute Knochen und ganze Mäuseschädel enthalten sind?",
+      "question": "Von welcher Vogelart stammt das Gewölle, in dem unverdaute Knochen und ganze Mäuseschädel enthalten sind?",
       "number": 372,
       "answers": [
         {
@@ -7457,7 +7457,7 @@
       ]
     },
     {
-      "question": "373. Wovon ernährt sich der Wespenbussard hauptsächlich?",
+      "question": "Wovon ernährt sich der Wespenbussard hauptsächlich?",
       "number": 373,
       "answers": [
         {
@@ -7475,7 +7475,7 @@
       ]
     },
     {
-      "question": "374. Wann im Jahr kann man in Niedersachsen Wespenbussarde sehen?",
+      "question": "Wann im Jahr kann man in Niedersachsen Wespenbussarde sehen?",
       "number": 374,
       "answers": [
         {
@@ -7493,7 +7493,7 @@
       ]
     },
     {
-      "question": "375. Welcher Greifvogel begrünt seinen Horst?",
+      "question": "Welcher Greifvogel begrünt seinen Horst?",
       "number": 375,
       "answers": [
         {
@@ -7511,7 +7511,7 @@
       ]
     },
     {
-      "question": "376. Welche Greifvogel sind Bodenbrüter?",
+      "question": "Welche Greifvogel sind Bodenbrüter?",
       "number": 376,
       "answers": [
         {
@@ -7772,11 +7772,11 @@
       "answers": [
         {
           "text": "Die Nebelkrähe stammt aus einer Kreuzung zwischen Saatkrähe und Rabenkrähe",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Die Rabenkrähe ernährt sich als Allesfresser auch von Vogelgelegen, nestjungen Vögeln,",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Die Rabenkrähe meidet städtische Siedlungen",
@@ -7824,7 +7824,7 @@
         },
         {
           "text": "Sie brütet einzelpaarweise, oft auf der Geest",
-          "correct": true
+          "correct": false
         }
       ]
     },
@@ -8229,7 +8229,7 @@
       ]
     },
     {
-      "question": "Woran ist im Revier die Anwesenheit des seltenen Neuntoters zu erkennen, auch wenn der Vogel selbst nicht zu sehen ist?",
+      "question": "Woran ist im Revier die Anwesenheit des seltenen Neuntöters zu erkennen, auch wenn der Vogel selbst nicht zu sehen ist?",
       "number": 415,
       "answers": [
         {
