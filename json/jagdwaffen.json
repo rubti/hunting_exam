@@ -509,7 +509,11 @@
           "correct": true
         },
         {
-          "text": "Nein.",
+          "text": "Nein, nur Personen über 18 Jahren",
+          "correct": false
+        },
+        {
+          "text": "Nein, nur Inhabern einer Waffenbesitzkarte, eines Jagd- oder Munitionserwerbsscheines.",
           "correct": false
         }
       ]
@@ -587,7 +591,7 @@
       ]
     },
     {
-      "question": "Mit welcher Munition der Bezeichnung ,,9 mm Luger“ ist der Umgang verboten?",
+      "question": "Mit welcher Munition der Bezeichnung „9 mm Luger“ ist der Umgang verboten?",
       "number": 34,
       "answers": [
         {
@@ -687,7 +691,7 @@
       ]
     },
     {
-      "question": "Was versteht man unter dem Begriff „,Double-Action-Pistole“?",
+      "question": "Was versteht man unter dem Begriff „Double-Action-Pistole“?",
       "number": 40,
       "answers": [
         {
@@ -3439,7 +3443,7 @@
       ]
     },
     {
-      "question": "Was bedeutet die Bezeichnung „Vo“?",
+      "question": "Was bedeutet die Bezeichnung „V0“?",
       "number": 192,
       "answers": [
         {
@@ -3448,7 +3452,7 @@
         },
         {
           "text": "Die Geschossgeschwindigkeit reduziert sich auf Null.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Die Geschossgeschwindigkeit beim Verlassen der Mündung.",
@@ -3457,7 +3461,7 @@
       ]
     },
     {
-      "question": "Was bedeutet der ballistische Begriff „,V50“?",
+      "question": "Was bedeutet der ballistische Begriff „V50“?",
       "number": 193,
       "answers": [
         {
@@ -3768,11 +3772,11 @@
       "answers": [
         {
           "text": "Das verbrannte Pulver erzeugt den Knall im Inneren der Schusswaffe.",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Durch die Expansion der vor dem Geschoss komprimierten Luft bei überschallschnellen Geschossen.",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Das nicht vollständig verbrannte Pulvergas vermischt sich mit Sauerstoff und bewirkt den Knall.",
@@ -3813,7 +3817,7 @@
       ]
     },
     {
-      "question": "Nach Erteilung Ihres Jahresjagdscheins wollen Sie als Erstausrüstung einen Drilling, eine Bockbuchsflinte und eine Doppelflinte erwerben. Welches Dokument müssen Sie beim Kauf vorlegen?",
+      "question": "Nach Erteilung Ihres Jahresjagdscheins wollen Sie als Erstausrüstung einen Drilling, eine Bockbüchsflinte und eine Doppelflinte erwerben. Welches Dokument müssen Sie beim Kauf vorlegen?",
       "number": 213,
       "answers": [
         {
@@ -4280,11 +4284,11 @@
         },
         {
           "text": "Ja, sofern das Geschoß das Grundstück nicht verlässt",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Nein",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -4315,11 +4319,11 @@
       "number": 240,
       "answers": [
         {
-          "text": "Ca. 3 500 m",
+          "text": "Ca. 3500 m",
           "correct": false
         },
         {
-          "text": "Ca. 1 500 m",
+          "text": "Ca. 1500 m",
           "correct": true
         },
         {
@@ -4346,11 +4350,11 @@
         },
         {
           "text": "Durchschlagskraft der Geschosse",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Maßhaltigkeit",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -4533,15 +4537,15 @@
       "number": 251,
       "answers": [
         {
-          "text": "5,6 x 50 Magnum, 3,24 g, 1 285 Joule",
+          "text": "Kaliber: 5,6 x 50 Magnum, Gewicht: 3,24 g, E100: 1 285 Joule",
           "correct": false
         },
         {
-          "text": "7 x 57, 9,00 g, 2 020 Joule",
+          "text": "Kaliber: 7 x 57, Gewicht 9,00 g, E100: 2 020 Joule",
           "correct": true
         },
         {
-          "text": ".222 Remington, 3,24 g, 1 001 Joule",
+          "text": "Kaliber: .222 Remington, Gewicht 3,24 g, E100: 1 001 Joule",
           "correct": false
         }
       ]
@@ -4560,7 +4564,7 @@
         },
         {
           "text": "5,6 x 50 Magnum, 3,24 g, 1 354 Joule",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -4949,7 +4953,7 @@
       ]
     },
     {
-      "question": "275. Wann müssen nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) bei einem Kesseltreiben im Feld die Flintenläufe entladen werden?",
+      "question": "Wann müssen nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) bei einem Kesseltreiben im Feld die Flintenläufe entladen werden?",
       "number": 275,
       "answers": [
         {
@@ -4967,7 +4971,7 @@
       ]
     },
     {
-      "question": "276. Bei welchen der nachgenannten Gefahrenlagen sind nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) die Läufe der Schusswaffen zu entladen?",
+      "question": "Bei welchen der nachgenannten Gefahrenlagen sind nach der Unfallverhütungsvorschrift Jagd (VSG 4.4) die Läufe der Schusswaffen zu entladen?",
       "number": 276,
       "answers": [
         {
@@ -4989,7 +4993,7 @@
       ]
     },
     {
-      "question": "277. Was müssen Sie tun, wenn Sie einen Hochsitz besteigen wollen und Ihre Waffe geladen ist?",
+      "question": "Was müssen Sie tun, wenn Sie einen Hochsitz besteigen wollen und Ihre Waffe geladen ist?",
       "number": 277,
       "answers": [
         {
@@ -5011,7 +5015,7 @@
       ]
     },
     {
-      "question": "278. Welche Vorschrift enthält die Unfallverhütungsvorschrift Jagd (VSG 4.4) über das Schießen mit Büchsen- oder Flintenlaufgeschossen bei Drückjagden in das Treiben hinein?",
+      "question": "Welche Vorschrift enthält die Unfallverhütungsvorschrift Jagd (VSG 4.4) über das Schießen mit Büchsen- oder Flintenlaufgeschossen bei Drückjagden in das Treiben hinein?",
       "number": 278,
       "answers": [
         {
@@ -5029,7 +5033,7 @@
       ]
     },
     {
-      "question": "279. Kann ein Hindernis in einem Gewehrlauf bei der Schussabgabe gefährlich werden?",
+      "question": "Kann ein Hindernis in einem Gewehrlauf bei der Schussabgabe gefährlich werden?",
       "number": 279,
       "answers": [
         {
@@ -5047,7 +5051,7 @@
       ]
     },
     {
-      "question": "280. Worauf ist zu achten, wenn bei gefrorenem Boden mit der Flinte gejagt wird?",
+      "question": "Worauf ist zu achten, wenn bei gefrorenem Boden mit der Flinte gejagt wird?",
       "number": 280,
       "answers": [
         {
@@ -5065,7 +5069,7 @@
       ]
     },
     {
-      "question": "281. Wie ist eine Repetierbüchse beim Laden und Entladen stets zu halten?",
+      "question": "Wie ist eine Repetierbüchse beim Laden und Entladen stets zu halten?",
       "number": 281,
       "answers": [
         {
@@ -5083,7 +5087,7 @@
       ]
     },
     {
-      "question": "282. Mit wie viel Patronen darf die Mehrladeeinrichtung einer Repetierbüchse auf dem Schießstand (kein Schießkino!) geladen werden?",
+      "question": "Mit wie viel Patronen darf die Mehrladeeinrichtung einer Repetierbüchse auf dem Schießstand (kein Schießkino!) geladen werden?",
       "number": 282,
       "answers": [
         {
@@ -5230,7 +5234,7 @@
         },
         {
           "text": "Lauf",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Magazin",
@@ -5476,6 +5480,10 @@
       "question": "Was versteht man in der Waffentechnik unter einer „Zylinderbohrung“?",
       "number": 303,
       "answers": [
+        {
+          "text": "die Patronenlager-Bohrungen in der Trommel eines Revolvers",
+          "correct": false
+        },
         {
           "text": "einen Büchsenlauf ohne Felder und Züge",
           "correct": false
@@ -6185,6 +6193,10 @@
         {
           "text": "Zum Auswerfen der leeren Patronenhülsen",
           "correct": true
+        },
+        {
+          "text": "Zum Entspannen der Flinte",
+          "correct": false
         }
       ]
     },
@@ -6396,7 +6408,7 @@
         },
         {
           "text": "durch Verwendung von zäh-elastischem Laufwerkstoff",
-          "correct": true
+          "correct": false
         },
         {
           "text": "durch die Gestaltung der Würgebohrung",
@@ -6565,7 +6577,7 @@
       ]
     },
     {
-      "question": "Welche Laufzusammenstellung und .Anordnung hat eine Buchsflinte?",
+      "question": "Welche Laufzusammenstellung und Anordnung hat eine Buchsflinte?",
       "number": 363,
       "answers": [
         {
@@ -6578,7 +6590,7 @@
         },
         {
           "text": "1 Kugel- und 1 Schrotlauf liegen übereinander",
-          "correct": true
+          "correct": false
         }
       ]
     },
@@ -7081,7 +7093,7 @@
       ]
     },
     {
-      "question": "Für Kipplaufgewehre sind u. a. folgende Patronen des Kalibers 7 x 57 R im Handel:",
+      "question": "Für Kipplaufgewehre sind u. a. folgende Patronen des Kalibers 7 x 57 R im Handel: 1. Teilmantel-Rundkopf, Geschossgewicht 9,00 g, E100 2.020 Joule. 2. Kegelspitz, Geschossgewicht 10, 50 g, E100 2.570 Joule. Können die beiden Patronen gefahrlos aus einem amtlich beschossenen Drilling mit dem Kugelkaliber 7 x 57 R verschossen werden?",
       "number": 393,
       "answers": [
         {
@@ -7099,15 +7111,15 @@
       "number": 394,
       "answers": [
         {
-          "text": "7 x 57",
+          "text": "7 x 57, Kegelspitz, 8,00g",
           "correct": true
         },
         {
-          "text": "7 x 57 R",
+          "text": "7 x 57 R, H-Mantel, 11,20g",
           "correct": false
         },
         {
-          "text": "7 x 64",
+          "text": "7 x 64, Teilmantel-Spitz, 10,00g",
           "correct": false
         }
       ]
@@ -7307,15 +7319,15 @@
       "number": 406,
       "answers": [
         {
-          "text": "6,5 x 57 R",
+          "text": "6,5 x 57 R, Teilmantel-Spitz, Geschossgewicht 6g",
           "correct": true
         },
         {
-          "text": "7 x 57 R",
+          "text": "7 x 57 R, H-Mantel-Kupferholspitz, Geschossgewicht 11,2g",
           "correct": false
         },
         {
-          "text": ".308 Winchester, Teilmantel-Spitz, Geschossgewicht 6 g H-Mantel-Kupferhohlspitz, Geschossgewicht 11,2 g Brenneke TUG, Geschossgewicht 11,7 g",
+          "text": ".308 Winchester, Brenneke TUG, Geschossgewicht 11,7g",
           "correct": false
         }
       ]
@@ -7851,7 +7863,7 @@
       ]
     },
     {
-      "question": "436. Was sind blanke Waffen?",
+      "question": "Was sind blanke Waffen?",
       "number": 436,
       "answers": [
         {
@@ -7869,7 +7881,7 @@
       ]
     },
     {
-      "question": "437. Was ist eine „kalte Waffe“?",
+      "question": "Was ist eine „kalte Waffe“?",
       "number": 437,
       "answers": [
         {
@@ -7887,7 +7899,7 @@
       ]
     },
     {
-      "question": "438. Ein Messer, dessen Klinge seitlich hervorschnellt und hierdurch festgestellt werden kann,",
+      "question": "Ein Messer, dessen Klinge seitlich hervorschnellt und hierdurch festgestellt werden kann,",
       "number": 438,
       "answers": [
         {
@@ -8364,7 +8376,7 @@
         },
         {
           "text": "H-Mantel-Geschoss mit verdeckter Hohlspitze",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Vollmantel-Geschoss",
@@ -8701,7 +8713,7 @@
       ]
     },
     {
-      "question": "483. Wann wird eine Büchse eingestochen?",
+      "question": "Wann wird eine Büchse eingestochen?",
       "number": 483,
       "answers": [
         {
@@ -8719,7 +8731,7 @@
       ]
     },
     {
-      "question": "484. Wozu führt ein \"hartes\" Auflegen der Büchse in der Nähe der Laufmündung beim Schuss?",
+      "question": "Wozu führt ein \"hartes\" Auflegen der Büchse in der Nähe der Laufmündung beim Schuss?",
       "number": 484,
       "answers": [
         {
@@ -8737,7 +8749,7 @@
       ]
     },
     {
-      "question": "485. Zu welchem Schussergebnis führt das Abkommen bei offener Visierung mit Feinkorn?",
+      "question": "Zu welchem Schussergebnis führt das Abkommen bei offener Visierung mit Feinkorn?",
       "number": 485,
       "answers": [
         {
@@ -8755,7 +8767,7 @@
       ]
     },
     {
-      "question": "486. Wo sitzt der Schuss, wenn bei offener Visierung das Korn links geklemmt wird?",
+      "question": "Wo sitzt der Schuss, wenn bei offener Visierung das Korn links geklemmt wird?",
       "number": 486,
       "answers": [
         {
@@ -8769,7 +8781,7 @@
       ]
     },
     {
-      "question": "487. Wo sitzt der Schuss bei linksverkantetem Gewehr?",
+      "question": "Wo sitzt der Schuss bei linksverkantetem Gewehr?",
       "number": 487,
       "answers": [
         {
@@ -8787,7 +8799,7 @@
       ]
     },
     {
-      "question": "488. Beim Anschießen einer Büchse mit Zielfernrohr sitzt der Schuss zu hoch. In welche Richtung muss der Zielstachel zur Korrektur verstellt werden?",
+      "question": "Beim Anschießen einer Büchse mit Zielfernrohr sitzt der Schuss zu hoch. In welche Richtung muss der Zielstachel zur Korrektur verstellt werden?",
       "number": 488,
       "answers": [
         {
@@ -8801,7 +8813,7 @@
       ]
     },
     {
-      "question": "489. Beim Anschießen einer Büchse mit Zielfernrohr sitzt der Schuss zu tief. Müssen Sie zur Korrektur den Zielstachel nach oben oder nach unten verstellen?",
+      "question": "Beim Anschießen einer Büchse mit Zielfernrohr sitzt der Schuss zu tief. Müssen Sie zur Korrektur den Zielstachel nach oben oder nach unten verstellen?",
       "number": 489,
       "answers": [
         {
@@ -8815,7 +8827,7 @@
       ]
     },
     {
-      "question": "490. Beim Kugelschuss durch das Zielfernrohr sitzt der Schuss zu weit rechts. In welche Richtung muss der Zielstachel zur Korrektur verstellt werden?",
+      "question": "Beim Kugelschuss durch das Zielfernrohr sitzt der Schuss zu weit rechts. In welche Richtung muss der Zielstachel zur Korrektur verstellt werden?",
       "number": 490,
       "answers": [
         {
@@ -8829,7 +8841,7 @@
       ]
     },
     {
-      "question": "491. Was versteht man bei der Abgabe eines Büchsenschusses unter Abkommen?",
+      "question": "Was versteht man bei der Abgabe eines Büchsenschusses unter Abkommen?",
       "number": 491,
       "answers": [
         {
@@ -8847,7 +8859,7 @@
       ]
     },
     {
-      "question": "492. Welchen Lauf einer handelsüblichen Doppelbüchse löst der vordere Abzug aus?",
+      "question": "Welchen Lauf einer handelsüblichen Doppelbüchse löst der vordere Abzug aus?",
       "number": 492,
       "answers": [
         {
@@ -8861,7 +8873,7 @@
       ]
     },
     {
-      "question": "493. Wie verhalten Sie sich bei einer Funktionsstörung an der Selbstladepistole?",
+      "question": "Wie verhalten Sie sich bei einer Funktionsstörung an der Selbstladepistole?",
       "number": 493,
       "answers": [
         {
@@ -8883,19 +8895,19 @@
       "number": 494,
       "answers": [
         {
-          "text": "7 x 57 R 9,0 g",
+          "text": "7 x 57 R, Geschossgewicht 9,0 g, V100 670 m/s, E100 2.800 Joule, Teilmantel-Rundkopf",
           "correct": true
         },
         {
-          "text": "9,3 x 64 19,0 g",
+          "text": "9,3 x 64, Geschossgewicht 19,0 g, V100 720 m/s, E100 4.925 Joule, Original Brenneke-TUG",
           "correct": false
         },
         {
-          "text": "Kal. 12",
+          "text": "Kal. 12, Flintenlaufgeschoss Brenneke",
           "correct": false
         },
         {
-          "text": "30.06 11,0 g",
+          "text": "30.06, Geschossgewicht 11,0 g, Vollmantel",
           "correct": false
         }
       ]
@@ -8905,11 +8917,11 @@
       "number": 495,
       "answers": [
         {
-          "text": "6,5 x 57 TMS",
+          "text": "6,5 x 57, Geschossart TMS, Geschossgewicht 6,0g, V100: 880 m/s, E100: 2325 Joule",
           "correct": true
         },
         {
-          "text": "9,3 x 74 R TM",
+          "text": "9,3 x 74 R, Geschossart TM, Geschossgewicht 18,5g, V100: 605 m/s, E100: 3384 Joule",
           "correct": false
         }
       ]
